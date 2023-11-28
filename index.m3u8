@@ -1,8 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6gyGAs07jVehm4ZPfwataPfOk7eJC5o6g7yWFHmLtw6YZ9RzszwOfLngQqrobb1hOMMpiz7XWg",  Xalazi Tv Weather Channel
-https://ythls-v2.onrender.com/channel/UCl8TS16xV5Xz21V2owXV96A.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Dmx8CTHMSntnlRexa9jyB_lFCcP0B43hAe0DhWtknSXRrfcvrTjTFDky97MgeFON10TcaoQcQlo", +Favela TV
 https://ythls-v2.onrender.com/channel/UCkgOz-my1nu6G4hKKZTf-UA.m3u8
 
@@ -3660,9 +3657,6 @@ https://ythls-v2.onrender.com/video/HpNrJjA4et0.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKY2hRHp14hZZaGV9tmTVLOklT-4XYIT69sLqiCP0w", GamePlay Adventure
 https://ythls-v2.onrender.com/channel/UCZSKX0Sp81Btp0taUTS7CAA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/tSa0LOUmL4X5uAwT68EF1--WJK_ImJjjgxhLLpnmN80TkKSV7uJExUkxs0TXFdtXPN8AZIjIhQ", GameSpot
-https://ythls-v2.onrender.com/video/qozx2FeSaeY.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZVJWZ43QA1oXQLRy783HiA3s0mI-hLL1yRMv5iHRx8gvdrUNRIOd5zWvqIvUvIkU_ROIgBS8u8U", Garena Call of Duty Mobile Indonesia
 https://ythls-v2.onrender.com/video/EZJcbqojbnA.m3u8
 
@@ -3760,22 +3754,7 @@ https://ythls-v2.onrender.com/video/hnEGkagGciw.m3u8
 https://ythls-v2.onrender.com/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8", GMA  Network
-https://ythls-v2.onrender.com/video/NdOD2fzf7PM.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8", GMA  Network
-https://ythls-v2.onrender.com/video/At7-PSHF5E0.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8", GMA  Network
 https://ythls-v2.onrender.com/video/EdB6eX8nZXA.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8", GMA  Network
-https://ythls-v2.onrender.com/video/mInr1porz6Y.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8", GMA  Network
-https://ythls-v2.onrender.com/video/qUJxOy_jalE.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8", GMA  Network
-https://ythls-v2.onrender.com/video/E_XKrCAfKs4.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/azfpRXk7nP4Sv7JhFG3i1_zdd9Nzi5QME2Drr6ZZ2Ft8Awq8G3gsImK2JmqseueLjBpheQufZg", GMA Integrated News
 https://ythls-v2.onrender.com/channel/UCqYw-CTd1dU2yGI71sEyqNw.m3u8
@@ -4619,9 +4598,6 @@ https://ythls-v2.onrender.com/video/FhiNJgZ63ao.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/CxrI7xXKD8E-xTy-BsnunKxdEjh6y2txnMc5ErmFMY0DvJUDqh2sly42NF2zOGsgKDqPIRTCOg", JazBaz Philippines
 https://ythls-v2.onrender.com/channel/UC0djAWwMXP22wzocdJR9dWw.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/CxrI7xXKD8E-xTy-BsnunKxdEjh6y2txnMc5ErmFMY0DvJUDqh2sly42NF2zOGsgKDqPIRTCOg", JazBaz Philippines
-https://ythls-v2.onrender.com/video/NXI6Ql6Huio.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/-N53E5Gi-iRxw_8mJ0xidWfFVwSdFYfNzJqd62cfT8WP53K5W_Bq4jmNDGjng93vCZJuMXc-KQ", Jester Lynn
 https://ythls-v2.onrender.com/channel/UCVLsaCnEWsbRPEm36p4jAVQ.m3u8
@@ -10925,6 +10901,9 @@ https://ythls-v2.onrender.com/channel/UCQ36NJ8-XNhBDvSSsh8gS2Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQTchkUy0fZMpChSlW5SRAKFNK45BmZ3BTMMTpj5g", Władysławowo Chicago
 https://ythls-v2.onrender.com/channel/UCr92G8hfLAw8eBGf5HFCE8Q.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6gyGAs07jVehm4ZPfwataPfOk7eJC5o6g7yWFHmLtw6YZ9RzszwOfLngQqrobb1hOMMpiz7XWg", Xalazi Tv Weather Channel
+https://ythls-v2.onrender.com/channel/UCl8TS16xV5Xz21V2owXV96A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/zuFkGwiz2_EyvDszNdgHkiYNW9RJI3n2sTvGOxvWY0_8FgdO2-EkqXVTYExbzsUYYEIteS8P5g", Xorazm NET
 https://ythls-v2.onrender.com/channel/UCbJ_jxOBRTz6MLE2b3EfyLQ.m3u8
