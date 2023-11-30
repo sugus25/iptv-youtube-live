@@ -471,9 +471,6 @@ https://ythls-v2.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl", Al Jazeera English
 https://ythls-v2.onrender.com/video/gCNeDWCI0vo.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Al Jazeera Mubasher قناة الجزيرة مباشر
-https://ythls-v2.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VtNsH4R3StlgJ0sbFgY68Zzt8kXGnF39t_6rPmJDw1qpfB6h5JtAAAmvwgIGgmDi-9buOiTS", Al Mashhad المشهد
 https://ythls-v2.onrender.com/channel/UCWnBTuzUUDpKhJPGuDQMynA.m3u8
 
@@ -539,6 +536,9 @@ https://ythls-v2.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LViWsQpkUN7p22xcW5kPzWai-HzWlaszpsEP3jQjnIyXi2G_gaZz7zosE1_vNOPrrdvzKYEryA", AlJazeera Arabic  قناة الجزيرة
 https://ythls-v2.onrender.com/video/bNyUyrR0PHo.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Aljazeera Mubasher
+https://ythls-v2.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Aljazeera Mubasher
 https://ythls-v2.onrender.com/video/mJdhDuweBHM.m3u8
@@ -1337,12 +1337,6 @@ https://ythls-v2.onrender.com/channel/UCYqAIu5pfb2adFmJLlGzsBw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/g5TPBQAzqlNY-msB_hDXK0gRhAjNr8tunekL2VrCliFdCsVEJoQAk3NhFSE5PGa3fl-YaFtNgw", BOL News
 https://ythls-v2.onrender.com/channel/UCz2yxQJZgiB_5elTzqV7FiQ.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/TM7sGM_ZyOYKcsu-H_aNsrBfr1zkuHtvbRCftT8bWtujv-6tzHVutqHGrm2n6zBJodQzHb8v", BOL News
-https://ythls-v2.onrender.com/video/eB2s3lqktWc.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/g5TPBQAzqlNY-msB_hDXK0gRhAjNr8tunekL2VrCliFdCsVEJoQAk3NhFSE5PGa3fl-YaFtNgw", BOL News
-https://ythls-v2.onrender.com/video/uCGj_1fkKWE.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/wHdzr1AxFE4ODqY6hFV1iLBorAMmQ2TA4wlGHOTD5xfgI2MZJ1cDLijZmVuPauuI8Vboh3sR", Bolero Tuấn Chung
 https://ythls-v2.onrender.com/channel/UCgyDHoTJkApLJ55otDpnH3w.m3u8
@@ -2507,9 +2501,6 @@ https://ythls-v2.onrender.com/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbjkhiNpXncTV-z10iJXGALSRFdwS9RBH3BERLv9vQ", DW News
 https://ythls-v2.onrender.com/video/pqabxBKzZ6M.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ-6bF13qwcXVWJOgbxqZo4yumdTL-9_vL0vJTRiBA", DW News
-https://ythls-v2.onrender.com/video/dZvHWVKY-AQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYzTI4htu1uDLR6Ylr5M6_ig_uJVKSdVn4DwYyCxQ", DW на русском
 https://ythls-v2.onrender.com/channel/UCXoAjrdHFa2hEL3Ug8REC1w.m3u8
@@ -6723,7 +6714,7 @@ https://ythls-v2.onrender.com/video/xMd64BGSBcE.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/axSRvXl_NXt4SeWtQ2Rvhe6pyuLbLwqd5sGSKX-qT7uTj6rgScNaGYS1B-YbNotGKs7L26H-", PIANO RELAX 4K
 https://ythls-v2.onrender.com/video/kNAxvArPbKA.m3u8
 
-#EXTINF:-1 group-title="Nature" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJWuLvy7a7f8y8CYKDoyfD4b2ID0OX4zH-xhmjgn", Piano Relaxing
+#EXTINF:-1 group-title="Nature" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZ7aT_gu1l-mX9pUEDyiOWbJIAL5XbbZ0I5Nv6r", Piano Relaxing
 https://ythls-v2.onrender.com/channel/UCEiS8m8OLFI0REntmsTvzjA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRiXsKrQKaD9PO2BHGiQslX2E_MwcjscLEV6cN--A", Pica-Pau em Português
