@@ -2247,9 +2247,6 @@ https://ythls-v2.onrender.com/channel/UCI_zuiftc7tc2A4HGEEYRGg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pK9H2B2L9Z7Z6hliBkICEizzZrgAWy3CTZ9xP0jkcdCloZHgii24tNEcRpP5TZ0f6DLGrljRcA", Die Schnellstraße in Kobe, Japan
 https://ythls-v2.onrender.com/channel/UC8G4C-GpexZP7_AkuB37wHw.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZR_9w-alROLFeRq4NpAakGB1__G16jXII2tQKC8w", Die Vereinten Nationen
-https://ythls-v2.onrender.com/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZEVDiQbmZPnHAvaHab6Or8MrxKeE9TgBeL5c-J", Dievo Gailestingumo Sventove Adoration live
 https://ythls-v2.onrender.com/channel/UCTZSvAhDDrQvNiTZ5c7l1wA.m3u8
 
@@ -9368,6 +9365,9 @@ https://ythls-v2.onrender.com/channel/UCX9fOfRkHANZM8iFWhMSpNg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/nkD2hVcltwHoD5aUutS5LhQv5pXsE4EiWkCPajjLCDT5qjPhJf_drr5eAo0nCu8CAgiGGiRN", UNDVD
 https://ythls-v2.onrender.com/video/HP1GentqdGo.m3u8
+
+#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZR_9w-alROLFeRq4NpAakGB1__G16jXII2tQKC8w", United Nations
+https://ythls-v2.onrender.com/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gHT3p73NuyJRtPkmDY5676OIyZj5r62MRnmUPGk92jRfZ_HVN-hjbUzkp1QvQT0-8hnaDFazgLo", UNIVERSITAS LAMPUNG TV - LIVE
 https://ythls-v2.onrender.com/channel/UCmAXLEbwfM-vQtWNEVbcNLA.m3u8
