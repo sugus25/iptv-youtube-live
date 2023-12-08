@@ -10297,9 +10297,6 @@ https://ythls-v2.onrender.com/channel/UCqdR2j_W3QRyw5nc-0Ku-0A.m3u8
 https://ythls-v2.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w", 台視新聞 TTV NEWS
-https://ythls-v2.onrender.com/video/t_AVVEoDzkM.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w", 台視新聞 TTV NEWS
 https://ythls-v2.onrender.com/video/xL0ch83RAK8.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSAlk60RPVec_U5_e8sPwk4l096BQ44sSVHiBHF", 國會頻道
@@ -10382,6 +10379,12 @@ https://ythls-v2.onrender.com/video/S5WOGu2HSes.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaaNK7UVKUZq9YBxZPzP6xWzdW4LTGW6_0dKWmHWg", 東森新聞 CH51
 https://ythls-v2.onrender.com/channel/UCR3asjvr_WAaxwJYEDV_Bfw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaaNK7UVKUZq9YBxZPzP6xWzdW4LTGW6_0dKWmHWg", 東森新聞 CH51
+https://ythls-v2.onrender.com/video/E0zhe2gkXBs.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaaNK7UVKUZq9YBxZPzP6xWzdW4LTGW6_0dKWmHWg", 東森新聞 CH51
+https://ythls-v2.onrender.com/video/6gXbFIaRJt0.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbLBJ11jDjHrC_CysDQEteL-a_EI0nBxL3zEcyQQjUD4g", 松本空港
 https://ythls-v2.onrender.com/video/Kv6ErzPvgh0.m3u8
