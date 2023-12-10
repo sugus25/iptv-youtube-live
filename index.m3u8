@@ -102,7 +102,7 @@ https://ythls-v2.onrender.com/video/QNjYwCiJBIk.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/h7b6wa8_7dFMZRr9qeyD2qPPRbKDryKCI7ks0PKKpoS98IefZd5tl5Xm1pq-uRzDVmklfQKBWEw", 4K Video Nature - Focus Music
 https://ythls-v2.onrender.com/channel/UCNlfGuzOAKM1sycPuM_QTHg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZbyzuw8GUexv2b3vvSvktT6tDsZk8xDFTT1cG7yA", 4pm
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSBtXdl2uogpsfyv5tKCXTNlg0evXVeqtxvL4MwAQ", 4pm
 https://ythls-v2.onrender.com/channel/UCOTCvT8_hERSqkORg9qQgUQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZdDpkTkF5WnNGfRvOoUeQuyX_JOhY77487YfKXgg", 5 канал
@@ -456,9 +456,6 @@ https://ythls-v2.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl", Al Jazeera English
 https://ythls-v2.onrender.com/video/gCNeDWCI0vo.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Al Jazeera Mubasher قناة الجزيرة مباشر
-https://ythls-v2.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VtNsH4R3StlgJ0sbFgY68Zzt8kXGnF39t_6rPmJDw1qpfB6h5JtAAAmvwgIGgmDi-9buOiTS", Al Mashhad المشهد
 https://ythls-v2.onrender.com/channel/UCWnBTuzUUDpKhJPGuDQMynA.m3u8
 
@@ -521,6 +518,9 @@ https://ythls-v2.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LViWsQpkUN7p22xcW5kPzWai-HzWlaszpsEP3jQjnIyXi2G_gaZz7zosE1_vNOPrrdvzKYEryA", AlJazeera Arabic  قناة الجزيرة
 https://ythls-v2.onrender.com/video/bNyUyrR0PHo.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Aljazeera Mubasher
+https://ythls-v2.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Aljazeera Mubasher
 https://ythls-v2.onrender.com/video/mJdhDuweBHM.m3u8
@@ -2715,7 +2715,7 @@ https://ythls-v2.onrender.com/video/muBr6a3Xi2c.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/seLd_NtZ1IzUj8kjkaYr52a8Jg-fOVJ8V87sH042JaJH-MZbxHxEm-gQIaY2WkQ1JLO3J5tKsY0", Extra Live - بث مباشر
 https://ythls-v2.onrender.com/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZAaozjWRXhGJbf2p2o0LmB_MPzaFWm2PvcRpRgyQ", eXtra news Live Stream
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSkeUYXsF0e05WZCNlsdZlJFmHcyBv0kVoSLuiQnw", eXtra news Live Stream
 https://ythls-v2.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng", Extratv
