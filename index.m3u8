@@ -5376,7 +5376,7 @@ https://ythls-v2.onrender.com/channel/UC93d6xVFtk-BRO5D7P5Kdhg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbNRGC39WBzvaKP6B2_TlwF7OEb1nF63ArViBu0RA", NHK WORLD-JAPAN
 https://ythls-v2.onrender.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbNRGC39WBzvaKP6B2_TlwF7OEb1nF63ArViBu0RA", NHK WORLD-JAPAN
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTXkq43tL2Xkdm3k-DDgqdMHbMPqq-nm5koDlTgkQ", NHK WORLD-JAPAN
 https://ythls-v2.onrender.com/video/f0lYkdA-Gtw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQAHXjVDEuuSECYqcMYOsh18IVbi-GaEQZJLweovg", NHRA
@@ -9816,6 +9816,12 @@ https://ythls-v2.onrender.com/video/UcTIv4ZaE5Y.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ", 寰宇新聞 頻道
 https://ythls-v2.onrender.com/video/6IquAgfvYmc.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ", 寰宇新聞 頻道
+https://ythls-v2.onrender.com/video/vOue3tgccd0.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ", 寰宇新聞 頻道
+https://ythls-v2.onrender.com/video/w87VGpgd90U.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTIh1fKCWloML175CE3vqarBe08BCod04b4H9Xlcg", 小猪佩奇 中文官方 - Peppa Pig
 https://ythls-v2.onrender.com/channel/UCRi0sw4PDw-C2C7fS9hrx5Q.m3u8
 
@@ -9992,6 +9998,9 @@ https://ythls-v2.onrender.com/channel/UCriy3vlLtiBov3nLdPLadUg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/x3_2K7uOfrAKgoPE1o0vsUWTYoWDk3NjiIRFdm8iPQ16prR3kvGXbaBAWph52rH-TZQkJ5g4P9Y", 鳳凰衛視PhoenixTV
 https://ythls-v2.onrender.com/video/if6yQq_JJyY.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/x3_2K7uOfrAKgoPE1o0vsUWTYoWDk3NjiIRFdm8iPQ16prR3kvGXbaBAWph52rH-TZQkJ5g4P9Y", 鳳凰衛視PhoenixTV
+https://ythls-v2.onrender.com/video/Zm4i_rvAcxc.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKb9Ui3SEMocj8-OH4k-h2ojNS4V8e2RWTLaURyVNA", 남산서울타워
 https://ythls-v2.onrender.com/channel/UC90AkGrousC-CDBcCL8UaSg.m3u8
