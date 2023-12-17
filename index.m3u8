@@ -276,7 +276,7 @@ https://ythls-v2.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRwa3YY2PdaugvX62VuIIMfVwg3HT6wlZLMSXXm", ABC7 SWFL
 https://ythls-v2.onrender.com/channel/UCq9e_hCv2jvgck8WowW1NXg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCTVnews
 https://ythls-v2.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0", ABCテレビニュース
@@ -451,10 +451,10 @@ https://ythls-v2.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 https://ythls-v2.onrender.com/video/gCNeDWCI0vo.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Al Jazeera Mubasher قناة الجزيرة مباشر
-https://ythls-v2.onrender.com/video/eksOMqVMINo.m3u8
+https://ythls-v2.onrender.com/video/8D5QY5gw_Xk.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Al Jazeera Mubasher قناة الجزيرة مباشر
-https://ythls-v2.onrender.com/video/8D5QY5gw_Xk.m3u8
+https://ythls-v2.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/VtNsH4R3StlgJ0sbFgY68Zzt8kXGnF39t_6rPmJDw1qpfB6h5JtAAAmvwgIGgmDi-9buOiTS", Al Mashhad المشهد
 https://ythls-v2.onrender.com/channel/UCWnBTuzUUDpKhJPGuDQMynA.m3u8
@@ -520,7 +520,7 @@ https://ythls-v2.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
 https://ythls-v2.onrender.com/video/bNyUyrR0PHo.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Aljazeera Mubasher
-https://ythls-v2.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
+https://ythls-v2.onrender.com/video/eksOMqVMINo.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts", Aljazeera Mubasher
 https://ythls-v2.onrender.com/video/mJdhDuweBHM.m3u8
@@ -1095,7 +1095,10 @@ https://ythls-v2.onrender.com/channel/UCoJqwTgi_lZpqKKai2na7kQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQUpp3B7EIZW0qQLpqB83FJXAAF9ul2cPNyMD21lA", BERNAMA TV
 https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/okkF6eVZXyHeNC2pAAmnh1DVmD8aTPxHOj5SWA0iORbQrczFAZ0ddbw_lduuT8TCsaZGoTXhrqw", Best of Mix - Listen to Live Radio
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/4GJSfGnrkLjxQNHHi-7ZIj0kc9DKNPvu4XYgEft4On7MXdoZsKgGhFiWRrG_K_dqBN5J8CJkIw", Best for Cats
+https://ythls-v2.onrender.com/channel/UCSHHmB8EAhkc8-ObJkzYM6g.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/okkF6eVZXyHeNC2pAAmnh1DVmD8aTPxHOj5SWA0iORbQrczFAZ0ddbw_lduuT8TCsaZGoTXhrqw", Best of Mix
 https://ythls-v2.onrender.com/channel/UCSx0CKSPK_jUE2REJtgHIPA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/okkF6eVZXyHeNC2pAAmnh1DVmD8aTPxHOj5SWA0iORbQrczFAZ0ddbw_lduuT8TCsaZGoTXhrqw", Best of Mix - Listen to Live Radio
@@ -1106,9 +1109,6 @@ https://ythls-v2.onrender.com/video/N6ORdxoJH2Q.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/WJfGIGsf8ur_4_zzAmLCK3ZkheQXpmZOLpnY1BtmUYW5aiKM7j-83mOJP72c_zvmL8EF2WcApg", Best Remix
 https://ythls-v2.onrender.com/channel/UCDuPtFco0-lGqTPLAncUUUQ.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/4GJSfGnrkLjxQNHHi-7ZIj0kc9DKNPvu4XYgEft4On7MXdoZsKgGhFiWRrG_K_dqBN5J8CJkIw", Besten für Katzen
-https://ythls-v2.onrender.com/channel/UCSHHmB8EAhkc8-ObJkzYM6g.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gwo6Oj-YFa6E9XEK8anYj_UM9Y-XXI_uEzAQB77oOENdQkguCsDJsMucQMXwtJyxkVxMYQMLiUk", BHAI GURSHARAN SINGH JI (OFFICIAL CHANNEL)
 https://ythls-v2.onrender.com/channel/UCu7xpk9fOQRs4AvYEOakBfg.m3u8
