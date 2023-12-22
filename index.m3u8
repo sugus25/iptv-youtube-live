@@ -1902,6 +1902,9 @@ https://ythls-v2.onrender.com/channel/UCJqwSXVmnG6hZrIoqdpjRYQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQTq6XVhEVOrWPKAKIsWXVDsb4CrWB2waAGQhC6", CTIASIA 中天亞洲台
 https://ythls-v2.onrender.com/channel/UCys6fpFsyUIHMVhn9g10trQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTjnb0fue_prh6yfeNM5oRoNcxdicd3Erv35exqNw", CTITV NEWS
+https://ythls-v2.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gVPH10OJiEVByluEQ53pKohXpKbsi64Roi4sjM3u2miyUNuqYTAVzTYfkUv682Flh6UbPCgj", CTVN AKD PLUS
 https://ythls-v2.onrender.com/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8
 
@@ -9149,9 +9152,6 @@ https://ythls-v2.onrender.com/video/pPAHMYPgDUs.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Qb7frcPv6WErITnMbe_iefNtf2olw4gcB4WNt99Y2ngPfpZkfXcP7lTwVQP2gQcTtY1IFKjkqg", 中京テレビNEWS
 https://ythls-v2.onrender.com/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTjnb0fue_prh6yfeNM5oRoNcxdicd3Erv35exqNw", 中天新聞
-https://ythls-v2.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/7TX5a0vWm4atw3f_uPwN651m0VOmnBSfP0sLEZb4sEha-laWJC2XpeAIVbUqPTum0NRAwuAn", 中天電視
 https://ythls-v2.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
