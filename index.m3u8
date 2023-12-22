@@ -1902,9 +1902,6 @@ https://ythls-v2.onrender.com/channel/UCJqwSXVmnG6hZrIoqdpjRYQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQTq6XVhEVOrWPKAKIsWXVDsb4CrWB2waAGQhC6", CTIASIA 中天亞洲台
 https://ythls-v2.onrender.com/channel/UCys6fpFsyUIHMVhn9g10trQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTjnb0fue_prh6yfeNM5oRoNcxdicd3Erv35exqNw", CTITV NEWS
-https://ythls-v2.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gVPH10OJiEVByluEQ53pKohXpKbsi64Roi4sjM3u2miyUNuqYTAVzTYfkUv682Flh6UbPCgj", CTVN AKD PLUS
 https://ythls-v2.onrender.com/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8
 
@@ -3885,6 +3882,9 @@ https://ythls-v2.onrender.com/channel/UCvEAgG7WzPZnZkf9iOV_YCg.m3u8
 #EXTINF:-1 group-title="Kids" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTDCKrGyOKtm6_FDZHL4xmhdjUdOFoN-3KTeMczYg", Kids Land
 https://ythls-v2.onrender.com/channel/UCZMKZS3L9GfhcFkMyBRoVFg.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQ1f7mg8aQWBGpCgwPsC8rCiICP8fTIph1ZGM6r", Kids Movies
+https://ythls-v2.onrender.com/channel/UChGK9TTbJxUv4i0FYkVa29A.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LpTSe3XMGIXNDVS2VQyHFLtveNIJYkDZcz-cwH-_eEWfvDsUWRR1NDK-z24lf0J3P-h8xDG2VF0", KidsFirstTV
 https://ythls-v2.onrender.com/video/Ar7AEDyFcIk.1.m3u8
 
@@ -5534,9 +5534,6 @@ https://ythls-v2.onrender.com/channel/UCvpCjGQASCazC-Vxcp9tgPA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/_RDAsDFxbzjZGHo5CqFCjeJDu3JcIdsqr-3Csz0UJO9sCGshh1cj9dPSxLPD2qpssgmhXXIj", PEARL TV
 https://ythls-v2.onrender.com/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQ1f7mg8aQWBGpCgwPsC8rCiICP8fTIph1ZGM6r", Películas Cristianas Infantiles
-https://ythls-v2.onrender.com/channel/UChGK9TTbJxUv4i0FYkVa29A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/wzuHPZHAxPUoPKUBOai1gW7c1zV2BeA5gZAeWr7rqn9CqbBpE0pt2ALoyDH-c2cCnUQI568t", Penyihir kecil Tatty - Kartun anak-anak
 https://ythls-v2.onrender.com/video/hDuQsYWhDt0.m3u8
@@ -9152,6 +9149,9 @@ https://ythls-v2.onrender.com/video/pPAHMYPgDUs.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Qb7frcPv6WErITnMbe_iefNtf2olw4gcB4WNt99Y2ngPfpZkfXcP7lTwVQP2gQcTtY1IFKjkqg", 中京テレビNEWS
 https://ythls-v2.onrender.com/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTjnb0fue_prh6yfeNM5oRoNcxdicd3Erv35exqNw", 中天新聞
+https://ythls-v2.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/7TX5a0vWm4atw3f_uPwN651m0VOmnBSfP0sLEZb4sEha-laWJC2XpeAIVbUqPTum0NRAwuAn", 中天電視
 https://ythls-v2.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
