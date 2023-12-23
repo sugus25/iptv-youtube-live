@@ -1902,6 +1902,9 @@ https://ythls-v2.onrender.com/channel/UCJqwSXVmnG6hZrIoqdpjRYQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQTq6XVhEVOrWPKAKIsWXVDsb4CrWB2waAGQhC6", CTIASIA 中天亞洲台
 https://ythls-v2.onrender.com/channel/UCys6fpFsyUIHMVhn9g10trQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/cweYaB26lLbseNGYuAgmmTGm6mLdSWqzm88JfB1N3ISBThVUESAs4f7DeTJ7ctfshXDfR4PJ0Q", CTITV NEWS
+https://ythls-v2.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gVPH10OJiEVByluEQ53pKohXpKbsi64Roi4sjM3u2miyUNuqYTAVzTYfkUv682Flh6UbPCgj", CTVN AKD PLUS
 https://ythls-v2.onrender.com/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8
 
@@ -7023,9 +7026,6 @@ https://ythls-v2.onrender.com/channel/UC2TuODJhC03pLgd6MpWP0iw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", Taiwan SETNEWS Live  Channel
 https://ythls-v2.onrender.com/video/oZdzzvxTfUY.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", Taiwan SETNEWS Live  Channel
-https://ythls-v2.onrender.com/video/FoBfXvlOR6I.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/7oHDLfe2OmUa1JKmmkZNDMKE05gOuz8zWXpNGhg2JxhOfBNX0eAfJ6r3_Qa9MPzBdX3rvivF", TaiwanPlus Livestream
 https://ythls-v2.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 
@@ -9123,6 +9123,9 @@ https://ythls-v2.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZdGT0pzlpBUdyvQN-2MtuDPe0_Bclv1JSv3LbIub8TAofAE_xL7SxyBbSCZYnJjpB9hV2ncl", 三立iNEWS
 https://ythls-v2.onrender.com/video/CKjSm5ZeehE.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", 三立LIVE新聞
+https://ythls-v2.onrender.com/video/FoBfXvlOR6I.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPfvWDJQIrLydgW9t3XoK5pc4Kl6-T692uOJ2JuHA", 三立華劇 SET Drama
 https://ythls-v2.onrender.com/video/HRwAMooYM3w.m3u8
 
@@ -9131,9 +9134,6 @@ https://ythls-v2.onrender.com/video/pPAHMYPgDUs.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Qb7frcPv6WErITnMbe_iefNtf2olw4gcB4WNt99Y2ngPfpZkfXcP7lTwVQP2gQcTtY1IFKjkqg", 中京テレビNEWS
 https://ythls-v2.onrender.com/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/cweYaB26lLbseNGYuAgmmTGm6mLdSWqzm88JfB1N3ISBThVUESAs4f7DeTJ7ctfshXDfR4PJ0Q", 中天新聞
-https://ythls-v2.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/7TX5a0vWm4atw3f_uPwN651m0VOmnBSfP0sLEZb4sEha-laWJC2XpeAIVbUqPTum0NRAwuAn", 中天電視
 https://ythls-v2.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
