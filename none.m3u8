@@ -1446,6 +1446,9 @@ https://ythls-v2.onrender.com/channel/UC3PhLH0Rj2e_-0hNvwTLxGA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQ99CrhLu_891-Ugt4TWzcE36LjS-N1qcsfpMRC2g", Canal Terraviva
 https://ythls-v2.onrender.com/channel/UCg7OGZm5onXJ-RDeGW6c7YQ.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/k2pjFp5JhVbVRVtkSsvZfD6ebkTZhIPFOCzqUY3GYi2guBaSdf0hnmKpH8vx2co1Oe_8BhYJ", Canal Viver Brasil
+https://ythls-v2.onrender.com/channel/UC4jv6LD8nMFjmQT2Iu4ypxQ.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/tGe0VH_w0ptumT8Z-BY7U2fxxCNEtIsf4Tb8kOaoCJb5h5TRy78e_MWBc2CXO8bKWkCqCJGZuRA", Canal10 Río Negro
 https://ythls-v2.onrender.com/channel/UCqcRu9coKWnbrr1Ooj354PQ.m3u8
 
@@ -3905,6 +3908,9 @@ https://ythls-v2.onrender.com/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BgneRJ_iRFr3CfQc3XcRFCIpti1dlwnqS4N-C7DX4IjST12D9XffanPsij_FtHXTR5NrK3vod_c", La Sueur
 https://ythls-v2.onrender.com/channel/UC0hLHeIEaQPtef66IUWynSg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BetWHzEoAWmYUMlK7lKZylAu83217yAQCkDYnTjz_TbRsid2rMLmob_UxwrSviWDc-j5_UGvIA", La TeleRealidad De Iván Ruiz
+https://ythls-v2.onrender.com/video/8QUJ08oyGJY.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTpGIvBqr-00tqvkR6A2K3NWMOIGCBFhd1IQ6o01g8", La Vanguardia
 https://ythls-v2.onrender.com/channel/UClLLRs_mFTsNT5U-DqTYAGg.m3u8
@@ -6765,6 +6771,9 @@ https://ythls-v2.onrender.com/channel/UCR3asjvr_WAaxwJYEDV_Bfw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", Taiwan SETNEWS Live  Channel
 https://ythls-v2.onrender.com/video/oZdzzvxTfUY.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", Taiwan SETNEWS Live  Channel
+https://ythls-v2.onrender.com/channel/UC2TuODJhC03pLgd6MpWP0iw.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/7oHDLfe2OmUa1JKmmkZNDMKE05gOuz8zWXpNGhg2JxhOfBNX0eAfJ6r3_Qa9MPzBdX3rvivF", TaiwanPlus Livestream
 https://ythls-v2.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 
@@ -8807,9 +8816,6 @@ https://ythls-v2.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZdGT0pzlpBUdyvQN-2MtuDPe0_Bclv1JSv3LbIub8TAofAE_xL7SxyBbSCZYnJjpB9hV2ncl", 三立iNEWS
 https://ythls-v2.onrender.com/video/CKjSm5ZeehE.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", 三立LIVE新聞
-https://ythls-v2.onrender.com/channel/UC2TuODJhC03pLgd6MpWP0iw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", 三立LIVE新聞
 https://ythls-v2.onrender.com/video/FoBfXvlOR6I.m3u8
