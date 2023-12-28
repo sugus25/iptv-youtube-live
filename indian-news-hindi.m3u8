@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#EXTINF:-1 group-title="Indian News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQjwSVTXv_KMVPQG6l3f3Wy-gSUIz0YDQxJv5tnc4A", Aaj Tak
+https://ythls-v2.onrender.com/video/Nq2wYlWFucg.m3u8
+
+#EXTINF:-1 group-title="Indian News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQaUYzZVtZ9_l_g6bnCbIaDt1YQobarbMIXUHZ9RE0", ABP NEWS
+https://ythls-v2.onrender.com/video/nyd-xznCpJc.m3u8
+
+#EXTINF:-1 group-title="Indian News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/xvSPpZd-kEa6T3KgnlWv5YYkzLxf9UjWwnjlVBhtJR67qcipOq0sBjrgOd5_46mdoCE3cglT_w", IndiaTV
+https://ythls-v2.onrender.com/video/Xmm3Kr5P1Uw.m3u8
+
+#EXTINF:-1 group-title="Indian News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/75NPG2RuKD_ndulSMb3xO0n6HKBTyrVyv7ckC3V4tcICZkI3Ef0kAIfXbOWDWmwDCsfvXPjaww", NDTV India
+https://ythls-v2.onrender.com/video/MN8p-Vrn6G0.m3u8
+
+#EXTINF:-1 group-title="Indian News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/zv_TrbiRA-GpTz7DyYGCX08_XUcPUuVD_lcApKXQU18y3FBilr7b6CAy4Y4fVyVeiXk_JcCrg3A", Republic Bharat
+https://ythls-v2.onrender.com/video/qfrocHBy6RQ.m3u8
+
+#EXTINF:-1 group-title="Indian News" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/vZFILuFswtjUIU5oRCc79rxRdML5A_c-D_6AdvgAAd0hqSrJihyJFkT_CTSjYwSrHgiPAAozebY", Zee News
+https://ythls-v2.onrender.com/video/TPcmrPrygDc.m3u8

@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#EXTINF:-1 group-title="Shop" tvg-language="English" tvg-logo="https://yt3.ggpht.com/cBoqCwufrjvxQUvQ_1dfvxH6PAeJGSij7MYf8oXGvex0haRbrBekKu1nG7aNUOMRACVOHqyh", TSC
+https://ythls-v2.onrender.com/channel/UCsvQn8KCdv1kNaCAu8C1Gog.m3u8
