@@ -24,11 +24,32 @@ const playlist = fs.createWriteStream(dist + '/index.m3u8', { flags: 'w' })
 
 playlist.write('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
 
+const playlists = new Map()
+
 for (const channel of channels) {
-  playlist.write(`
+  const item = `
 
 #EXTINF:-1 group-title="${channel.group}" tvg-language="${channel.language}" tvg-logo="${channel.logo}", ${channel.name}
-https://ythls-v2.onrender.com/${channel.youtube}.m3u8`)
+https://ythls-v2.onrender.com/${channel.youtube}.m3u8`
+
+  playlist.write(item)
+
+  // get category playlist
+  let category = `${channel.group}-${channel.language}`.replaceAll(' ', '-').toLowerCase().replace(/^(-)/, '')
+
+  if (category === '') { category = 'none' }
+
+  let catPlaylist = playlists.get(category)
+
+  // create if not present
+  if (!catPlaylist) {
+    catPlaylist = fs.createWriteStream(dist + `/${category}.m3u8`, { flags: 'w' })
+    playlists.set(category, catPlaylist)
+
+    catPlaylist.write('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+  }
+
+  catPlaylist.write(item)
 }
 
 playlist.end()
