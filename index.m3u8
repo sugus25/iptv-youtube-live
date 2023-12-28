@@ -261,9 +261,6 @@ https://ythls-v2.onrender.com/video/0_A9J3q3SrE.m3u8
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ", ABC News
 https://ythls-v2.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ", ABC News
-https://ythls-v2.onrender.com/video/OOtxXPaQvoM.m3u8
-
 #EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTrGXsR6FEOmDHp_SAd2Fn_v-ekSVrj8KrOSkdcBA", ABC News (Australia)
 https://ythls-v2.onrender.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 
@@ -3140,6 +3137,9 @@ https://ythls-v2.onrender.com/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/jJWSGjmjN0rZr4CMhrOZWXK2BcYlZAv8m6oehGn5OUTWEeeTWcAh9iStHXMlbXOdJtFJ_eo2ug", Halktv
 https://ythls-v2.onrender.com/video/a842ifPgJRs.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/jJWSGjmjN0rZr4CMhrOZWXK2BcYlZAv8m6oehGn5OUTWEeeTWcAh9iStHXMlbXOdJtFJ_eo2ug", Halktv
+https://ythls-v2.onrender.com/video/_FUlFVJo77I.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRCDAOxQkDR7mRV8uA3NnuMH3w1qeO5ZqLiCmt8PQ", Hamptons. com
 https://ythls-v2.onrender.com/video/AUjuTHdYdpc.m3u8
@@ -8487,9 +8487,6 @@ https://ythls-v2.onrender.com/video/qlvenCOdH7M.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/imhb27FnbFRB3e5iS2Z7Okj91czXuvkMKUfMGXbmzkLArIlPRGINfWMKW8okNaHOEh36WRuaY38", Weathercam
 https://ythls-v2.onrender.com/video/wEeJfBE8ecM.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/imhb27FnbFRB3e5iS2Z7Okj91czXuvkMKUfMGXbmzkLArIlPRGINfWMKW8okNaHOEh36WRuaY38", Weathercam
-https://ythls-v2.onrender.com/video/ThVtj7egCKY.m3u8
-
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/b0e6w0EkpdFx180wqDbgvGtRrKpVa1hsaFdVJW_ZzEsVHB0kUIcZlqN69z1HbWbWPfEzlGtLiw", Web Sport - الرياضية ويب
 https://ythls-v2.onrender.com/channel/UChI2qxXw006CbgYPCmsAx_g.m3u8
 
@@ -8519,6 +8516,9 @@ https://ythls-v2.onrender.com/channel/UCXtlD2njsXWo2HoPfSC-rsQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/2Q4XnHGdWUtmX_N_6lbda_p4um000mxIZXmEsp4ejHzC9cYyHo2l7DUT48wymspkz1SHam0QTHg", WebTV - Igreja do Parque
 https://ythls-v2.onrender.com/channel/UCVSmD-bpvDKGobgKftGdrsQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/imhb27FnbFRB3e5iS2Z7Okj91czXuvkMKUfMGXbmzkLArIlPRGINfWMKW8okNaHOEh36WRuaY38", Weercamera
+https://ythls-v2.onrender.com/video/ThVtj7egCKY.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQbwcXKb8H_OjeuvcKJKY-xxTZxj0vbK2H62ZJp6mM", WELT
 https://ythls-v2.onrender.com/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
