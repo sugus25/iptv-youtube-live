@@ -9,7 +9,7 @@ https://ythls-v2.onrender.com/video/1bFNzsGIPYU.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/U5QIj1AnrHiq7BgTYXzUxvKZDrhZeY9vzCC5RJ_3pHz07EeqFPTm1JpmiZkOVmr_SJrxdlDaCQ", 1062madradio
 https://ythls-v2.onrender.com/channel/UCzPB5j0mU-0TORZ-7-u8y0w.m3u8
 
-#EXTINF:-1 group-title="Indian News" tvg-language="Telugu" tvg-logo="", 10TV DIGITAL
+#EXTINF:-1 group-title="Indian News" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/45X5Rd8BtYxqNbiIiS8hFpYvxl2iSmO0viYeXSo3B0Fhgmi2FQ975GocrVeQq2OjOzDoZDVwWQ", 10TV DIGITAL
 https://ythls-v2.onrender.com/video/TPi4BsAAvZQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Gb4tcFuK50ESSfUzLh-kW0aEclU3Kll5yTIq6-oTzxlkfq68VHO2x7gJT7Z3IeLmCiG93kWGaQ", 10TV News Telugu
@@ -2775,6 +2775,9 @@ https://ythls-v2.onrender.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/X14HePszlUhOvK1wYcn-t7oNefL5IvMSf3rk5Jq1F8xrc5MHFrVe-EigjSLXvujq6q9GB1qx", Flash Back
 https://ythls-v2.onrender.com/channel/UCU6kl_-xHJ0KKKk2CgVixlA.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/psGVTPKjGbPSMUSW3fEqHqHMvcBfVdHMxb_j2pn_F0vuHp9208i0Vj3SFFE8sxZDrEMuAPegJQ", Flight Focus 365
+https://ythls-v2.onrender.com/video/qXcCUnrWBJA.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTvwwWLxFsFIihuQ6lQdgpFxV88vitW-jeTDxze", Florida Keys Webcams
 https://ythls-v2.onrender.com/video/hpMCcu51m1A.m3u8
 
@@ -3914,6 +3917,9 @@ https://ythls-v2.onrender.com/channel/UCvEAgG7WzPZnZkf9iOV_YCg.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTDCKrGyOKtm6_FDZHL4xmhdjUdOFoN-3KTeMczYg", Kids Land
 https://ythls-v2.onrender.com/channel/UCZMKZS3L9GfhcFkMyBRoVFg.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQ1f7mg8aQWBGpCgwPsC8rCiICP8fTIph1ZGM6r", Kids Movies
+https://ythls-v2.onrender.com/channel/UChGK9TTbJxUv4i0FYkVa29A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/LpTSe3XMGIXNDVS2VQyHFLtveNIJYkDZcz-cwH-_eEWfvDsUWRR1NDK-z24lf0J3P-h8xDG2VF0", KidsFirstTV
 https://ythls-v2.onrender.com/video/Ar7AEDyFcIk.1.m3u8
@@ -5573,9 +5579,6 @@ https://ythls-v2.onrender.com/channel/UCvpCjGQASCazC-Vxcp9tgPA.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/_RDAsDFxbzjZGHo5CqFCjeJDu3JcIdsqr-3Csz0UJO9sCGshh1cj9dPSxLPD2qpssgmhXXIj", PEARL TV
 https://ythls-v2.onrender.com/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQ1f7mg8aQWBGpCgwPsC8rCiICP8fTIph1ZGM6r", Películas Cristianas Infantiles
-https://ythls-v2.onrender.com/channel/UChGK9TTbJxUv4i0FYkVa29A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/wzuHPZHAxPUoPKUBOai1gW7c1zV2BeA5gZAeWr7rqn9CqbBpE0pt2ALoyDH-c2cCnUQI568t", Penyihir kecil Tatty - Kartun anak-anak
 https://ythls-v2.onrender.com/video/hDuQsYWhDt0.m3u8
