@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#EXTINF:-1 group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPO33y7idZ0gado36HOxAhEur_2FKw1KQ1dYv1B", DD Bharati
+#EXTINF:-1 group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSV1gkLWOS3DZRRwfoNQwYFaQgDlOZdInrvCzyH", DD Bharati
 https://ythls-v2.onrender.com/video/P6x2034JxnE.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/B1ku7xn_t0D1LqBkNPoOsPuubcUrlMb1VZuaquB6cWd4V0ys30Zc6vmfcSOVzrLfEEK1Akm6", DD Kashir
