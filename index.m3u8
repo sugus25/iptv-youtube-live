@@ -3855,6 +3855,12 @@ https://ythls-v2.onrender.com/channel/UCWb-9MkraVlBhqEX7-r_PBQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/XIrz2X4rxeRt59xggde9am7KqkZQ7e3TSaY3bZVWr6bWAVToAKNNH05ZAyovMCJySVxTjZHD", KBS Kpop
 https://ythls-v2.onrender.com/video/bvRkRoaM4j4.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gsNDSfvzKpZT0OEjTBFH5PxokZ7WeZQU5PcsMWD8vJyBI6ts4uUDic_KsipnVbIUhtToblLaig", KBS News
+https://ythls-v2.onrender.com/video/qqpPgZnoEMI.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/gsNDSfvzKpZT0OEjTBFH5PxokZ7WeZQU5PcsMWD8vJyBI6ts4uUDic_KsipnVbIUhtToblLaig", KBS News
+https://ythls-v2.onrender.com/video/YhzlDeAsIZk.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQk6fABQwYAcjuJiDHQdHSQ_W9n2CmNF3MoUy6HEPM", KBS WORLD TV
 https://ythls-v2.onrender.com/video/OxQQsIvJTTU.m3u8
 
@@ -4040,6 +4046,9 @@ https://ythls-v2.onrender.com/video/2e0DZuMlU8k.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZS47gOigFzZZN1Nmz8WoL1GTQ2AXDok1JkO2zUBRQ", Kruiskyk
 https://ythls-v2.onrender.com/channel/UCwgzvE6tj56aYkCF8_65TKQ.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRBJdZ_aVxuiB8XokMCaW4aZlQxRu0DAq7U9WUO", KSBW Action News 8
+https://ythls-v2.onrender.com/channel/UCwPzlQU2MqEQJWgqM_0VFKQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/Njjdn-k-1etRQNB-l9b89tREc2BJhPOBrTqE9aBcBo_jf-IfWUoShe_x40jspCLoZnGfn_c7Vvc", KTN HOME
 https://ythls-v2.onrender.com/channel/UCkWr5PLM8hp8M4WNIkjpKsQ.m3u8
@@ -4484,6 +4493,9 @@ https://ythls-v2.onrender.com/video/q-Wv4Pvt-5A.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSV9mOz05LJ8ZASnsVwQnTxckiWDS1NwH-GF2nUtQ", MBCNEWS
 https://ythls-v2.onrender.com/channel/UCF4Wxdo3inmxP-Y59wXDsFw.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSV9mOz05LJ8ZASnsVwQnTxckiWDS1NwH-GF2nUtQ", MBCNEWS
+https://ythls-v2.onrender.com/video/_e22Kbzc5Uo.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/BpY8Ub7K4qvUQjc-KmXuluH6vQzJssZDXWse0zesaSQeUDdPz4NqbltOws3zz5rUGOlyo1U6ew", MBS NEWS
 https://ythls-v2.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
