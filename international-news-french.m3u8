@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#EXTINF:-1 group-title="International News" tvg-language="French" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZT4CILLcHOlNUh7R08g2zQ1s1WRae9YHxR-i9qgXw", FRANCE 24
+https://ythls-v2.onrender.com/video/l8PMl7tUDIE.m3u8

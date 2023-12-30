@@ -2856,31 +2856,31 @@ https://ythls-v2.onrender.com/channel/UCR3rqspk_iUpCEiiahEW0mg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaS93g1rDIqxJ57iCJaOYn10ix8wIOsxmRu2JizQ", Fox Family and Friends
 https://ythls-v2.onrender.com/video/ChWY6xLUUcw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/9HlrJ3aX2x68Lg2fbzDPXPPYrfzSGlYBE-dimwukUTDuhI0TzO91NbZyqB6iJmVmyJFI8Lby", Fox Kids Russia
+#EXTINF:-1 group-title="Kids" tvg-language="Russian" tvg-logo="https://yt3.ggpht.com/9HlrJ3aX2x68Lg2fbzDPXPPYrfzSGlYBE-dimwukUTDuhI0TzO91NbZyqB6iJmVmyJFI8Lby", Fox Kids Russia
 https://ythls-v2.onrender.com/channel/UCmG-sPW_FHZ4TsV15FdVtpw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/46IT-KTOYd5FQsG0ygVDrXwg-CXO1z4rBZ2IVvF3WUjbg6MjHYdG3FV5C00lDwKYW114sF4s9w", FOX Weather
 https://ythls-v2.onrender.com/channel/UC1FbPiXx59_ltnFVx7IxWow.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/46IT-KTOYd5FQsG0ygVDrXwg-CXO1z4rBZ2IVvF3WUjbg6MjHYdG3FV5C00lDwKYW114sF4s9w", FOX Weather
+#EXTINF:-1 group-title="American News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/46IT-KTOYd5FQsG0ygVDrXwg-CXO1z4rBZ2IVvF3WUjbg6MjHYdG3FV5C00lDwKYW114sF4s9w", FOX Weather
 https://ythls-v2.onrender.com/video/iesPl7zRbVY.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZT4CILLcHOlNUh7R08g2zQ1s1WRae9YHxR-i9qgXw", FRANCE 24
 https://ythls-v2.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZT4CILLcHOlNUh7R08g2zQ1s1WRae9YHxR-i9qgXw", FRANCE 24
+#EXTINF:-1 group-title="International News" tvg-language="French" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZT4CILLcHOlNUh7R08g2zQ1s1WRae9YHxR-i9qgXw", FRANCE 24
 https://ythls-v2.onrender.com/video/l8PMl7tUDIE.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQik4wO10FfadlcUuXvZXzpnNXKhqg-50OQ61RDGw", FRANCE 24 English
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQik4wO10FfadlcUuXvZXzpnNXKhqg-50OQ61RDGw", FRANCE 24 English
 https://ythls-v2.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQik4wO10FfadlcUuXvZXzpnNXKhqg-50OQ61RDGw", FRANCE 24 English
+#EXTINF:-1 group-title="International News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQik4wO10FfadlcUuXvZXzpnNXKhqg-50OQ61RDGw", FRANCE 24 English
 https://ythls-v2.onrender.com/video/tkDUSYHoKxE.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSzHjloNHGe1LAKKjXgapPDsxZISPQe4sFHcg13", FRANCE 24 Español
 https://ythls-v2.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSzHjloNHGe1LAKKjXgapPDsxZISPQe4sFHcg13", FRANCE 24 Español
+#EXTINF:-1 group-title="International News" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSzHjloNHGe1LAKKjXgapPDsxZISPQe4sFHcg13", FRANCE 24 Español
 https://ythls-v2.onrender.com/video/Y-IlMeCCtIg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/a3JSTbtCxqvP67gtm-lIOrWFUvOPQWJIm9LOWmoG38v6as_OgjISVE5w0PsFA9My48CdnBXTKQ", France Inter
@@ -3795,8 +3795,11 @@ https://ythls-v2.onrender.com/channel/UChRSzl9FKGXhTmt24y8CzIA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/rrXfCoM5qpdJqWpSa8SPWi28Ki_m6MVUEPXGeJkn1EfkRkCS3sNu5O0vTbR99DDJH2YXGaOfLQ", Kameme Tv
 https://ythls-v2.onrender.com/channel/UCd9nkc2XA77NMxBvQz35I2Q.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/vxTV33OnAei79YI2dPSTit69z5DaXn6r3jOvYHztTYeBU13ehCik6iKmvgYaO53jPokrWwcb8qo", Kanak News
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/vxTV33OnAei79YI2dPSTit69z5DaXn6r3jOvYHztTYeBU13ehCik6iKmvgYaO53jPokrWwcb8qo", Kanak News
 https://ythls-v2.onrender.com/channel/UC90RW5ZmBBqp4r2QIQxfACA.m3u8
+
+#EXTINF:-1 group-title="Indian News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/vxTV33OnAei79YI2dPSTit69z5DaXn6r3jOvYHztTYeBU13ehCik6iKmvgYaO53jPokrWwcb8qo", Kanak News
+https://ythls-v2.onrender.com/video/njXehzQ1gEQ.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/emlLiqmgp5cd7KMBWXk_f3eOiqfOoQlDXe8NUThbeMMx_jgvCsNrZroQFmYoLrQa40f2yNWJgA", Kanal 5 Televizyonu
 https://ythls-v2.onrender.com/channel/UCVebw64Db0yhrPkVk-D8F6w.m3u8
@@ -5103,8 +5106,11 @@ https://ythls-v2.onrender.com/channel/UCrcpw88HvKJ0skdsHniCJtQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/_nPRYbak_EiuHDW42FckbmnS2LxCkzBthvRrcahzhnA99-0ogNVGonFt-ieqGZgAqGmd66ERDKA", News18 MP Chhattisgarh
 https://ythls-v2.onrender.com/channel/UCBwc2cbPpvxNCNEI2-8YrqQ.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSFPhTbfviikDCdedMmjPfZduwrUxmvOijOPPbqbQ", News18 Odia
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSFPhTbfviikDCdedMmjPfZduwrUxmvOijOPPbqbQ", News18 Odia
 https://ythls-v2.onrender.com/channel/UCUK49UvmYWYLiB7_bZFuFZQ.m3u8
+
+#EXTINF:-1 group-title="Indian News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSFPhTbfviikDCdedMmjPfZduwrUxmvOijOPPbqbQ", News18 Odia
+https://ythls-v2.onrender.com/video/BKcu6c0tQ1o.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/JGQrcAU_8faP7TYfl2wSKvlUxsSKP9ayuI_bNLzjKbwQ-v0RDLlsgYgZQqNqc_0f31p0NEgM", News18 Punjab/Haryana/Himachal
 https://ythls-v2.onrender.com/channel/UC-crZTQNRzZgzyighTKF0nQ.m3u8
@@ -5432,6 +5438,9 @@ https://ythls-v2.onrender.com/video/oe_ni87dke0&ab.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTOciSj1Jqh7-sJ_LdF7rEGjuHIGTOBJ__U39navA", OTV
 https://ythls-v2.onrender.com/channel/UCCgLMMp4lv7fSD2sBz1Ai6Q.m3u8
+
+#EXTINF:-1 group-title="Indian News" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTOciSj1Jqh7-sJ_LdF7rEGjuHIGTOBJ__U39navA", OTV
+https://ythls-v2.onrender.com/video/PCUv-Uip7QU.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKY6HuzYp2xOvQZMghRJ9CHHCO1SgKZQohfY99sW", Outer Space
 https://ythls-v2.onrender.com/channel/UC9anF-2GJWmpw9WZBOXM5QQ.m3u8
@@ -6243,8 +6252,11 @@ https://ythls-v2.onrender.com/video/qfrocHBy6RQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/zv_TrbiRA-GpTz7DyYGCX08_XUcPUuVD_lcApKXQU18y3FBilr7b6CAy4Y4fVyVeiXk_JcCrg3A", Republic Bharat
 https://ythls-v2.onrender.com/channel/UC7wXt18f2iA3EDXeqAVuKng.m3u8
 
-#EXTINF:-1 group-title="News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/U4ShKpRJI4jVgI-cTdvnRiaZLKJeNL4nILy9fU_U8PPtsIb1bljL4JfbHT-Kv7oK9hJCp26x4g", Republic World
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/U4ShKpRJI4jVgI-cTdvnRiaZLKJeNL4nILy9fU_U8PPtsIb1bljL4JfbHT-Kv7oK9hJCp26x4g", Republic World
 https://ythls-v2.onrender.com/channel/UCwqusr8YDwM-3mEYTDeJHzw.m3u8
+
+#EXTINF:-1 group-title="Indian News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/U4ShKpRJI4jVgI-cTdvnRiaZLKJeNL4nILy9fU_U8PPtsIb1bljL4JfbHT-Kv7oK9hJCp26x4g", Republic World
+https://ythls-v2.onrender.com/video/WLhOI2OOsdo.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTy3hZOBZAtP88ZZN5HWQyD2iGT6mLMUr7OhPKnCPw", Reuters
 https://ythls-v2.onrender.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ.m3u8
