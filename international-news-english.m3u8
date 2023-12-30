@@ -1,4 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
+#EXTINF:-1 group-title="International News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl", Al Jazeera English
+https://ythls-v2.onrender.com/video/gCNeDWCI0vo.m3u8
+
 #EXTINF:-1 group-title="International News" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQik4wO10FfadlcUuXvZXzpnNXKhqg-50OQ61RDGw", FRANCE 24 English
 https://ythls-v2.onrender.com/video/tkDUSYHoKxE.m3u8
