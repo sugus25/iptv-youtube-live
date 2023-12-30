@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#EXTINF:-1 group-title="News Pakistan" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/8MgGnCb9dHfbHSEgMwBTXMDn9BFB0ShglqAUlJJeksE_w5GVNzAStk1O6yPnng22_R4lgsWx", ARY News
+https://ythls-v2.onrender.com/video/sUKwTVAc0Vo.m3u8

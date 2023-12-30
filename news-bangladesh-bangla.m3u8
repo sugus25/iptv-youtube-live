@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#EXTINF:-1 group-title="News Bangladesh" tvg-language="Bangla" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZS1gSpQFotTaujwH6OEE-Wm_EBuk-60aaqDYblShQ", DBC NEWS
+https://ythls-v2.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
