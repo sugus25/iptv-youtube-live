@@ -1008,6 +1008,9 @@ https://ythls-v2.onrender.com/channel/UC5Ehi-aIrbNx0eS9CJyuysA.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTX39I6xCCNWrGK_lq9-VJqeYPw4r2PKjbCkBqF_Q", Ballistic Live
 https://ythls-v2.onrender.com/channel/UCUztwhbfcaHlWAY3A5Yzymw.m3u8
 
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTX39I6xCCNWrGK_lq9-VJqeYPw4r2PKjbCkBqF_Q", Ballistic Live
+https://ythls-v2.onrender.com/video/iD5U9Qt_0N4.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/4FSNoBysWz1b5YSmYUeSQX7OU3NdTw8EMmHBAEo7TZ_Oy5_wn7kA93tuckbM3SnkfHl23nL2qjE", Band Bahia Oficial
 https://ythls-v2.onrender.com/channel/UClXz2Nus3ASfscB60dC5gxQ.m3u8.m3u8
 
@@ -5342,6 +5345,9 @@ https://ythls-v2.onrender.com/video/_kPE2uUR8SI.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTLF-8kNisXN27VYXTPhtaGQFc52RjEXiCA8gFkCg", NTV Telugu
 https://ythls-v2.onrender.com/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
+
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTLF-8kNisXN27VYXTPhtaGQFc52RjEXiCA8gFkCg", NTV Telugu
+https://ythls-v2.onrender.com/video/L0RktSIM980.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTZwvL65l9fOzEcvEOtA9TvS4wl4GnsOiVJ4AYzkP4", NTVUganda
 https://ythls-v2.onrender.com/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8
