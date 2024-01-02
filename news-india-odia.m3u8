@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#EXTINF:-1 group-title="News India" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSopaKMEJIkwBGEtgOicAAiVzyvQpGHZ_VR5DEO", Argus News
+#EXTINF:-1 group-title="News India (Odia)" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSopaKMEJIkwBGEtgOicAAiVzyvQpGHZ_VR5DEO", Argus News
 https://ythls-v2.onrender.com/channel/UCwBK7Cdk0wq8rCjxcvaoHzg.m3u8
 
-#EXTINF:-1 group-title="News India" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ZOd1l1UscygHUidfbodhXXDpO9jXdy5igBoQDlTr3ObMgtcCYVxnXaEBsbzAkUn2OofAGTj-DA", Kalinga TV
+#EXTINF:-1 group-title="News India (Odia)" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ZOd1l1UscygHUidfbodhXXDpO9jXdy5igBoQDlTr3ObMgtcCYVxnXaEBsbzAkUn2OofAGTj-DA", Kalinga TV
 https://ythls-v2.onrender.com/video/JIkhKdhKGcc.m3u8
 
-#EXTINF:-1 group-title="News India" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/vxTV33OnAei79YI2dPSTit69z5DaXn6r3jOvYHztTYeBU13ehCik6iKmvgYaO53jPokrWwcb8qo", Kanak News
+#EXTINF:-1 group-title="News India (Odia)" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/vxTV33OnAei79YI2dPSTit69z5DaXn6r3jOvYHztTYeBU13ehCik6iKmvgYaO53jPokrWwcb8qo", Kanak News
 https://ythls-v2.onrender.com/video/njXehzQ1gEQ.m3u8
 
-#EXTINF:-1 group-title="News India" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/GhMx_j5vSBvJDSCZ7t62HdaepXWYSYauKqPART8OGfEtSIcTleZ_z_ZBYCXq1-G0NFCwhfCazA", Nandighosha TV
+#EXTINF:-1 group-title="News India (Odia)" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/GhMx_j5vSBvJDSCZ7t62HdaepXWYSYauKqPART8OGfEtSIcTleZ_z_ZBYCXq1-G0NFCwhfCazA", Nandighosha TV
 https://ythls-v2.onrender.com/video/1uyNNgm56UU.m3u8
 
-#EXTINF:-1 group-title="News India" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSFPhTbfviikDCdedMmjPfZduwrUxmvOijOPPbqbQ", News18 Odia
+#EXTINF:-1 group-title="News India (Odia)" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSFPhTbfviikDCdedMmjPfZduwrUxmvOijOPPbqbQ", News18 Odia
 https://ythls-v2.onrender.com/video/BKcu6c0tQ1o.m3u8
 
-#EXTINF:-1 group-title="News India" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTOciSj1Jqh7-sJ_LdF7rEGjuHIGTOBJ__U39navA", OTV
+#EXTINF:-1 group-title="News India (Odia)" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTOciSj1Jqh7-sJ_LdF7rEGjuHIGTOBJ__U39navA", OTV
 https://ythls-v2.onrender.com/video/PCUv-Uip7QU.m3u8

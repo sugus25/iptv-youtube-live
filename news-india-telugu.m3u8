@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#EXTINF:-1 group-title="News India" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/45X5Rd8BtYxqNbiIiS8hFpYvxl2iSmO0viYeXSo3B0Fhgmi2FQ975GocrVeQq2OjOzDoZDVwWQ", 10TV DIGITAL
+#EXTINF:-1 group-title="News India (Telugu)" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/45X5Rd8BtYxqNbiIiS8hFpYvxl2iSmO0viYeXSo3B0Fhgmi2FQ975GocrVeQq2OjOzDoZDVwWQ", 10TV DIGITAL
 https://ythls-v2.onrender.com/video/TPi4BsAAvZQ.m3u8
 
-#EXTINF:-1 group-title="News India" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/6TgxEDCRlNcbfNSQj7DtfyHFurPnYYlYCv-8ggyh4hXcclWOZ2otMSSHjWzZepcOimjIGGH8eA", 10TV News Telugu
+#EXTINF:-1 group-title="News India (Telugu)" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/6TgxEDCRlNcbfNSQj7DtfyHFurPnYYlYCv-8ggyh4hXcclWOZ2otMSSHjWzZepcOimjIGGH8eA", 10TV News Telugu
 https://ythls-v2.onrender.com/video/byG7EGw9NPs.m3u8
 
-#EXTINF:-1 group-title="News India" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/zhnil9WsQ-Z3gjqZDGeJaNszyTNgHuuJ6nJsP_3N9Hkwy1bLGjj8fj7ThdqQEpMoUf5NYnOY", DD Yadagiri Telangana
+#EXTINF:-1 group-title="News India (Telugu)" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/zhnil9WsQ-Z3gjqZDGeJaNszyTNgHuuJ6nJsP_3N9Hkwy1bLGjj8fj7ThdqQEpMoUf5NYnOY", DD Yadagiri Telangana
 https://ythls-v2.onrender.com/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
 
-#EXTINF:-1 group-title="News India" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/u8QRZA82BCje9zgMhgDk_ROVb_zwcJz5iDJ-BQnNk47h6vY_PwqREBeJeUaVCCAZ3LAX_MDBTbg", ETV Andhra Pradesh
+#EXTINF:-1 group-title="News India (Telugu)" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/u8QRZA82BCje9zgMhgDk_ROVb_zwcJz5iDJ-BQnNk47h6vY_PwqREBeJeUaVCCAZ3LAX_MDBTbg", ETV Andhra Pradesh
 https://ythls-v2.onrender.com/video/GI-8sFxRoyw.m3u8
 
-#EXTINF:-1 group-title="News India" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/3eMz2ePLhVmre6X5oA_2Q6WOmYYW4xMaD2czPYtXC79JlK-sSAFJ7hiWp9Kx1cH7YMWmJi9Xw80", ETV Telangana
+#EXTINF:-1 group-title="News India (Telugu)" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/3eMz2ePLhVmre6X5oA_2Q6WOmYYW4xMaD2czPYtXC79JlK-sSAFJ7hiWp9Kx1cH7YMWmJi9Xw80", ETV Telangana
 https://ythls-v2.onrender.com/video/tWsm6wkScBo.m3u8

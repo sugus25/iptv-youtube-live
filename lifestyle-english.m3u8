@@ -1,4 +1,4 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#EXTINF:-1 group-title="Lifestyle" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9CLc9DIXPt0fIqYUP5VFaj0MyhpNNt4X9pCJJyFQ", DW Euromaxx
+#EXTINF:-1 group-title="Lifestyle (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9CLc9DIXPt0fIqYUP5VFaj0MyhpNNt4X9pCJJyFQ", DW Euromaxx
 https://ythls-v2.onrender.com/channel/UCd-swDW3HCs4LTZhq8Cf7Fg.m3u8
