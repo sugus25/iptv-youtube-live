@@ -3792,6 +3792,9 @@ https://ythls-v2.onrender.com/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/SgCGxhGGb02joj3hYvxoDKDXl4B1ryc9wMafxW-ZK5pGzJvMTmJ0GevSkCgbJIxXqJh1RAgg4oE", Kalaignar TV News
 https://ythls-v2.onrender.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg.m3u8
 
+#EXTINF:-1 group-title="News India" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ZOd1l1UscygHUidfbodhXXDpO9jXdy5igBoQDlTr3ObMgtcCYVxnXaEBsbzAkUn2OofAGTj-DA", Kalinga TV
+https://ythls-v2.onrender.com/video/JIkhKdhKGcc.m3u8
+
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/yNju4n2_goO2HZrRg4F3tL9R3jJSjFRS2fQr4CZV06-pjI3EiDQTiR1QC5WkMeMUHjgk1mSxMPo", Kalupur Mandir
 https://ythls-v2.onrender.com/video/vD2lmvvUGxo.m3u8
 
@@ -4895,6 +4898,9 @@ https://ythls-v2.onrender.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/UogOtvk3RzzWVlnmoBPb0lP3w_yEHMfgxlQd3R8bEdqS8yZlb04o2JBTchLjPG8osLE0R4UB", NamibiaCam
 https://ythls-v2.onrender.com/video/ydYDqZQpim8.m3u8
+
+#EXTINF:-1 group-title="News India" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/GhMx_j5vSBvJDSCZ7t62HdaepXWYSYauKqPART8OGfEtSIcTleZ_z_ZBYCXq1-G0NFCwhfCazA", Nandighosha TV
+https://ythls-v2.onrender.com/video/1uyNNgm56UU.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/_jRZubBXZbIVOPGyxyt07lSUWcMP1dlCnI8YEK53UnsXuMfOJbQcQof77CMsK8OUTWHD5Cek", Narodowy Bank Polski
 https://ythls-v2.onrender.com/channel/UCmbrnTsSNYaGCPCNl2FmTZQ.m3u8
