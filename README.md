@@ -11,7 +11,7 @@ Channels are available as multiple playlists based on their language and content
 
 For example, below is the playlist for Indian News in Hindi.
 ```
-https://abskmj.github.io/iptv-youtube-live/indian-news-hindi.m3u8
+https://abskmj.github.io/iptv-youtube-live/news-india-hindi.m3u8
 ```
 
 All [group playlists](https://github.com/abskmj/iptv-youtube-live/tree/gh-pages) are available.
