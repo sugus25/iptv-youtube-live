@@ -29,7 +29,7 @@ const playlists = new Map()
 for (const channel of channels) {
   const item = `
 
-#EXTINF:-1 group-title="${channel.group}" tvg-language="${channel.language}" tvg-logo="${channel.logo}", ${channel.name}
+#EXTINF:-1 group-title="${channel.group} (${channel.language})" tvg-language="${channel.language}" tvg-logo="${channel.logo}", ${channel.name}
 https://ythls-v2.onrender.com/${channel.youtube}.m3u8`
 
   playlist.write(item)
