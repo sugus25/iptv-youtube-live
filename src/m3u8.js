@@ -28,7 +28,7 @@ const playlists = new Map()
 
 for (const channel of channels) {
   let title = `${channel.group} (${channel.language})`.replace(' ()', '')
-  if (title === '') { title = 'ungrouped' }
+  if (title === '') { title = 'Ungrouped' }
 
   const item = `
 
