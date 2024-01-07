@@ -12,8 +12,8 @@ https://ythls-v2.onrender.com/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 #EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/4m7yvjIhOhtCXb905kcNQl6EXt5AzDXvmx6pN5WxbMtd1hylOZDESw6lvV77UjPWtQ--JizW8w", CNN-News18
 https://ythls-v2.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
 
-#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZT1h7EAuZJSM4nnsACqhR7FW7xHcp3JAfjEVVSXgA", Die Vereinten Nationen
-https://ythls-v2.onrender.com/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
-
 #EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/t3slq37NYJRuP2UoEZDoPKyMClKyQULG8-j2DEfzL1XXcBvFpR6z6HD7rtc0wDn8Mqt0OtpU", euronews
 https://ythls-v2.onrender.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
+
+#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZT1h7EAuZJSM4nnsACqhR7FW7xHcp3JAfjEVVSXgA", United Nations
+https://ythls-v2.onrender.com/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
