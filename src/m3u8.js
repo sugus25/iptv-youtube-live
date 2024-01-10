@@ -10,10 +10,12 @@ const channels = parse(contents, {
   skip_empty_lines: true
 })
 
-// sort channels alphabetically by their name
+// sort channels alphabetically by their name and youtube url
 channels.sort((a, b) => {
   if (a.name.toLowerCase() > b.name.toLowerCase()) return 1
   if (a.name.toLowerCase() < b.name.toLowerCase()) return -1
+  if (a.youtube > b.youtube) return 1
+  if (a.youtube < b.youtube) return -1
   return 0
 })
 
