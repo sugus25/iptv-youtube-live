@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+#EXTM3U
 
 #EXTINF:-1 group-title="News Bangladesh (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/P8XVWOQZ2Eel4CqqOeNbt-aPv2cahpsShVCFGoZZA01jzfXGT3hl_BfHq-qrxmp922j64iq_", ATN News Live
 https://ythls-v2.onrender.com/channel/UCKlhfq1ILoAFav7iw5iCnfA.m3u8

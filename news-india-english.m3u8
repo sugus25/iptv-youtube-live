@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+#EXTM3U
 
 #EXTINF:-1 group-title="News India (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/5UnQaENeR3Y9WgYc94GCLzByBaweS-SlFFfjsIvPm_yWD0QOWs94EqmI-6GWhrd5S05DyWme", DD India
 https://ythls-v2.onrender.com/video/c0HOSjlniKs.m3u8

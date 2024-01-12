@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+#EXTM3U
 
 #EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTrGXsR6FEOmDHp_SAd2Fn_v-ekSVrj8KrOSkdcBA", ABC News (Australia)
 https://ythls-v2.onrender.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
