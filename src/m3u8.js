@@ -24,7 +24,7 @@ const dist = path.join(__dirname, '../dist')
 fs.mkdirSync(dist, { recursive: true })
 const playlist = fs.createWriteStream(dist + '/index.m3u8', { flags: 'w' })
 
-playlist.write('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+playlist.write('#EXTM3U')
 
 const playlists = new Map()
 
@@ -51,7 +51,7 @@ https://ythls-v2.onrender.com/${channel.youtube}.m3u8`
     catPlaylist = fs.createWriteStream(dist + `/${category}.m3u8`, { flags: 'w' })
     playlists.set(category, catPlaylist)
 
-    catPlaylist.write('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+    catPlaylist.write('#EXTM3U')
   }
 
   catPlaylist.write(item)
