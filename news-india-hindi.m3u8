@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQjwSVTXv_KMVPQG6l3f3Wy-gSUIz0YDQxJv5tnc4A", Aaj Tak
+#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQClLN0jBiTTyCy0G-5C-3nPe4_bNDoQZFcg-eq1No", Aaj Tak
 https://ythls-v2.onrender.com/video/Nq2wYlWFucg.m3u8
 
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQaUYzZVtZ9_l_g6bnCbIaDt1YQobarbMIXUHZ9RE0", ABP NEWS
@@ -29,9 +29,6 @@ https://ythls-v2.onrender.com/video/Xmm3Kr5P1Uw.m3u8
 
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/75NPG2RuKD_ndulSMb3xO0n6HKBTyrVyv7ckC3V4tcICZkI3Ef0kAIfXbOWDWmwDCsfvXPjaww", NDTV India
 https://ythls-v2.onrender.com/video/MN8p-Vrn6G0.m3u8
-
-#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/0s6QsqTesFqsXncW5Bj3cEVs7eTmBQ8ds4gez2rEp10ZvP08q71vZtrc3rzKXLMqsrctF737sDU", News 24
-https://ythls-v2.onrender.com/video/Am2A_nKZy8o.m3u8
 
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/5A2EyCCMJ8gtHTjEK0gXD0gt4Ew6S9TkN60mr-Nor9VrIIRaIjvdnchFbl99jgBLU1_rz9yBfQ", NEWS ON AIR OFFICIAL
 https://ythls-v2.onrender.com/video/FW9sGTw9Hw0.m3u8
