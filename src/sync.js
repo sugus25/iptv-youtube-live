@@ -24,9 +24,11 @@ const getCache = async () => {
   // merge the channels from two sourcea
   cache.forEach(item => {
     if (item.name) {
-      const youtube = item.url.replace('https://www.youtube.com/', '').replace('/live', '').replace('watch?v=', 'video/')
+      // santize item
+      item.updated = (new Date()).toISOString()
 
-      const index = channels.findIndex((channel) => channel.youtube === youtube)
+      // find channel
+      const index = channels.findIndex((channel) => channel.youtube === item.url)
       const channel = channels[index]
 
       if (channel) {
@@ -35,17 +37,17 @@ const getCache = async () => {
         // update logo
         if (item.logo && item.logo !== '' && channel.logo !== item.logo) {
           channel.logo = item.logo
-          channel.updated = (new Date()).toISOString()
+          channel.updated = item.updated
         }
 
         // update name
-        if (item.name !== '' && channel.name !== item.name.trim()) {
-          channel.name = item.name.trim()
-          channel.updated = (new Date()).toISOString()
+        if (item.name !== '' && channel.name !== item.name) {
+          channel.name = item.name
+          channel.updated = item.updated
         }
 
         // remove video which is not live
-        if (youtube.startsWith('video/') && !item.isLive) {
+        if (item.url.startsWith('video/') && !item.isLive) {
           channels.splice(index, 1)
         }
       } else {
@@ -55,9 +57,9 @@ const getCache = async () => {
             name: item.name,
             group: '',
             language: '',
-            youtube,
+            youtube: item.url,
             logo: item.logo,
-            updated: (new Date()).toISOString()
+            updated: item.updated
           })
         }
       }
