@@ -1971,7 +1971,7 @@ https://ythls-v2.onrender.com/channel/UCTapFcyNk2zzc7LnPUjNNQA.m3u8
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/xY8YvQ4HFg3OgUDHkrWuzbd3mUTEGfMAs66qmXSxZGOD4DEuHy640UxstwmflFOtA7dFNgkJvg", Cartoon Network
 https://ythls-v2.onrender.com/channel/UCMsgXPD3wzzt8RxHJmXH7hQ.m3u8
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/BnrgYIJLNhJ2p9H-ymJcjVaKTMATWYl9rBix40pemYpkykC4_9gEbF82C_RsKgsRD8YzYXP5mA", Cartoon Network Asia
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/BnrgYIJLNhJ2p9H-ymJcjVaKTMATWYl9rBix40pemYpkykC4_9gEbF82C_RsKgsRD8YzYXP5mA", Cartoon Network Asia
 https://ythls-v2.onrender.com/channel/UC9hVEGaTpAYMVd-bRsOYKwA.m3u8
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/BnrgYIJLNhJ2p9H-ymJcjVaKTMATWYl9rBix40pemYpkykC4_9gEbF82C_RsKgsRD8YzYXP5mA", Cartoon Network Asia
@@ -1980,16 +1980,13 @@ https://ythls-v2.onrender.com/video/-tzkFa0cf5c.m3u8
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/BnrgYIJLNhJ2p9H-ymJcjVaKTMATWYl9rBix40pemYpkykC4_9gEbF82C_RsKgsRD8YzYXP5mA", Cartoon Network Asia
 https://ythls-v2.onrender.com/video/W0lTT8S94ms.m3u8
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/It1Nhh0ZTH7DgQ0ujJxsZhllJFK5DzjBaFQtPrPiYT5vo6Zv8OO3GG6U2HZnhdnu9ncCtZY6OQ", Cartoon Network LA
-https://ythls-v2.onrender.com/channel/UCQySZQ6rrgJXRuonMwIIGMA.m3u8
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTYE0AlpDWSQCQmWAciS3mCSIJBidHPqkki6N2ntA", Cartoon Network Türkiye
+#EXTINF:-1 group-title="Kids (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTYE0AlpDWSQCQmWAciS3mCSIJBidHPqkki6N2ntA", Cartoon Network Türkiye
 https://ythls-v2.onrender.com/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/CjQRWJyAK5F508dKkhsAE84V_aIhPU_ndWYCmMPgEUnumBTLDSUDDqthDFDurJzLWRptkD5avw", Cartoonito France
+#EXTINF:-1 group-title="Kids (French)" tvg-language="French" tvg-logo="https://yt3.ggpht.com/CjQRWJyAK5F508dKkhsAE84V_aIhPU_ndWYCmMPgEUnumBTLDSUDDqthDFDurJzLWRptkD5avw", Cartoonito France
 https://ythls-v2.onrender.com/channel/UCjSg0PDVShgNIfEC8FEdXzA.m3u8
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/0eXHQy3s1F7J-IqCswWyvgtwfxzRKY97kMBnjw4xMXtNBVGfXmuOm8M7RoPRt7yDVRR1ty71Hg", Cartoonito MENA
+#EXTINF:-1 group-title="Kids (Arabic)" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/0eXHQy3s1F7J-IqCswWyvgtwfxzRKY97kMBnjw4xMXtNBVGfXmuOm8M7RoPRt7yDVRR1ty71Hg", Cartoonito MENA
 https://ythls-v2.onrender.com/channel/UC6HsfRuJ6VtRU063tLbhujQ.m3u8
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/68gbMI-wwKyr3Oo3miB8tGIhAZ0F-oaDwwERATrwvMgN0Lfxkge8MNfBbVkd-v7Prd_E909DhRs", Cartão Verde
