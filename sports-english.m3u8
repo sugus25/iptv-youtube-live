@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Sports (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/nCtago6abNXf7lnLOl7et1K7C_7ymOAuoVYS_U0Qy0bd3YeNrK--5qov5x1HlNFWx6H2gmzcKJM", cricket.com.au
+https://ythls-v2.onrender.com/video/CeAgx48qQ3M.m3u8
+
 #EXTINF:-1 group-title="Sports (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/9wk_1O3cXWnUmNUseduRI9QDLnSc9AcF92LrP92V8TKaVLTVWvYK5nw4TNkDJWq1-lRGGJ5LIg", mxgptv
 https://ythls-v2.onrender.com/channel/UCOlCqreTEPtLeuNu3hJhEBQ.m3u8
 
