@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="News International (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nZhpyY03oX_J2asTh5ZKj4X8MXctAVwynrvfg8", DW Español
-https://ythls-v2.onrender.com/video/tsStUN73_6I.m3u8
+https://ythls-v2.onrender.com/video/tsStUN73_6I.m3u8?playlist=news-international-spanish
 
 #EXTINF:-1 group-title="News International (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSzHjloNHGe1LAKKjXgapPDsxZISPQe4sFHcg13", FRANCE 24 Español
-https://ythls-v2.onrender.com/video/Y-IlMeCCtIg.m3u8
+https://ythls-v2.onrender.com/video/Y-IlMeCCtIg.m3u8?playlist=news-international-spanish

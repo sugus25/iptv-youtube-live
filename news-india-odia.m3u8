@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="News India (Odia)" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSopaKMEJIkwBGEtgOicAAiVzyvQpGHZ_VR5DEO", Argus News
-https://ythls-v2.onrender.com/channel/UCwBK7Cdk0wq8rCjxcvaoHzg.m3u8
+https://ythls-v2.onrender.com/channel/UCwBK7Cdk0wq8rCjxcvaoHzg.m3u8?playlist=news-india-odia
 
 #EXTINF:-1 group-title="News India (Odia)" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSFPhTbfviikDCdedMmjPfZduwrUxmvOijOPPbqbQ", News18 Odia
-https://ythls-v2.onrender.com/video/BKcu6c0tQ1o.m3u8
+https://ythls-v2.onrender.com/video/BKcu6c0tQ1o.m3u8?playlist=news-india-odia
 
 #EXTINF:-1 group-title="News India (Odia)" tvg-language="Odia" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTOciSj1Jqh7-sJ_LdF7rEGjuHIGTOBJ__U39navA", OTV
-https://ythls-v2.onrender.com/video/PCUv-Uip7QU.m3u8
+https://ythls-v2.onrender.com/video/PCUv-Uip7QU.m3u8?playlist=news-india-odia

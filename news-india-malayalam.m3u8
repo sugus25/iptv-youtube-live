@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="News India (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/eqbZ6s1e5--bLtQT-w_COL6u7ajCp_cUwtc-yXUntjsmXwjflWaFgKRrP0ao02Zhw3e_7zZIfA", 24 News
-https://ythls-v2.onrender.com/video/V_MXWptocIE.m3u8
+https://ythls-v2.onrender.com/video/V_MXWptocIE.m3u8?playlist=news-india-malayalam
 
 #EXTINF:-1 group-title="News India (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZStxINea384yNmePLljoTiiZYjrBy5tVRTtWeui", Amrita News
-https://ythls-v2.onrender.com/channel/UC3OuQHDTc6TcA0O_Hq83BMg.m3u8
+https://ythls-v2.onrender.com/channel/UC3OuQHDTc6TcA0O_Hq83BMg.m3u8?playlist=news-india-malayalam
 
 #EXTINF:-1 group-title="News India (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lAGVy3o9sMmQWAnmwhEErLJWGsaocDvZkzUsBRIbY", asianetnews
-https://ythls-v2.onrender.com/channel/UCf8w5m0YsRa8MHQ5bwSGmbw.m3u8
+https://ythls-v2.onrender.com/channel/UCf8w5m0YsRa8MHQ5bwSGmbw.m3u8?playlist=news-india-malayalam
 
 #EXTINF:-1 group-title="News India (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/cmIOOd_9zU_l4dqzvg5qvjMGjNfxorCyEvqf9TeQfscNG50S10JO4NR43hjxMN8NyG72SfAwqA", Zee Malayalam News
-https://ythls-v2.onrender.com/channel/UCka4WcizWM0WMKF-bMiYzWQ.m3u8
+https://ythls-v2.onrender.com/channel/UCka4WcizWM0WMKF-bMiYzWQ.m3u8?playlist=news-india-malayalam
