@@ -40,7 +40,7 @@ https://ythls-v2.onrender.com/${channel.youtube}.m3u8`
   playlist.write(item)
 
   // get category playlist
-  let category = `${channel.group}-${channel.language}`.toLowerCase().replaceAll(' ', '-').replace(/^(-)/, '').replace('()', '')
+  let category = `${channel.group}-${channel.language}`.toLowerCase().replaceAll(' ', '-').replace(/^(-)|(-)$/, '').replace('()', '')
 
   if (category === '') { category = 'ungrouped' }
 
