@@ -4932,6 +4932,9 @@ https://ythls-v2.onrender.com/channel/UCWb-9MkraVlBhqEX7-r_PBQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XIrz2X4rxeRt59xggde9am7KqkZQ7e3TSaY3bZVWr6bWAVToAKNNH05ZAyovMCJySVxTjZHD", KBS Kpop
 https://ythls-v2.onrender.com/video/bvRkRoaM4j4.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/gsNDSfvzKpZT0OEjTBFH5PxokZ7WeZQU5PcsMWD8vJyBI6ts4uUDic_KsipnVbIUhtToblLaig", KBS News
+https://ythls-v2.onrender.com/video/oaMlwgtvySo.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQk6fABQwYAcjuJiDHQdHSQ_W9n2CmNF3MoUy6HEPM", KBS WORLD TV
 https://ythls-v2.onrender.com/channel/UC5BMQOsAB8hKUyHu9KI6yig.m3u8?playlist=index
 
@@ -4985,6 +4988,9 @@ https://ythls-v2.onrender.com/video/f5JShScNcuU.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/NjkP0xuLjschWIaiK1hOeWvFp6TcVJDCkiye66W9cGKH_oHo9D1EfgoEtexKYHOPewOlLaOEmzc", Khalid Basalamah Official
 https://ythls-v2.onrender.com/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/NjkP0xuLjschWIaiK1hOeWvFp6TcVJDCkiye66W9cGKH_oHo9D1EfgoEtexKYHOPewOlLaOEmzc", Khalid Basalamah Official
+https://ythls-v2.onrender.com/video/hvOPyjzPEr8.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/NjkP0xuLjschWIaiK1hOeWvFp6TcVJDCkiye66W9cGKH_oHo9D1EfgoEtexKYHOPewOlLaOEmzc", Khalid Basalamah Official
 https://ythls-v2.onrender.com/video/mCp8faj4D9E.m3u8?playlist=index
@@ -10488,10 +10494,10 @@ https://ythls-v2.onrender.com/video/2mCSYvcfhtc.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/jWe-dwGiiNd26ijxazm7ZTmbbObYF0e-HJntH2d_YtMM4M-vLKfoSb9Wj1NA6NOUk6KfsG2IsA", TVBS NEWS
 https://ythls-v2.onrender.com/video/m_dhMSvUCIc.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTYjwjvsbDzUsjONQS4QfIFdoqg07u-VBNHIOZFdg", TVBS選新聞
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m-Vl9B7_vhC4352UCshzzMiHb1JK4jdOSLi9qxMw", TVBS選新聞
 https://ythls-v2.onrender.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTYjwjvsbDzUsjONQS4QfIFdoqg07u-VBNHIOZFdg", TVBS選新聞
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m-Vl9B7_vhC4352UCshzzMiHb1JK4jdOSLi9qxMw", TVBS選新聞
 https://ythls-v2.onrender.com/video/YvdcZ_jpLXE.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTZuSFv9Wieel8Oc2jPq8-UWdOnphh7UVCbTxTGZma_huFOZYlPQjKLci-dC--q", tvc
@@ -11476,6 +11482,9 @@ https://ythls-v2.onrender.com/channel/UCkAAeM8RfelfjpHas1g610g.m3u8?playlist=ind
 https://ythls-v2.onrender.com/video/zxdjZaUb6FU.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Ox9aRm-CYB84dShwxT8ujujSVWEKn89dhdyyZcTxVxNi0E4euQ6a_nK5w566WaJdCiBmZmws", Кино Добряк
+https://ythls-v2.onrender.com/channel/UCf2BpLgfxb7JRkcIdDllVcg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Ox9aRm-CYB84dShwxT8ujujSVWEKn89dhdyyZcTxVxNi0E4euQ6a_nK5w566WaJdCiBmZmws", Кино Добряк
 https://ythls-v2.onrender.com/video/1HhXn2GmXeM.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Ox9aRm-CYB84dShwxT8ujujSVWEKn89dhdyyZcTxVxNi0E4euQ6a_nK5w566WaJdCiBmZmws", Кино Добряк
@@ -12024,7 +12033,7 @@ https://ythls-v2.onrender.com/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/eALh-RGxsHUJhYkEGMTp7nDiLsygam1lQfm4cSxmR4AmiEBlf_RykRDmvzNavQqaKM3sXYvTnA", 北陸朝日放送公式チャンネル
 https://ythls-v2.onrender.com/video/ztYNoOp1bOU.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTBk3dJ76li6D0X9U1Std1S257TkdGDrPfFBWz8IA", 台灣啟示錄
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mnoTU3o801fvNFgZKNsTsPeOhu1D1tnfBgu_T0iA", 台灣啟示錄
 https://ythls-v2.onrender.com/channel/UCqdR2j_W3QRyw5nc-0Ku-0A.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w", 台視新聞 TTV NEWS
@@ -12287,6 +12296,9 @@ https://ythls-v2.onrender.com/video/PnsQxmoA0Ak.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/gtQSx9jIZk45taCqDMEIGxVaNDLRZnEkMnAbHx0K5PSXWQyFGGBdEjQ7FMYJ2y7WeHC5EKFbng4", 뉴스TVCHOSUN
 https://ythls-v2.onrender.com/video/US-6zZE0Zzo.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/gtQSx9jIZk45taCqDMEIGxVaNDLRZnEkMnAbHx0K5PSXWQyFGGBdEjQ7FMYJ2y7WeHC5EKFbng4", 뉴스TVCHOSUN
+https://ythls-v2.onrender.com/video/dUMqDC13Uwk.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/TjSlbvsyFZvCYMrV_ymIEX-_7XiU9P4g3DA-1cKUr0W28h33WgDD0ra8ggyaGxJs4ixwJcUkQA", 디글 클래식 :Diggle Classic
 https://ythls-v2.onrender.com/channel/UCRMA_Nb5VF-YoWApSVeXPVA.m3u8?playlist=index
