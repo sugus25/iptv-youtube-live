@@ -2610,6 +2610,9 @@ https://ythls-v2.onrender.com/channel/UCOqU-HfQxoyImaCW2tCDxJA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Lifestyle (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nox1yztnUW4DxjZllu6xSSd7EiX7pxP0Wa_GslSg", DD Kisan
 https://ythls-v2.onrender.com/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nox1yztnUW4DxjZllu6xSSd7EiX7pxP0Wa_GslSg", DD Kisan
+https://ythls-v2.onrender.com/video/rgIAPxocjiE.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Lifestyle (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/ZQvfISiU0caErWX5eTWdc5kszGGpvaffdFj-cnf5yYuYRL0crr3nuALKqNpNo0FvzHXBDtxG", DD Malayalam
 https://ythls-v2.onrender.com/channel/UC4--pPs1CVZvs60uuhfjdwQ.m3u8?playlist=index
 
@@ -5201,6 +5204,9 @@ https://ythls-v2.onrender.com/channel/UCABzirZ6FyebIf8YSptKMwQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRdoS1Za-a2pzfnYiIclq1nFM5asoxt5BZIi3Yo", Kurtlar Vadisi
 https://ythls-v2.onrender.com/video/h3hxiPn_tpg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cM0inRAu92pkllVGzEH0s3u5aIOAxXudba4RyFITssFGssQbrL0M0rJcTalHaqJC9V1xSE-FwQ", KYT Kagoshima Yomiuri Television
+https://ythls-v2.onrender.com/video/n7KsVjq1-Pg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSjKQ-Xp8qIBux9ZInTMk600UlSB77CWJ8rmTs4og", KÊNH NHẠC BOLERO
 https://ythls-v2.onrender.com/channel/UCGSImBaGKThP3OySylUbgqQ.m3u8?playlist=index
@@ -8465,6 +8471,9 @@ https://ythls-v2.onrender.com/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/w7ColCSgsKVMJuh6izq4oRlYn-ZkJ8roQuHQy1Nvc75ONCH7uzLmoUE5YMJtZqFCHb4ZFPxAOg", SBS 뉴스
 https://ythls-v2.onrender.com/video/WF-HJt8cl8Q.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_l-2SFDUN5f2rg3SyLiyFa-UMY6OKqLINjSDGY47Q", SBSnews6
+https://ythls-v2.onrender.com/video/uNIRf27cDg4.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Sy1nh5tP0V7p_nwM5KMFY0e-yN2pjFKpNQMSX3oTQHU1H2hOWVsrSXIfdcRKXCHcKVm6wiPCxhg", SBT CENTRAL
 https://ythls-v2.onrender.com/channel/UC-kzuB1mP2LnmaXMPniKeyg.m3u8?playlist=index
@@ -12062,6 +12071,9 @@ https://ythls-v2.onrender.com/video/TCnaIE_SAtM.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/fdXarUWa35Y7mxPkAkN24M9FBaCD64wRtQNNtF54OWteSbjQf0zBzhIDVLKgH0rW9ZL0wQ8eUw", 中視經典綜藝
 https://ythls-v2.onrender.com/video/ADDSmXoPDY8.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/BUyTS6kEliNZTrldgWaADhmJlVPgjjipSH1W24wA7kNJl-l4XyKK3y_Qddn234p94CZ7H8U-", 佐世保競輪場
+https://ythls-v2.onrender.com/channel/UCHsrH9sBqz9uDKggEKGsOFw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQVlqvIGqzxzGB1GCDCrgbEPIVL86EFCBtZZYjd", 信大電視台
 https://ythls-v2.onrender.com/video/qZDvTO6M8N8.m3u8?playlist=index
