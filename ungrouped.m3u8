@@ -7848,7 +7848,7 @@ https://ythls-v2.onrender.com/channel/UCL3nrPOUK0MCcm5nFk800xQ.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTAmocTuRXXcGnfS1Wa1whCkwp_SMVzY6ZQItDo", Rtv Live
 https://ythls-v2.onrender.com/channel/UCR0hSGudjeZfnGL3uodU9Sw.m3u8?playlist=ungrouped
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZR64S2JMC4UCkgJH_hm8ZsT_61b3V6Nppj3b8ITHQ", Rtv Music
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nbOznJZ93pKVAJwj7qoZRWpeI-0x5UBDaqjuWsrg", Rtv Music
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nbOznJZ93pKVAJwj7qoZRWpeI-0x5UBDaqjuWsrg", Rtv Music
@@ -10970,6 +10970,9 @@ https://ythls-v2.onrender.com/video/2RUChKtPxaY.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ii6es9vZNnm8vfHkuaobCkiO2-bc6eY9krxHdpWe4BZ7yFt4pltv_CusbWkmc2YKay9sz2A8Mhk", Zee 24 Ghanta
 https://ythls-v2.onrender.com/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ii6es9vZNnm8vfHkuaobCkiO2-bc6eY9krxHdpWe4BZ7yFt4pltv_CusbWkmc2YKay9sz2A8Mhk", Zee 24 Ghanta
+https://ythls-v2.onrender.com/video/8aApFBmEJV0.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRdd2IrK7VCXXjJGeF1HK59W4tJOxVffRWWezX5Uw", Zee 24 Kalak
 https://ythls-v2.onrender.com/channel/UCkNL_TQio--h85-14lUVY3A.m3u8?playlist=ungrouped
