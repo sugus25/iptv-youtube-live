@@ -72,6 +72,9 @@ https://ythls-v2.onrender.com/video/1NJkxVQsSIo.m3u8?playlist=ungrouped
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/eqbZ6s1e5--bLtQT-w_COL6u7ajCp_cUwtc-yXUntjsmXwjflWaFgKRrP0ao02Zhw3e_7zZIfA", 24 News
 https://ythls-v2.onrender.com/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8?playlist=ungrouped
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/eqbZ6s1e5--bLtQT-w_COL6u7ajCp_cUwtc-yXUntjsmXwjflWaFgKRrP0ao02Zhw3e_7zZIfA", 24 News
+https://ythls-v2.onrender.com/video/1wECsnGZcfc.m3u8?playlist=ungrouped
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/aJuYpTLX6RQmr3S9FHG_LVpYOSbBQ4aBEKTXMqFNBfTQi6kzbjZg-liRGRhlAOQLtGzpG1EuPQ", 24 News HD
 https://ythls-v2.onrender.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8?playlist=ungrouped
 
@@ -4530,6 +4533,9 @@ https://ythls-v2.onrender.com/channel/UCzbuX20FITVFurAO5y1Hw-w.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/E32blgrswnVeeA4UBn-86D1hwnfsGNQUbl9yIzQd2WO2n73R5sQm4o8cq2XvnJGz80LgZH1GI7w", Kafa Radyo
 https://ythls-v2.onrender.com/video/BGXDZN-wLn0.m3u8?playlist=ungrouped
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/UQ2HWeOD-dmiu_bdebpCnTUlFjXOm885dgQZehw2LQJs6j7nNGTkJfwKk2kOk9eI9WkdGO-_kCA", Kairali News
+https://ythls-v2.onrender.com/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8?playlist=ungrouped
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/jLtUBolohoXYmDNg8HHjTjOXTph9YNZ1OJlz_I3_9P15fY9jGrVjg3wFX_v2fTCP6BLrV_r9dQ", Kairali News Live
 https://ythls-v2.onrender.com/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8?playlist=ungrouped
 
@@ -5460,7 +5466,7 @@ https://ythls-v2.onrender.com/channel/UC-YHhXeWjF80OkVxR-HE2Xw.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTUUOTfbkEA2mA-d7k7Z_QT_FFLkD0zLkhie518QQ", Matheus Midnight
 https://ythls-v2.onrender.com/video/WnPLGrPrpFo.m3u8?playlist=ungrouped
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQW6virSsRYEhOy7pBVwH4kCrLP2829Igpw_TVJyQ", Mathrubhumi News
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mTAZEnWmfIJO9xSjHlStex_X46qvXt3S48WzM24A", Mathrubhumi News
 https://ythls-v2.onrender.com/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQW6virSsRYEhOy7pBVwH4kCrLP2829Igpw_TVJyQ", Mathrubhumi News
@@ -6216,7 +6222,7 @@ https://ythls-v2.onrender.com/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZS6vFIerXWH2OlKz9G92C1kxOQ9ZJrYSHUkfQlC", News18 Kannada
 https://ythls-v2.onrender.com/channel/UCa-vioGhe2btBcZneaPonKA.m3u8?playlist=ungrouped
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQSRNmKehLdLey3x8Y6ypu7u5o4I_EeNmBmNxJP", News18 Kerala
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kmoY9LO5vlZjCADjT2RdKz58S-eIXuHKzte1j2", News18 Kerala
 https://ythls-v2.onrender.com/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kmoY9LO5vlZjCADjT2RdKz58S-eIXuHKzte1j2", News18 Kerala
