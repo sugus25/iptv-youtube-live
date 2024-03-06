@@ -1572,6 +1572,9 @@ https://ythls-v2.onrender.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/QnXaC_YmVgrih83IPHmS_37TOJquPQm4ESeop_PTyvatdS6pJa4ynQ57K9NtD6xV9n41h7to6Bw", Bloomberg Originals
 https://ythls-v2.onrender.com/video/dp8PhLsUcFE.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/qCejD6mQ2-vgzWlelweQ-jy9fGUoF2wmviPtT_jTpIpil1IxWMXLX63CyCSUbL9ND6OHA4-7EA", Bloomberg Podcasts
+https://ythls-v2.onrender.com/video/f39oHo6vFLg.m3u8?playlist=index
+
 #EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/67h6bB9Vlw5SpQkWek4Uk8weqxzaPNGH76sAMK4j431Jx8JlUt8mblVlTCwseeb7rDavn3yBJA", Bloomberg Quicktake
 https://ythls-v2.onrender.com/channel/UChirEOpgFCupRAk5etXqPaA.m3u8?playlist=index
 
@@ -10857,7 +10860,7 @@ https://ythls-v2.onrender.com/channel/UCX9fOfRkHANZM8iFWhMSpNg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRxbF9FdEhDOxUUwuBo9jcO2EEa2jyhbWwr6RFKvmKzz14EivcZ9MEOF2xQ6Gl0", Unidad móvil
 https://ythls-v2.onrender.com/channel/UCWO69LoK_HZOytfDeHGP17g.m3u8?playlist=index
 
-#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZT1h7EAuZJSM4nnsACqhR7FW7xHcp3JAfjEVVSXgA", United Nations
+#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kXPF7sgpeA_e6OR_ydi-YH0UG5HcoLa2xC5VSI4g", United Nations
 https://ythls-v2.onrender.com/channel/UC5O114-PQNYkurlTg6hekZw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kXPF7sgpeA_e6OR_ydi-YH0UG5HcoLa2xC5VSI4g", United Nations
