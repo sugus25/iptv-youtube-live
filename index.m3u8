@@ -1575,9 +1575,6 @@ https://ythls-v2.onrender.com/channel/UCTkdljjww8wAfwgM_shLkwA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/yl5wB5k6SCI2wJmR6sLu7FtDRW-Q1Nn9dMNUARG7YQM2RC1Qz4Ju0Fp3fg1bJrEzgXhmW4EhNg", BL Football Talks
 https://ythls-v2.onrender.com/channel/UCheoPVfCDFaQs51tDGR7hTA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/0jkroHDIixiHzeX_mU7X-gbWNttMTivmq1FUP8qJFzt-1A37B1_ZzeCMvAW_Mp0LY2r__eIrcq8", BLAST Premier
-https://ythls-v2.onrender.com/video/5WjbcDGoSoA.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/z46thQYw9m3BZ1K_DObnPSxnhZ3FIwYPsDY30FfaPnw-WKJNF7LtWIr4qpy3Oe0XWwuSl_mt4g", blckbx
 https://ythls-v2.onrender.com/channel/UCf4SA-3i1MCLPmNjtNHcm1Q.m3u8?playlist=index
 
@@ -5768,6 +5765,9 @@ https://ythls-v2.onrender.com/channel/UCCCnrECJpv84QKM4olodZOQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSRpkgM8eLE4YvzSeXqZBH3xAi5jT8d-OSv9Sot", Lòria TV
 https://ythls-v2.onrender.com/video/9wfdaK2B0Nc.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lPxd3m-19anQmyUpY1nhFo0-kzs_6Ratg3kH8M", Lòria TV
+https://ythls-v2.onrender.com/video/sCDtOb7te54.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/0xsBX1LVlSjadg7a1twq0TmBWTg_7XwU1MaAji4SsJkwqVNfgpor1IpLo7aqDVqkRAojifwCcA", Lú Như Cú Remix
 https://ythls-v2.onrender.com/channel/UCdF5zGF1z8pDKF51oZ9jkYA.m3u8?playlist=index
