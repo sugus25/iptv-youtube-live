@@ -1452,7 +1452,7 @@ https://ythls-v2.onrender.com/channel/UCqLsfkQSM0yfyGvONAGWd3Q.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/JyNMUNdZ3Il5LrfZHUthz3eFk30GQeAZW9OvHQ_lXtfIL20g4C3sCe6LiFlp2nDWXaXSdcaxnkc", Berkan Ural Music
 https://ythls-v2.onrender.com/channel/UCoJqwTgi_lZpqKKai2na7kQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="News Malaysia (Malay)" tvg-language="Malay" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQUpp3B7EIZW0qQLpqB83FJXAAF9ul2cPNyMD21lA", BERNAMA TV
+#EXTINF:-1 group-title="News Malaysia (Malay)" tvg-language="Malay" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_myTGwUSx9sQ_f8cSFHG31MAyCrTQh8dMsSPLpYcw", BERNAMA TV
 https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQUpp3B7EIZW0qQLpqB83FJXAAF9ul2cPNyMD21lA", BERNAMA TV
@@ -6425,6 +6425,9 @@ https://ythls-v2.onrender.com/video/H2A7Q2I5nZ4.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/KKIAYs5ePDGuXrRx5SQ1iQfuhqk889YDBX4EAhTUhQgDqBpX-e-UpXkeIRInPnmuNJmTXIgyng", MYLER Mountain Resort
 https://ythls-v2.onrender.com/video/ZDfqHPOHazk.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Z34WlV-y4nOMQHkhdLBiTg6vPQ3FJ2Mf85lZTPnwewiKxRI2-rgR7srkA3BTxQD0VlhQBDG15Q", mySURF tv
+https://ythls-v2.onrender.com/channel/UCfEpgtSBkosBtGMWGZhGiGg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Z34WlV-y4nOMQHkhdLBiTg6vPQ3FJ2Mf85lZTPnwewiKxRI2-rgR7srkA3BTxQD0VlhQBDG15Q", mySURF tv
 https://ythls-v2.onrender.com/video/ksD3LKwvFdI.m3u8?playlist=index
