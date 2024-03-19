@@ -2505,7 +2505,7 @@ https://ythls-v2.onrender.com/channel/UCyuLjFPzlkMSYJpIpY8M6qA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/isfCO7TW3pVwbks5cJfyyaWpkmTRUPlTh8qxg606qUPu-zaoAI7gHigvkryjv3pK-kgsoiodIew", contodo 503
 https://ythls-v2.onrender.com/channel/UCwXBXE2DCo4w7otHqZ4AGpA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Crime (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTYib8V3A0cXeb1VJyxyWUJpWDP4LMKB0Wug_oKRQ", COPSTV
+#EXTINF:-1 group-title="Crime (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_naWRszGWBNpCCohhs-xM_tAlmljv2qtuKIQnVxTQ", COPSTV
 https://ythls-v2.onrender.com/channel/UCfJsOa7m1zKMS9T2dvIljfQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/k-gL13BOsl6tEMpNKF-RZ5yfQ5JSEBv4jc8yHILtQ2R1r4hr9lYndwmLdJ7a2lM9OMbVsUUm", Corinthians TV
@@ -10973,6 +10973,9 @@ https://ythls-v2.onrender.com/channel/UC8dnBi4WUErqYQHZ4PfsLTg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/6sAsc_Al0VOPwmG5ho1zFlIakY_6eCMJUzRrz88UYQZzZTJ1UePU5CUOvFFrhZf62WmrKLAIbw4", TV9 Marathi
 https://ythls-v2.onrender.com/video/04y0H01GTg0.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mjerv_2HLUn3AZi_pBcwGK8ybi9R7E_2C4V__4HQ", TV9 Telugu Live
+https://ythls-v2.onrender.com/channel/UCPXTXMecYqnRKNdqdVOGSFg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mjerv_2HLUn3AZi_pBcwGK8ybi9R7E_2C4V__4HQ", TV9 Telugu Live
 https://ythls-v2.onrender.com/video/II_m28Bm-iM.m3u8?playlist=index
