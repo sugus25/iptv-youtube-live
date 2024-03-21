@@ -5388,6 +5388,9 @@ https://ythls-v2.onrender.com/channel/UCLSd1onQHyWb2UsCc6LVavg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Hobby (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSKDJWAoyOgafBuNo-PmmqibH0--ip5PZn70R_b8w", Kozoom
 https://ythls-v2.onrender.com/channel/UCOwcct1FjXWzlvmQxaR4Y8Q.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/5yhCEAvrAmmuOOw1VG0H-TSTWhJfRj6G4X83w_tj54tvU-CRvdSH6CadaSDvC_vK4TXdHdA_", KozyPop
+https://ythls-v2.onrender.com/video/w0rhmlE_8-s.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/vHF_7bhk2Zkv4l9_TbTUqeeoWx-Q9KBnFGjk51n974tgBUjyJYf87Rz_YM39X5sagj2TZDE6lg", Kral Müzik
 https://ythls-v2.onrender.com/channel/UCEAW_kmPVjxTC50vuLyKOQA.m3u8?playlist=index
 
