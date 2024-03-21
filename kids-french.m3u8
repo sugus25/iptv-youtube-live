@@ -1,7 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Kids (French)" tvg-language="French" tvg-logo="https://yt3.ggpht.com/JMvZzfwbr1WQPqBOWtRcCvd3gg24A1t8k_JWDbANUM_XNAx3P9cZBksl7DUmp8YE1KIegi-SXA", Baby Alive Français - Chaîne Officielle
+https://ythls-v2.onrender.com/channel/UCj_YP8My20fYnXbe8B0ziUA.m3u8?playlist=kids-french
+
+#EXTINF:-1 group-title="Kids (French)" tvg-language="French" tvg-logo="https://yt3.googleusercontent.com/WRGwdjTtuCObl1sQFEfeajgJmRjxJAukVQDLmb__gGFGwJNLGkd3sotBl_XhoCrC6UOrCrJatw", Baby Alive Official
+https://ythls-v2.onrender.com/channel/UCXuyuLGGWH7jzd6nIRJVi0A.m3u8?playlist=kids-french
+
 #EXTINF:-1 group-title="Kids (French)" tvg-language="French" tvg-logo="https://yt3.ggpht.com/CjQRWJyAK5F508dKkhsAE84V_aIhPU_ndWYCmMPgEUnumBTLDSUDDqthDFDurJzLWRptkD5avw", Cartoonito France
 https://ythls-v2.onrender.com/channel/UCjSg0PDVShgNIfEC8FEdXzA.m3u8?playlist=kids-french
+
+#EXTINF:-1 group-title="Kids (French)" tvg-language="French" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRtT9nPR0x7xBr9hdR8f-7ddHsw-QdUAseGERkK", Cats Family en Français
+https://ythls-v2.onrender.com/channel/UCil6uAMf2IXD1SkiwZq3xhw.m3u8?playlist=kids-french
 
 #EXTINF:-1 group-title="Kids (French)" tvg-language="French" tvg-logo="https://yt3.ggpht.com/6df9aUis0r9kuRzwnlBLMApe9p8t8CzslcgRH_KmxOAyJLKaV-rzvoHRdv5e9OneyKFoiJQwOQ", Super Truck - Français
 https://ythls-v2.onrender.com/channel/UC4u2o6tyE4vTrErXY9AN6Rw.m3u8?playlist=kids-french

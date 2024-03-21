@@ -1,4 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Kids (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/ZsuLOAVQCfGCxi2C37sH3IkCbmMZep7SEbSYJLRmhi0FdscnpsUups-pkNqrsKjpc-Kn1JMi", Baby Alive Türkçe
+https://ythls-v2.onrender.com/channel/UCK-rEHhYpS5eMzH9JtI-rOQ.m3u8?playlist=kids-turkish
+
 #EXTINF:-1 group-title="Kids (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTYE0AlpDWSQCQmWAciS3mCSIJBidHPqkki6N2ntA", Cartoon Network Türkiye
 https://ythls-v2.onrender.com/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8?playlist=kids-turkish
