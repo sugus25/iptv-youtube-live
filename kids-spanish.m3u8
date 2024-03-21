@@ -1,4 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/VpXRkkpmiZEL0CiRMzOKLVoAjZMhyWu4iLoyz9ga75sabLYG45Yw2oCx-nAS_8uUqZvkRF7QRA", Baby Shark en español
+https://ythls-v2.onrender.com/channel/UCSt2n0wNy6MSQUkBmcPgSug.m3u8?playlist=kids-spanish
+
+#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/RwZgjRonwlXIud2RKVuxzeoUmILlj1UfduyByLdtPcs7saOiqtNqh78RqCX5o4yoSzY5-G7Cjg", BabyBus - Canciones Infantiles & Videos para Niños
+https://ythls-v2.onrender.com/channel/UCy_rxpSt8DMagOUFA9Q-t1A.m3u8?playlist=kids-spanish
+
+#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSoZAq91zZyPXdHjDzJoMlI10NBNIok4o6s4qnj0g", BabyFirst Español
+https://ythls-v2.onrender.com/channel/UCW0fLAGU31dyY7PDgjCs0pQ.m3u8?playlist=kids-spanish
+
+#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/SG44wvIA3-3Y1GgaVHS4u7x-UJ26IPZCkzvAj-sgiYCkzvRmQRfkWBgpvSsCgeOYMQuqzcUhJQ", BabyTV Español
+https://ythls-v2.onrender.com/channel/UCVA9wu4h1lLIPQo9wkJdg7w.m3u8?playlist=kids-spanish
+
 #EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/owJBeyxphe6oRo9RCnFhCa0OaUBbTuhABzyQIhzPAacVHVpwoK2mg2RMMXbZBg3J4ZYELurD", Nickelodeon en Español
 https://ythls-v2.onrender.com/channel/UCNeq3Obf4zOv5rhORI8Vz5g.m3u8?playlist=kids-spanish
