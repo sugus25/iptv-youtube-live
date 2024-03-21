@@ -1000,6 +1000,9 @@ https://ythls-v2.onrender.com/channel/UCmYNKMD89Xaxnqg2t-LeZgQ.m3u8?playlist=ung
 https://ythls-v2.onrender.com/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_moqI0dtW4prCPOSUQ3FX3oQLin-J4clUS3UQMurA", ATN News
+https://ythls-v2.onrender.com/video/IOswShkNAP8.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_moqI0dtW4prCPOSUQ3FX3oQLin-J4clUS3UQMurA", ATN News
 https://ythls-v2.onrender.com/video/IrG61M68IEc.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPyJSncf9lSpzpsHS8yHHeFSFGeJ0azFLNYZr3h", ATN News
