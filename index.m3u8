@@ -567,9 +567,6 @@ https://ythls-v2.onrender.com/channel/UC6c15GN6fw8ASTBKjODgtcw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nJNbmocCdO4oTViOot57hUVJGXsG8JSZOJs__SBvHqND_dFrrBRb_r1m1cEoTDsU-JBP93ve", Ai Breaking Bad Rebooted
 https://ythls-v2.onrender.com/channel/UCsJ5Wb1vvVPX8HpuBhI6IXw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/xFPd4kWwX7YvWI-ecXG_pHhgYSavJ-jHjwRJlvkauwlafBin7pb4KmNsaac436wfLkGwKt19uw", Ai Cartoon2
-https://ythls-v2.onrender.com/channel/UCzRIh3GmrChGwUmnNxHBf1A.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/jSvCG2zCcKdzIPbpFoE5ytuwBqrELHrCJWyqhoaI6mlvZFqibG_ex9BCKEnCEZ5gzbNF_VDI2g", AI Sponge Rehydrated
 https://ythls-v2.onrender.com/channel/UCDB-WqMCNTPCnFpu9K8ejVw.m3u8?playlist=index
 
@@ -1536,12 +1533,6 @@ https://ythls-v2.onrender.com/video/p5CjmP2rmao.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/z46thQYw9m3BZ1K_DObnPSxnhZ3FIwYPsDY30FfaPnw-WKJNF7LtWIr4qpy3Oe0XWwuSl_mt4g", blckbx
 https://ythls-v2.onrender.com/channel/UCf4SA-3i1MCLPmNjtNHcm1Q.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/dQUXHinFqHztcv4IGG2tdFI2GKlAz3Hx0XgSeUtyPStFUXtI3z7LxJu7RieQ5chUqoFySeKJkQ", Blippi Wonders - Educational Cartoons for Kids
-https://ythls-v2.onrender.com/video/6twLbr2RCbI&t=60s.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/dQUXHinFqHztcv4IGG2tdFI2GKlAz3Hx0XgSeUtyPStFUXtI3z7LxJu7RieQ5chUqoFySeKJkQ", Blippi Wonders - Educational Cartoons for Kids
-https://ythls-v2.onrender.com/video/6twLbr2RCbI&t=60s&pp=ygULYmxpcHBpIGxpdmU=.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/QnXaC_YmVgrih83IPHmS_37TOJquPQm4ESeop_PTyvatdS6pJa4ynQ57K9NtD6xV9n41h7to6Bw", Bloomberg Originals
 https://ythls-v2.onrender.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ.m3u8?playlist=index
 
@@ -1641,20 +1632,11 @@ https://ythls-v2.onrender.com/video/CPPZ066JLTM.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg", Booba - Trickfilm für Kinder
 https://ythls-v2.onrender.com/video/k3Tz3LsZ1bw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/BZRQFTUdzDQja9FvseSIVIB7wlEhjIPUJJ3vOFvfcVEQgut6hj3wjd5d25ukTuLAGwGbaGI9grk", Booba Cartoon – New Episodes and Compilations
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/BZRQFTUdzDQja9FvseSIVIB7wlEhjIPUJJ3vOFvfcVEQgut6hj3wjd5d25ukTuLAGwGbaGI9grk", Booba Cartoon – New Episodes and Compilations
 https://ythls-v2.onrender.com/channel/UCV9FxSrPVEX3vjBax04V_uA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg", Booba – Cartoon for Kids
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg", Booba – Cartoon for Kids
 https://ythls-v2.onrender.com/channel/UCKS1HX4moHCcDBZnM9k4giw.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg", Booba – Cartoon for Kids
-https://ythls-v2.onrender.com/video/53RpnhhSZwU.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg", Booba – Cartoon for Kids
-https://ythls-v2.onrender.com/video/K17iui7FqfA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg", Booba – Cartoon for Kids
-https://ythls-v2.onrender.com/video/mdUNjATCmwg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSs45tzKH-dV1SXtxl5oF8xT4ez7gmJZo_J958TGQ", Boom Buddies Indonesia - Kartun & Lagu Anak Anak
 https://ythls-v2.onrender.com/channel/UC84r9HNMGXErz4DJDQzUbcA.m3u8?playlist=index
@@ -2010,17 +1992,8 @@ https://ythls-v2.onrender.com/channel/UChXjw3G_mLCIwpV87fDu_Rw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/gSR3IQ6xWiVWwegPW6lZRP9HLijS_thBvZ34JxmX-r2blnYudg_zUpJm-VRddCwhW2spFxze9v4", Carrusel Deportivo
 https://ythls-v2.onrender.com/channel/UCTapFcyNk2zzc7LnPUjNNQA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/xY8YvQ4HFg3OgUDHkrWuzbd3mUTEGfMAs66qmXSxZGOD4DEuHy640UxstwmflFOtA7dFNgkJvg", Cartoon Network
-https://ythls-v2.onrender.com/channel/UCMsgXPD3wzzt8RxHJmXH7hQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/BnrgYIJLNhJ2p9H-ymJcjVaKTMATWYl9rBix40pemYpkykC4_9gEbF82C_RsKgsRD8YzYXP5mA", Cartoon Network Asia
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/BnrgYIJLNhJ2p9H-ymJcjVaKTMATWYl9rBix40pemYpkykC4_9gEbF82C_RsKgsRD8YzYXP5m", Cartoon Network Asia
 https://ythls-v2.onrender.com/channel/UC9hVEGaTpAYMVd-bRsOYKwA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/BnrgYIJLNhJ2p9H-ymJcjVaKTMATWYl9rBix40pemYpkykC4_9gEbF82C_RsKgsRD8YzYXP5mA", Cartoon Network Asia
-https://ythls-v2.onrender.com/video/-tzkFa0cf5c.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/BnrgYIJLNhJ2p9H-ymJcjVaKTMATWYl9rBix40pemYpkykC4_9gEbF82C_RsKgsRD8YzYXP5mA", Cartoon Network Asia
-https://ythls-v2.onrender.com/video/W0lTT8S94ms.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Kids (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTYE0AlpDWSQCQmWAciS3mCSIJBidHPqkki6N2ntA", Cartoon Network Türkiye
 https://ythls-v2.onrender.com/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8?playlist=index
@@ -3636,11 +3609,8 @@ https://ythls-v2.onrender.com/video/lo6I1zDehTQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRmmv6t1CbQlMNa0bxVe46aJcBYMZ8kDP8VXw", FourSeasons BuenosAires
 https://ythls-v2.onrender.com/channel/UCCkRwmztPEvut3gpsgmCmzw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTaaYuTSVQoHNH1ADjqbEZ2vRKoDmh2yjHuHWEn", Fox Family and Friends
+#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTaaYuTSVQoHNH1ADjqbEZ2vRKoDmh2yjHuHWEn", Fox Family and Friends
 https://ythls-v2.onrender.com/channel/UCR3rqspk_iUpCEiiahEW0mg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaS93g1rDIqxJ57iCJaOYn10ix8wIOsxmRu2JizQ", Fox Family and Friends
-https://ythls-v2.onrender.com/video/ChWY6xLUUcw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Kids (Russian)" tvg-language="Russian" tvg-logo="https://yt3.ggpht.com/9HlrJ3aX2x68Lg2fbzDPXPPYrfzSGlYBE-dimwukUTDuhI0TzO91NbZyqB6iJmVmyJFI8Lby", Fox Kids Russia
 https://ythls-v2.onrender.com/channel/UCmG-sPW_FHZ4TsV15FdVtpw.m3u8?playlist=index
@@ -4185,32 +4155,8 @@ https://ythls-v2.onrender.com/video/gNnp5FdjrLI-tg.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTBhEUTq2-tk2SIvWscw6jbFAZ5oSZZA2hrFP9Vtg", Hermes TV
 https://ythls-v2.onrender.com/channel/UCv_HqaMNADVSi7A3jLrVPsA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OMfQezEr_l-SC3TkMK9uynK6O9wYwfoia0lbDEIQ0xgPKK7c7hbgHM_aKP-XGNLV1PtuCcj6Hwg", Heroes Cartoon - DINO CORE
-https://ythls-v2.onrender.com/video/-XGxSjOfnhg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OMfQezEr_l-SC3TkMK9uynK6O9wYwfoia0lbDEIQ0xgPKK7c7hbgHM_aKP-XGNLV1PtuCcj6Hwg", Heroes Cartoon - DINO CORE
-https://ythls-v2.onrender.com/video/2RzV43o-P-o.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OMfQezEr_l-SC3TkMK9uynK6O9wYwfoia0lbDEIQ0xgPKK7c7hbgHM_aKP-XGNLV1PtuCcj6Hwg", Heroes Cartoon - DINO CORE
-https://ythls-v2.onrender.com/video/3urTwf1EwfU.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OMfQezEr_l-SC3TkMK9uynK6O9wYwfoia0lbDEIQ0xgPKK7c7hbgHM_aKP-XGNLV1PtuCcj6Hwg", Heroes Cartoon - DINO CORE
-https://ythls-v2.onrender.com/video/AjAoebLvnmk.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OMfQezEr_l-SC3TkMK9uynK6O9wYwfoia0lbDEIQ0xgPKK7c7hbgHM_aKP-XGNLV1PtuCcj6Hwg", Heroes Cartoon - DINO CORE
-https://ythls-v2.onrender.com/video/Ekza_24or4k.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OMfQezEr_l-SC3TkMK9uynK6O9wYwfoia0lbDEIQ0xgPKK7c7hbgHM_aKP-XGNLV1PtuCcj6Hwg", Heroes Cartoon - DINO CORE
-https://ythls-v2.onrender.com/video/Mt_k3j78lt4.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OMfQezEr_l-SC3TkMK9uynK6O9wYwfoia0lbDEIQ0xgPKK7c7hbgHM_aKP-XGNLV1PtuCcj6Hwg", Heroes Cartoon - DINO CORE
-https://ythls-v2.onrender.com/video/U-FWKI_sa2k.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OMfQezEr_l-SC3TkMK9uynK6O9wYwfoia0lbDEIQ0xgPKK7c7hbgHM_aKP-XGNLV1PtuCcj6Hwg", Heroes Cartoon - DINO CORE
-https://ythls-v2.onrender.com/video/Y_ZaqLE-cLo.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OMfQezEr_l-SC3TkMK9uynK6O9wYwfoia0lbDEIQ0xgPKK7c7hbgHM_aKP-XGNLV1PtuCcj6Hwg", Heroes Cartoon - DINO CORE
-https://ythls-v2.onrender.com/video/_ALss3vtE5A.m3u8?playlist=index
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/OMfQezEr_l-SC3TkMK9uynK6O9wYwfoia0lbDEIQ0xgPKK7c7hbgHM_aKP-XGNLV1PtuCcj6Hwg", Heroes Cartoon - DINO CORE
+https://ythls-v2.onrender.com/channel/UC26BfMVe6FdXKz67AX2DH4w.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/NghPm1DSYLx1sF4F3pB1Kls2G5jzJSK0U2cCx0YV9efI4gYsQ1zlAVOZHYbPEDcLGRzOUJdO_A", Hexa
 https://ythls-v2.onrender.com/channel/UCtd-EN6Zjopzf7wmoYIdFAQ.m3u8?playlist=index
@@ -7251,7 +7197,7 @@ https://ythls-v2.onrender.com/channel/UCFd5q5UWWV0RpSpPkTFOtRg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_n2bfx6KF1SQ5e-011PXCmujabN_vvjIL1Amqek", Odd Eagle
 https://ythls-v2.onrender.com/video/tSlOlKRuudU.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQhJJ6iRGJCuCRJjt7Von493apJkSAwRHQU7GgMSw", Oddbods - Official Channel
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQhJJ6iRGJCuCRJjt7Von493apJkSAwRHQU7GgMSw", Oddbods - Official Channel
 https://ythls-v2.onrender.com/channel/UCtlth0w7_mYqpHPViMhQ99Q.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/zODgYcASMdG_AxdH9azDIXqZJKTC-g3YWx_akyJC-oPN9rXjFYgvD73jXjxdmecuhI_gQhg6=s100-c-k-c0x00ffffff-no-rj", Oddbods Cartoons
@@ -7533,29 +7479,11 @@ https://ythls-v2.onrender.com/channel/UCeLzT-7b2PBcunJplmWtoDg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/RAkQ3snWPgt0-D-n2NIzjGZCRTpIzo_kWWj4ff-wSdiy9FBVvdehCsSmwZNwhHuLXjaFow4j5g", PAVIVIEW | o canal do Pavinatto
 https://ythls-v2.onrender.com/channel/UCtD5V9CIoR4PHhXTi-DTwXw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/fXAnfbXdv7xQxCRYxuSpAsR1o2dvC3NCY22mftXtWhTZeYeJNuAlj01lnr71n4KknmXjg6Q-d4o", PAW Patrol en Español
+#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/fXAnfbXdv7xQxCRYxuSpAsR1o2dvC3NCY22mftXtWhTZeYeJNuAlj01lnr71n4KknmXjg6Q-d4o", PAW Patrol en Español
 https://ythls-v2.onrender.com/channel/UCJNBZaQWMIHACqvHT_k2cWw.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/fXAnfbXdv7xQxCRYxuSpAsR1o2dvC3NCY22mftXtWhTZeYeJNuAlj01lnr71n4KknmXjg6Q-d4o", PAW Patrol en Español
-https://ythls-v2.onrender.com/video/GBbTfDsGD80.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/d83FgJTp4AB_v1KAuNC_WXIrS2lAYslBLRKQSRB3zFW3QSzd1Pn2NMMlKW0I-0f2qL1HNsk0", PAW Patrol Official & Friends
 https://ythls-v2.onrender.com/channel/UCSVSJ1OCSv5ClFgKFTHIDew.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/d83FgJTp4AB_v1KAuNC_WXIrS2lAYslBLRKQSRB3zFW3QSzd1Pn2NMMlKW0I-0f2qL1HNsk0", PAW Patrol Official & Friends
-https://ythls-v2.onrender.com/video/Np7bbZGbiVA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/d83FgJTp4AB_v1KAuNC_WXIrS2lAYslBLRKQSRB3zFW3QSzd1Pn2NMMlKW0I-0f2qL1HNsk0", PAW Patrol Official & Friends
-https://ythls-v2.onrender.com/video/jYsxH9g3VuI.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/d83FgJTp4AB_v1KAuNC_WXIrS2lAYslBLRKQSRB3zFW3QSzd1Pn2NMMlKW0I-0f2qL1HNsk0", PAW Patrol Official & Friends
-https://ythls-v2.onrender.com/video/kj6y57Uf1GI.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/d83FgJTp4AB_v1KAuNC_WXIrS2lAYslBLRKQSRB3zFW3QSzd1Pn2NMMlKW0I-0f2qL1HNsk0", PAW Patrol Official & Friends
-https://ythls-v2.onrender.com/video/sb54zo11hSU.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/d83FgJTp4AB_v1KAuNC_WXIrS2lAYslBLRKQSRB3zFW3QSzd1Pn2NMMlKW0I-0f2qL1HNsk0", PAW Patrol Official & Friends
-https://ythls-v2.onrender.com/video/yI3H8Dnrn9M.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/9VVlNzODzNz53P85R9YwY03vB7ZMQxIpquw6AM2-Rn7-oCJT1EvRZb1eN0pHzq0VphnEW6tjLg", pbcjamaica
 https://ythls-v2.onrender.com/channel/UC8X0kkF7HNdWUxTMjAagJxw.m3u8?playlist=index
@@ -9519,34 +9447,22 @@ https://ythls-v2.onrender.com/video/a0QoQxsbDLY.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/NQat7q17lEssKBQDRkOTS7ARZ-QcajQWQsrwMgVoHjQ0GxZedEi57BqIbF1DcncitEp5m9yoy1M", Super Express
 https://ythls-v2.onrender.com/channel/UCJ33TxiuEEYWLZ4ahILb0zQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/y5Tzb0pMxPPLanirclqZbasYEfmkMB3LAZkbvYGPHLpcZcbiwLXnXBC9UxLx36H7f-dfhUa_=s100-c-k-c0x00ffffff-no-rj", Super JoJo
-https://ythls-v2.onrender.com/channel/UCJzcBX9R38KVkH7sWUn5apA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/POZHe5A3SONbHwl9AA50sm93H6ES6ffijLyQWb7eMajEQCa6Ut0fNLwHVC4F69Va5hxoVoMp", Super JoJo - Canciones Infantiles
-https://ythls-v2.onrender.com/channel/UCX3nQH31gPIk4RIAG_b38Vg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/y5Tzb0pMxPPLanirclqZbasYEfmkMB3LAZkbvYGPHLpcZcbiwLXnXBC9UxLx36H7f-dfhUa_", Super JoJo - Playtime with Friends
-https://ythls-v2.onrender.com/video/LKjuiNSDRmo.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/d_kR2vIqCT1tOr7FUA4kIR4xQlKjkR9G5bxpsbUe66j7rW43getgKINlHhwjdDLn-Tl5Lhcg6w", Super Simple Español - Canciones Infantiles Y Más
-https://ythls-v2.onrender.com/channel/UCyY3Wd5x85o8AKXjYSoxFAQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/wfO1-J_V0yO6VW2F0MKGdvORISTzvdIWmfV8ghkZpHH4nOLHhARqFsBNVp4Ey9_cphHcq8zTWQ", Super Simple Songs - Kids Songs
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/wfO1-J_V0yO6VW2F0MKGdvORISTzvdIWmfV8ghkZpHH4nOLHhARqFsBNVp4Ey9_cphHcq8zTWQ", Super Simple Songs - Kids Songs
 https://ythls-v2.onrender.com/video/_K_7yDfi5og.1.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQ1IZ_TqgTem0DzVOqTEHyBKZtPrU6XJLyjWyPNLw", Super Toons TV
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQ1IZ_TqgTem0DzVOqTEHyBKZtPrU6XJLyjWyPNLw", Super Toons TV
 https://ythls-v2.onrender.com/channel/UCL4xLe_SjcDccfpVeSRFGYQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTDdNSYNbGjn55DmEZcg7XKhQZHjf-9t5n5hjkv2w", Super Toons TV - Dibujos Animados en Español
+#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTDdNSYNbGjn55DmEZcg7XKhQZHjf-9t5n5hjkv2w", Super Toons TV - Dibujos Animados en Español
 https://ythls-v2.onrender.com/channel/UCBO856ZVw88_wjNY2izgu9w.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTJQx3QVllZR-Ds0skijUq1NyjlDedcyFgfDUv8", Super Toons TV Bahasa
 https://ythls-v2.onrender.com/video/J5aS1BjgZik.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRhARv8ei_mlI5M7QDDiWeaObFVnE0wvHHokeie", Super Toons TV Tiếng Việt
+#EXTINF:-1 group-title="Kids (Vietnamese)" tvg-language="Vietnamese" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRhARv8ei_mlI5M7QDDiWeaObFVnE0wvHHokeie", Super Toons TV Tiếng Việt
 https://ythls-v2.onrender.com/channel/UCx5EWcp8bcKx0f1fCgAeyAA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/6df9aUis0r9kuRzwnlBLMApe9p8t8CzslcgRH_KmxOAyJLKaV-rzvoHRdv5e9OneyKFoiJQwOQ", Super Truck - Français
+#EXTINF:-1 group-title="Kids (French)" tvg-language="French" tvg-logo="https://yt3.ggpht.com/6df9aUis0r9kuRzwnlBLMApe9p8t8CzslcgRH_KmxOAyJLKaV-rzvoHRdv5e9OneyKFoiJQwOQ", Super Truck - Français
 https://ythls-v2.onrender.com/channel/UC4u2o6tyE4vTrErXY9AN6Rw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTq0yJQHfhsGz8K0WmxFqjAPPXNBOZRAEoCb5enceg", Surabaya Mengaji
@@ -9735,32 +9651,17 @@ https://ythls-v2.onrender.com/video/oZdzzvxTfUY.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/7oHDLfe2OmUa1JKmmkZNDMKE05gOuz8zWXpNGhg2JxhOfBNX0eAfJ6r3_Qa9MPzBdX3rvivF", TaiwanPlus Livestream
 https://ythls-v2.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/s6xRAQnIVE09JESvlo1_CLgLFxGGlzUS1nLscPXwTRNlb9DxX3nRcxwLh61vGY12r04KlLlEug", Talking Tom
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/s6xRAQnIVE09JESvlo1_CLgLFxGGlzUS1nLscPXwTRNlb9DxX3nRcxwLh61vGY12r04KlLlEug", Talking Tom
 https://ythls-v2.onrender.com/channel/UCm3hAp1m1xlAz0ve_EKAo4g.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/s6xRAQnIVE09JESvlo1_CLgLFxGGlzUS1nLscPXwTRNlb9DxX3nRcxwLh61vGY12r04KlLlEug", Talking Tom
-https://ythls-v2.onrender.com/video/MeAmikSx3v8.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRK8tBykmMlQknBjYNyPxU3rc3dk3SGPIUt3oSDcg", Talking Tom & Friends France
+#EXTINF:-1 group-title="Kids (French)" tvg-language="French" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRK8tBykmMlQknBjYNyPxU3rc3dk3SGPIUt3oSDcg", Talking Tom & Friends France
 https://ythls-v2.onrender.com/channel/UCNlAox6aLNlE3M6QP2nzv7w.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/JR8B8FhYgA5HjcFfyv13SrDR7WzsZzgOplWkd3CgfXIPXWvZNyZ9gBnDjjWhab5znidwNG8E", Talking Tom & Friends TV
 https://ythls-v2.onrender.com/channel/UCDCNmuaOXOo25Yn4mbMHhhQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/JR8B8FhYgA5HjcFfyv13SrDR7WzsZzgOplWkd3CgfXIPXWvZNyZ9gBnDjjWhab5znidwNG8E", Talking Tom & Friends TV
-https://ythls-v2.onrender.com/video/C1baTM7MijQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/JR8B8FhYgA5HjcFfyv13SrDR7WzsZzgOplWkd3CgfXIPXWvZNyZ9gBnDjjWhab5znidwNG8E", Talking Tom & Friends TV
-https://ythls-v2.onrender.com/video/DmKk_hF9Kj8.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRwcazsHfRrsXWGubo-xFjDcIAsADW74iN8CmGnRw", Talking Tom Heroes
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRwcazsHfRrsXWGubo-xFjDcIAsADW74iN8CmGnRw", Talking Tom Heroes
 https://ythls-v2.onrender.com/channel/UCwC-DciMGGk9AgpJ3hpreHw.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRwcazsHfRrsXWGubo-xFjDcIAsADW74iN8CmGnRw", Talking Tom Heroes
-https://ythls-v2.onrender.com/video/8vPQYCnesw8.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYTlFCTihGonZblY-_znbMB4Q-i7PWi7OGhMOMDrg", Talking Tom Heroes
-https://ythls-v2.onrender.com/video/iwNMxMIpLw4.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/brUeyy-sv-UNAGeBSdTNf-TvPEUSdwedFPucTRDx33AJXx_NPFAvqg0SyefautLq9FUzYW8b", talkSPORT
 https://ythls-v2.onrender.com/channel/UCWw6scNyopJ0yjMu1SyOEyw.m3u8?playlist=index
