@@ -81,7 +81,7 @@ https://ythls-v2.onrender.com/video/1wECsnGZcfc.m3u8?playlist=index
 #EXTINF:-1 group-title="News India (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/eqbZ6s1e5--bLtQT-w_COL6u7ajCp_cUwtc-yXUntjsmXwjflWaFgKRrP0ao02Zhw3e_7zZIfA", 24 News
 https://ythls-v2.onrender.com/video/V_MXWptocIE.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/aJuYpTLX6RQmr3S9FHG_LVpYOSbBQ4aBEKTXMqFNBfTQi6kzbjZg-liRGRhlAOQLtGzpG1EuPQ", 24 News HD
+#EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/aJuYpTLX6RQmr3S9FHG_LVpYOSbBQ4aBEKTXMqFNBfTQi6kzbjZg-liRGRhlAOQLtGzpG1EuPQ", 24 News HD
 https://ythls-v2.onrender.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Sports (Arabic)" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQT_7Qq4BbKAs4G5trNcRUW-B35JBsGt8Fagsyw", 24 sports
@@ -231,20 +231,8 @@ https://ythls-v2.onrender.com/video/uXNU0XgGZhs.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/goijFo9FIqUT4G-SiGX2rnuBv_E00rLyYByqcpXvtSG1mYOrmsNls9lPZg1yn0Y-b8Vj6oIq", 9 канал | Channel 9
 https://ythls-v2.onrender.com/channel/UCixtbfonx_QIjS1DB96zcFg.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/sJ8nMAbzs2lreEaBW2viL9VCvud_FkkDmFRa4es3Y5zOht6PpBNM56pNIAoh395B6FhYaxTFiVM", 92 News HD
+#EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/sJ8nMAbzs2lreEaBW2viL9VCvud_FkkDmFRa4es3Y5zOht6PpBNM56pNIAoh395B6FhYaxTFiVM", 92 News HD
 https://ythls-v2.onrender.com/channel/UCsgC5cbz3DE2Shh34gNKiog.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/sJ8nMAbzs2lreEaBW2viL9VCvud_FkkDmFRa4es3Y5zOht6PpBNM56pNIAoh395B6FhYaxTFiVM", 92 News HD
-https://ythls-v2.onrender.com/video/8AGEmURD6Os.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/sJ8nMAbzs2lreEaBW2viL9VCvud_FkkDmFRa4es3Y5zOht6PpBNM56pNIAoh395B6FhYaxTFiVM", 92 News HD
-https://ythls-v2.onrender.com/video/AfZLtNj1eGg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/sJ8nMAbzs2lreEaBW2viL9VCvud_FkkDmFRa4es3Y5zOht6PpBNM56pNIAoh395B6FhYaxTFiVM", 92 News HD
-https://ythls-v2.onrender.com/video/YYSGsrpnAIQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/sJ8nMAbzs2lreEaBW2viL9VCvud_FkkDmFRa4es3Y5zOht6PpBNM56pNIAoh395B6FhYaxTFiVM", 92 News HD
-https://ythls-v2.onrender.com/video/kBN3kaYG3EM.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Fp5wycoURKtHjzSWZo7JDhXRvTlijOOb6GylcNbRqTu37TXab-MePapXE_F9rMCPxevEcWGH", 9354 LIVE
 https://ythls-v2.onrender.com/video/31V1rdbH4hM.m3u8?playlist=index
@@ -1716,29 +1704,8 @@ https://ythls-v2.onrender.com/channel/UC6vpp4cchbX5aDcRPx-Ki0Q.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQ61B_xjQoR-sdir1V9liit8K-gciAoRZ0tQcnd", Bóng Rổ TV
 https://ythls-v2.onrender.com/channel/UC8BvBIN5EOAx8ACb01BTt6g.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa", C5N
+#EXTINF:-1 group-title="News Argentina (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa", C5N
 https://ythls-v2.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa", C5N
-https://ythls-v2.onrender.com/video/GQRnbfobCB0.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa", C5N
-https://ythls-v2.onrender.com/video/Hy4UCfsE6Yk.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa", C5N
-https://ythls-v2.onrender.com/video/QBI63oaZnlg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa", C5N
-https://ythls-v2.onrender.com/video/_OAc8-UqXLg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa", C5N
-https://ythls-v2.onrender.com/video/ekid6Im1dOc.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa", C5N
-https://ythls-v2.onrender.com/video/lOAt5-gi8t8.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZV03Va-KitWMDDeNi_RAjXOzg7pLpaC8q6g3L9Lg", C7 Chubut
-https://ythls-v2.onrender.com/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/mWTpfmuyklx8MegXH1c-J-Aulf_oHrWTLW1MHPGP99T43tRM7NdME2Iuo1kdyjvfPigZO1dMKRI", Ca Sĩ Bùi Thúy
 https://ythls-v2.onrender.com/channel/UCd7feLe4vCWNHmcXeNtQ9CQ.m3u8?playlist=index
@@ -5160,14 +5127,8 @@ https://ythls-v2.onrender.com/channel/UCJsvXpOXUoc_0-hjwbMUzNA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/g7rl0sNUD6uYty8bK_gW1M9OWCIBLZCMPg4qJWxsE3Q9NehN4MmWeMnJgq72vDg7H8a-ydX-", Kompas TV Sukabumi
 https://ythls-v2.onrender.com/channel/UC-ky0ON5vuB41a-BIHNhMuw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lqEptgvYpvq-SrGVmyHVE6UGZkS2mgaPAeh_mpCA", KOMPASTV
+#EXTINF:-1 group-title="News Indonesia (Indonesian)" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lqEptgvYpvq-SrGVmyHVE6UGZkS2mgaPAeh_mpCA", KOMPASTV
 https://ythls-v2.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="News Indonesia (Indonesian)" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTVT6YVqUnyZdKEEtnmuOVVSK45or2xXulOfmVB-w", KOMPASTV
-https://ythls-v2.onrender.com/video/BBzdSRt-zSQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lqEptgvYpvq-SrGVmyHVE6UGZkS2mgaPAeh_mpCA", KOMPASTV
-https://ythls-v2.onrender.com/video/DOOrIxw5xOw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cBylJ9rwmcNKk7OIsJ9i46hSOrHRi13naJDGQxlc9hWi9M4h-9iAy6uNaeGLkQgT4aZSkn13", KOMPASTV JAWA TIMUR
 https://ythls-v2.onrender.com/channel/UCYNpIdSp5xvvQzgOHtw2RAw.m3u8?playlist=index
