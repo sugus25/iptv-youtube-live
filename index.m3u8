@@ -435,7 +435,7 @@ https://ythls-v2.onrender.com/video/nyd-xznCpJc.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ituKRZmXUOZKqCyNVDBSe9R_2gJtbRywpW22DaZlncNKxjseC3_oGzNsDbFqYqkc-R17nDyc0Q", ABP Sanjha
 https://ythls-v2.onrender.com/channel/UCYGZ0qW3w_dWExE3QzMkwZA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_moA553Z70EyCokVtYfID2cI-jwkMCt5vnhnG0WPw", ABS-CBN Entertainment
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nS15xyaWfoWuukHlTkBysh3y8uk4pUbh4xtC1F5A", ABS-CBN Entertainment
 https://ythls-v2.onrender.com/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/jWgPqcz8GPbvDnlx8FIJ9HR2lXPIHcAjrF1WzS-b7oJiXae2cqwqKhls4LNHKwzjfN2LrVaBLA4", ABS-CBN It's Showtime
@@ -7226,6 +7226,9 @@ https://ythls-v2.onrender.com/channel/UCTl3QQTvqHFjurroKxexy2Q.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ueCHN3UJUO7QGvsknfIFCWEQLgBDqCijHXeYHYh1kLJ4wvpxqErOH65rvrCP-G3YWDX6k_YzRA", Om Shanti Channel GWS
 https://ythls-v2.onrender.com/channel/UCUcvsN9Jqc4RzVvMlJ1y_FA.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/BeVVUpA-zYUe_GlwiPpn7xqvElwKhzkuQP9-Tib-F92VMn0XplxOlQ_su3rZAEeuiZahjjoUz58", Omkar Television
+https://ythls-v2.onrender.com/channel/UCpl8dURKUZsBHMvWWL_G8DA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/o0aIR3C3jIMXrgcd45WaGeLCrCXUx4ec193TMNgSspwRi37f_1kH0mJiwyEVxOCNMFoHXDmcqQ", On Gaming
 https://ythls-v2.onrender.com/channel/UC6jg4WQ1-avW7IMmku_rncQ.m3u8?playlist=index
