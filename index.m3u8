@@ -324,6 +324,9 @@ https://ythls-v2.onrender.com/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/CqDI1eITSh2ZyjQg1-f8w1y1VwxDP-cHEYfCn6q3IYgRYRJvtzRUCojuj-rTaYsrLf90p8UlmQ", a2
 https://ythls-v2.onrender.com/video/78GDLDmCmIU.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/iml3_Fb3rH6HCXFoXdKdrN4fXUOh08ohVMIKf0TDhSjnpD0BK8xy1-r_za15uZnSTcZsP_29", A2 CNN
+https://ythls-v2.onrender.com/channel/UCO-B2zbHROkxpMLjwQX6C8A.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/UUDeuubaQlPaVvvMJhseVjpR0n3g3bk1kBdyN8iTmbbvK371YcZqYDzzBxqbmerAnWRl21Lp", A24com
 https://ythls-v2.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?playlist=index
 
@@ -12165,7 +12168,7 @@ https://ythls-v2.onrender.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/I2LeW2KOPexSQ22-aJ59T6ErWsiSI-tVuvLN7KmYvB8T3q37C47GQvxHXg6dBHKhgb_VTkBjGA", Факти ICTV
 https://ythls-v2.onrender.com/channel/UCG26bSkEjJc7SqGsxoHNnbA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/w-xTL1nteM-zeC0_L3H2PD901oXZpouX7h8WLyuQDquQyOUD6GwMzmgWktWoMQpjV9LRj5YRbg", Ходорковский LIVE
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/qZow6Gf09mecpPvUr5FdFyb0OTTNo07HZ-FoyagmzPh2IdY--9rdebYFUZzQJB57FOTBDZsD", Ходорковский LIVE
 https://ythls-v2.onrender.com/channel/UCBzDAjLfvBUBVMMP6-K-y0w.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Y9sNSu6hq0XMT7aNuVsG0u0x18NHT6Bwb7Jch67gG1wiDUz80lwILrB63xFZymn4XJMRsy8Gcw", ЦЕНТР
