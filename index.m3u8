@@ -5214,6 +5214,9 @@ https://ythls-v2.onrender.com/channel/UC-ky0ON5vuB41a-BIHNhMuw.m3u8?playlist=ind
 #EXTINF:-1 group-title="News Indonesia (Indonesian)" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lqEptgvYpvq-SrGVmyHVE6UGZkS2mgaPAeh_mpCA", KOMPASTV
 https://ythls-v2.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lqEptgvYpvq-SrGVmyHVE6UGZkS2mgaPAeh_mpCA", KOMPASTV
+https://ythls-v2.onrender.com/video/DOOrIxw5xOw.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cBylJ9rwmcNKk7OIsJ9i46hSOrHRi13naJDGQxlc9hWi9M4h-9iAy6uNaeGLkQgT4aZSkn13", KOMPASTV JAWA TIMUR
 https://ythls-v2.onrender.com/channel/UCYNpIdSp5xvvQzgOHtw2RAw.m3u8?playlist=index
 
