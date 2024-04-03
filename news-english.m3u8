@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kJAJADDilv9cAmyLgwZHz85CEjeUt3jN4iYcL7rA", ABC News (Australia)
+#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lHPbB8ofmOO9z-qIfDyvdIkJwvZQIlzMkLheepDb2PWDQ", ABC News (Australia)
 https://ythls-v2.onrender.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8?playlist=news-english
 
 #EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/67h6bB9Vlw5SpQkWek4Uk8weqxzaPNGH76sAMK4j431Jx8JlUt8mblVlTCwseeb7rDavn3yBJA", Bloomberg Quicktake
@@ -15,5 +15,5 @@ https://ythls-v2.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8?playlist=new
 #EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/t3slq37NYJRuP2UoEZDoPKyMClKyQULG8-j2DEfzL1XXcBvFpR6z6HD7rtc0wDn8Mqt0OtpU", euronews
 https://ythls-v2.onrender.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8?playlist=news-english
 
-#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kXPF7sgpeA_e6OR_ydi-YH0UG5HcoLa2xC5VSI4g", United Nations
+#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mhklaGL8Bhv52CUPcBs7hkD_NvL1T6b98voTSC0aCTxmM", United Nations
 https://ythls-v2.onrender.com/channel/UC5O114-PQNYkurlTg6hekZw.m3u8?playlist=news-english
