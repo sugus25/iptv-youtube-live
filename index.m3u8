@@ -2121,6 +2121,9 @@ https://ythls-v2.onrender.com/video/MHm_Imi8_dE.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm", Channel 24
 https://ythls-v2.onrender.com/video/RotcDrTEW_0.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/F1GQ1_NN1cMhr04UsDogiFkGv9OWxF0VJ4m2S9fLYuow6b_vchfeEqGGhzm4tTdswiWbcfBryg", Channel 4 Sport
+https://ythls-v2.onrender.com/channel/UCNxbq2vWbmXQeyZPGYTnT6Q.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/qXruRPNEkM18OFC0gzAD-vI5DqloSFyMZpBBCwUbyuHob2nc1Cw7hBcvyXm6IWri4EQ13LRBn0o", Channel A News (Korea)
 https://ythls-v2.onrender.com/video/JQBzLUXpkd8.m3u8?playlist=index
 
@@ -4293,7 +4296,7 @@ https://ythls-v2.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lc4EVbZdE8nPkOBugtCiRSDyW7QSIaCUAQEEV6KJMmXPw", HTB北海道ニュース
 https://ythls-v2.onrender.com/video/d8CrKBU99Hg.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kxp_RI72wO1nCfOjF4_nf-CIu4-aVIaF9LvNJN4A", Huda TV
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kWo0Cafy4q0ifCGYwc_H1oVzXG94ekWsd8daJG_asY2p4", Huda TV
 https://ythls-v2.onrender.com/channel/UCIVSdtXb4pR57BDqKKNqsTg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/JTc0BJRE3nCMZrkD-wzB6N6QDD5LM1Yzli7G2RISKo-RdcKxfx2a7o5AvShVOAmu9n9thA2u", Hudson Lives
