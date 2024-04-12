@@ -6393,6 +6393,9 @@ https://ythls-v2.onrender.com/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9", NDTV
 https://ythls-v2.onrender.com/video/sr2Ry9JVDtU.m3u8?playlist=ungrouped
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9", NDTV
+https://ythls-v2.onrender.com/video/yBwvNtLdNdQ.m3u8?playlist=ungrouped
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/75NPG2RuKD_ndulSMb3xO0n6HKBTyrVyv7ckC3V4tcICZkI3Ef0kAIfXbOWDWmwDCsfvXPjaww", NDTV India
 https://ythls-v2.onrender.com/channel/UC9CYT9gSNLevX5ey2_6CK0Q.m3u8?playlist=ungrouped
 
@@ -6551,6 +6554,9 @@ https://ythls-v2.onrender.com/video/4SRmSYPdmdk.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/uhGad55HCzzfNO4xSj91zoWBWnfKAFTmv4ibYFsJNhRPFmakBmB47HgNdDyLsmuLY67VAi3fRg", News24 Daily
 https://ythls-v2.onrender.com/video/jLh4UeTFkyk.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/iH9gbH6_SaG7KXZp5D1MyZZ955aIP4hTNE3AWAhiZFrYtLrAb8CBLtLB9ZAPocKU7Pmvka5kOA", News24 Extra
+https://ythls-v2.onrender.com/channel/UCwe4dTeFWU8VUAkDrd6G7bA.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lztPx6t0r9U3bHrI2lC6T3D-r42VpXNxcVTmE3w6Igof0", News24 Nepal
 https://ythls-v2.onrender.com/channel/UCjG2HX7jfwqIjzTlaF1CPGA.m3u8?playlist=ungrouped
