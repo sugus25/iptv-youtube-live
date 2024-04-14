@@ -3009,6 +3009,9 @@ https://ythls-v2.onrender.com/channel/UCIoNMC1V8SQ6gPcyoPj7aIw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/dVdiDSJ3WxIoYjcgFoJnU-qKG6MjHaxueMWcsRFKRUB7aNhdA0QU40KKwckSIHoKGqPOyNUQ", Eddie Fleischman
 https://ythls-v2.onrender.com/channel/UCWUNm9PCC-E0UzWG57XObIQ.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/0sifcQDHF-G_koG5_EUeTw6mwB2N83NqSuagSYiaqUbu-DOkt7AaE4N_kfPZc1xl_tl8QuWW", Edge Babor Philippines
+https://ythls-v2.onrender.com/video/i3w7qZVSAsY.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/jvsSvgnSXSMJHkud-nRtZsLmk6rNMJIbPAsh37QPXsi9YBFueG_549MOxVxw3ciP5C2utX1xbQ", EDM Club
 https://ythls-v2.onrender.com/video/J9gFLQak7hY.m3u8?playlist=index
 
@@ -4897,10 +4900,16 @@ https://ythls-v2.onrender.com/channel/UCsPiX5VpFA8QURdjLi46Kqw.m3u8?playlist=ind
 https://ythls-v2.onrender.com/channel/UC0djAWwMXP22wzocdJR9dWw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/CxrI7xXKD8E-xTy-BsnunKxdEjh6y2txnMc5ErmFMY0DvJUDqh2sly42NF2zOGsgKDqPIRTCOg", JazBaz Philippines
+https://ythls-v2.onrender.com/video/Ku62ggXQPHE.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/CxrI7xXKD8E-xTy-BsnunKxdEjh6y2txnMc5ErmFMY0DvJUDqh2sly42NF2zOGsgKDqPIRTCOg", JazBaz Philippines
 https://ythls-v2.onrender.com/video/la57q8Hyldg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/CxrI7xXKD8E-xTy-BsnunKxdEjh6y2txnMc5ErmFMY0DvJUDqh2sly42NF2zOGsgKDqPIRTCOg", JazBaz Philippines
 https://ythls-v2.onrender.com/video/p0Qhe4vhYLQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/CxrI7xXKD8E-xTy-BsnunKxdEjh6y2txnMc5ErmFMY0DvJUDqh2sly42NF2zOGsgKDqPIRTCOg", JazBaz Philippines
+https://ythls-v2.onrender.com/video/tcUSoJMU2AQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/yAmYutPL_4qp13FrPDNBPRc4lGQxpiFYqvKTCkpPhY_JT5LvZpRKd-eM9CGr9HbrzDuiG-sXWw", Jester Lynn
 https://ythls-v2.onrender.com/channel/UCVLsaCnEWsbRPEm36p4jAVQ.m3u8?playlist=index
@@ -13070,6 +13079,9 @@ https://ythls-v2.onrender.com/video/EuOZeHQmg-4.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/xbF1-NcnikgRAH04sVPQ4RL9IVokb0SKEi81ILkOJrz-bb41UQTqU8jMsikHut4gYNjH0uyZQg", 朝日新聞LIVE
 https://ythls-v2.onrender.com/video/mYhkthVZUhY.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/xbF1-NcnikgRAH04sVPQ4RL9IVokb0SKEi81ILkOJrz-bb41UQTqU8jMsikHut4gYNjH0uyZQg", 朝日新聞LIVE
+https://ythls-v2.onrender.com/video/wb2xVVPA_2o.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/oya3tv4PLD8htvk4zfWOct9gAXpViqkLNUspIshTw7xwu8auNEEi6GIFY4u_6dsztlH4v2pDNg", 東京新聞チャンネル
 https://ythls-v2.onrender.com/channel/UCcipaSh5J0DwFRvoaAl0P3g.m3u8?playlist=index
