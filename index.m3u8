@@ -3861,6 +3861,9 @@ https://ythls-v2.onrender.com/video/wP8uj_st3Hw.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/sta-7tpU55hhrCCugvFRER--_yMPeXenxEWExgY5LryLGPBwqckf3NsRA7zeI7UR7u1Bf-oS", Glück Auf TV - Kanal 9 Erzgebirge
 https://ythls-v2.onrender.com/channel/UCtd99m_W5wsyd4YFyQMb7ig.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/rawDhSd9YfveH4OvOaLUrjVMFwH-8xJ7i2nIEdjo_pR9Dva5hGTAeluC6LGNWX4KCLfyJOEQ9g", Glück Auf TV - MITTEL ERZGEBIRGS FERNSEHEN
+https://ythls-v2.onrender.com/channel/UC2ap9dIslNRf0Rw-FX2SjhA.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8", GMA  Network
 https://ythls-v2.onrender.com/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8?playlist=index
 
@@ -5822,9 +5825,6 @@ https://ythls-v2.onrender.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/dF1ZRcwWOxfn3AysqfW-MMIod2jPfCfgFkMLYiQWGMOiELVA7-nWN7PaXnEv1RfVxRe5S9z36ow", LiveNOW from FOX
 https://ythls-v2.onrender.com/video/YDfiTGGPYCk.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/dF1ZRcwWOxfn3AysqfW-MMIod2jPfCfgFkMLYiQWGMOiELVA7-nWN7PaXnEv1RfVxRe5S9z36ow", LiveNOW from FOX
-https://ythls-v2.onrender.com/video/cWjL8fZrBtE.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/dF1ZRcwWOxfn3AysqfW-MMIod2jPfCfgFkMLYiQWGMOiELVA7-nWN7PaXnEv1RfVxRe5S9z36ow", LiveNOW from FOX
 https://ythls-v2.onrender.com/video/e3OacSucFCU.m3u8?playlist=index
@@ -9750,7 +9750,7 @@ https://ythls-v2.onrender.com/video/jBLapoJrkf8.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQOfOesZDVM-IV8iLQyMae90Ng3HxNci8oinql3bw", Steve Caron
 https://ythls-v2.onrender.com/video/zpVRx505C9w.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZR8YJl9SVYmRJc5gOXVuRiHbZ3cohyFBefo30ah", Stift Heiligenkreuz
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mzqRyzoU4IxXJm5xUNMdSBWUBd38hS3-vLRNnSiQ5C8Q", Stift Heiligenkreuz
 https://ythls-v2.onrender.com/channel/UCxDyqPmREyUgVCdRXMsfUUw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/i5G7ccYvOzIoPnyw5gF5dpWPP6Cj_cI2Xt12a1vB5F6XmpURDNfwgjejr3YTPKrkjlF5vnqxOQ", Still Worship
