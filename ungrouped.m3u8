@@ -3381,9 +3381,6 @@ https://ythls-v2.onrender.com/video/akHAQD3o1NA.m3u8?playlist=ungrouped
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/w_9icaIEAfU_SGTXBrPIkszVUqS908qz8vEwx6GJ64gawQuZGOIjwOTM2lend7iySscpFf_Tz9E", GAGO444_OFC
 https://ythls-v2.onrender.com/channel/UCnmUVQnfHOOB8xRnmepbNpA.m3u8?playlist=ungrouped
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nsGamLWG0oDWNi9coIFJC7PRJ4L1UacICyzYNa7vSNZ44", Game Guru
-https://ythls-v2.onrender.com/video/1dDtFH4iWeA.m3u8?playlist=ungrouped
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTPxGbEOex5t6_ObgIH1_wKlAn6Mfk9vzimhY6diA", GamePlay Adventure
 https://ythls-v2.onrender.com/channel/UCZSKX0Sp81Btp0taUTS7CAA.m3u8?playlist=ungrouped
 
@@ -4281,7 +4278,7 @@ https://ythls-v2.onrender.com/channel/UC56apcbc2pLZ9xyBizbD1Dg.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/iOvUHlIEb1g2APsu-z3FDn2uSP6NsB4kp6rsbvmNSAbArdiTJjSF9UND_talgW3a1WNqn0RXBw", Info24 TV
 https://ythls-v2.onrender.com/channel/UCzBMwyEo1cJVpVnGE81Hlgw.m3u8?playlist=ungrouped
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nB_ZQaK2Ehh6z91yq0VWVsskeYGmRZcVeiqY7L", infoPłockTV
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_l5yU3_a-ABJT6IjiglU2Ouvmp_-_Yxq7weK0fA85KoAQ", infoPłockTV
 https://ythls-v2.onrender.com/channel/UCtDFJEzF1PIPzRsq3JHBgLw.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mMRkyGmhvLdyuGFm-smMfsmXla6RE2kNjMbDLwFpeGZXo", Information Zulu
@@ -4580,6 +4577,9 @@ https://ythls-v2.onrender.com/channel/UCv-Nx8pSfG_LxbViMz14RWQ.m3u8?playlist=ung
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/2qduul2a9Hcz6Z75_ygccPCNRNuD-LJoXcKGkzJnyssA4AXOtX0mO7GQV1yKEH5EsXesJc3SPi8", Jovem Pan News
 https://ythls-v2.onrender.com/channel/UCP391YRAjSOdM_bwievgaZA.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nuROVDXU1oeCZYyE9yKtYAGKkS6oPy-mLeUxXl6HFhUzdwhPnVX1qo9nk8deESRHovlwsFtpbw", Jovem Pan News Bauru
+https://ythls-v2.onrender.com/channel/UCLHIUIBIid6qpljFBWEOHSw.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSNX3z2GEgoGsB-8T0q1qxsMPsGtVzHfsjjTRg3", Joy Learning Tv
 https://ythls-v2.onrender.com/channel/UCZVRKO43AAGpAJs1isPEg-g.m3u8?playlist=ungrouped
