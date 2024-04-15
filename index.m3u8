@@ -1776,6 +1776,9 @@ https://ythls-v2.onrender.com/channel/UC8BvBIN5EOAx8ACb01BTt6g.m3u8?playlist=ind
 #EXTINF:-1 group-title="News Argentina (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa", C5N
 https://ythls-v2.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa", C5N
+https://ythls-v2.onrender.com/video/Hy4UCfsE6Yk.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/mWTpfmuyklx8MegXH1c-J-Aulf_oHrWTLW1MHPGP99T43tRM7NdME2Iuo1kdyjvfPigZO1dMKRI", Ca Sĩ Bùi Thúy
 https://ythls-v2.onrender.com/channel/UCd7feLe4vCWNHmcXeNtQ9CQ.m3u8?playlist=index
 
@@ -2792,6 +2795,9 @@ https://ythls-v2.onrender.com/video/wMLeR7_H3qU.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nw21Aykn9U6qL1nENPV83V131Upy2e6UssewlnJaDsJuw", Disco Polo Lajf
 https://ythls-v2.onrender.com/channel/UC0rdUtnXyfzgQQz25wrkbSQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_np0RYuoHVR-1JNgtVBd8xDf9ma6w-SL1QoamKdj7uQCg", Discovery Australia
+https://ythls-v2.onrender.com/channel/UCsnsCFJMPIJaUSVP_hLVUCA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nGxcVN230qK9wJkI94bGHT3v-t4dnfbhLjxheCeJMea0rJfb32DAUIH5XVgjQno0RcCOp6TpwQ", Discovery Channel
 https://ythls-v2.onrender.com/channel/UCcP6Vtkc2DtQ0IV9r_x6pCQ.m3u8?playlist=index
@@ -10959,7 +10965,7 @@ https://ythls-v2.onrender.com/video/yOuYY4AL_1U.m3u8?playlist=index
 #EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/qcpULFrZ3zmlKz6zYRgOgCbq34K7ctDLQ--yResNuSK6I1hrSP-JeKrcFN5OfzJfrg8o0FACM80", TRANSFORMERS OFFICIAL
 https://ythls-v2.onrender.com/channel/UCx7b66RpQRLuOXvItxy0Wxg.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lqmIN4L2rpR7OiutFAWnZAR1Em_lkkuhkDeXn5aTo", Travel Channel
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lMVV0eWXgxcwZUjjsc_HpTsLZugJaSPELWMBa47rzAaEGJ", Travel Channel
 https://ythls-v2.onrender.com/channel/UCJUAqHnkDX15IvFoXIGTm2A.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/9ujQ3-iCE--vfQ-O-GUmkEAXoCceg9JgoQ8wO_AnhGgYNh4BWy_cX9cZ4e3WoPEZ_nONo-DW", Tribun Sumsel
