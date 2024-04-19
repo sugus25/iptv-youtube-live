@@ -457,6 +457,9 @@ https://ythls-v2.onrender.com/channel/UCYGZ0qW3w_dWExE3QzMkwZA.m3u8?playlist=ind
 https://ythls-v2.onrender.com/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mpJFQOJeFAExpxDbKRjFysNfpwiUW4TRuqt8aGKDqIdZQ", ABS-CBN Entertainment
+https://ythls-v2.onrender.com/video/2k3JbXTd04k.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mpJFQOJeFAExpxDbKRjFysNfpwiUW4TRuqt8aGKDqIdZQ", ABS-CBN Entertainment
 https://ythls-v2.onrender.com/video/3Rg7F0X8pt4.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mpJFQOJeFAExpxDbKRjFysNfpwiUW4TRuqt8aGKDqIdZQ", ABS-CBN Entertainment
@@ -3914,6 +3917,9 @@ https://ythls-v2.onrender.com/channel/UC2ap9dIslNRf0Rw-FX2SjhA.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8", GMA  Network
 https://ythls-v2.onrender.com/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8", GMA  Network
+https://ythls-v2.onrender.com/video/Pscxa7VC5X0.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8", GMA  Network
 https://ythls-v2.onrender.com/video/df5GA7oyHz4.m3u8?playlist=index
