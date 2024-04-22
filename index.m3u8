@@ -3081,6 +3081,9 @@ https://ythls-v2.onrender.com/video/tsStUN73_6I.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nPvbgitFH84mRDbtNuEqzL1z4yRpGh4t95znXG_SLDlwdS", DW News
 https://ythls-v2.onrender.com/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nPvbgitFH84mRDbtNuEqzL1z4yRpGh4t95znXG_SLDlwdS", DW News
+https://ythls-v2.onrender.com/video/6HodCcEW_oQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lA_XLgOu0cySKOwrLqi4Ls1HWaAqUAkFtS0v_KthU", DW News
 https://ythls-v2.onrender.com/video/pqabxBKzZ6M.m3u8?playlist=index
 
@@ -13772,6 +13775,9 @@ https://ythls-v2.onrender.com/channel/UC4i1qf8CUH93DLSbD9efqig.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U", 연합뉴스TV
 https://ythls-v2.onrender.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U", 연합뉴스TV
+https://ythls-v2.onrender.com/video/6QZ_qc75ihU.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/8CS5oLAerAGWKV5cZNPJ1mTeSeCGXMux62f46B16Oa80a8oNxgp4KxX5PqS45mZx8ZtJlHb9mQ", 연합뉴스경제TV
 https://ythls-v2.onrender.com/channel/UC6kZpTl39-_SqfBrF1-N2oQ.m3u8?playlist=index
