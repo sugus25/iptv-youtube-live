@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="News India (Punjabi)" tvg-language="Punjabi" tvg-logo="https://yt3.ggpht.com/ituKRZmXUOZKqCyNVDBSe9R_2gJtbRywpW22DaZlncNKxjseC3_oGzNsDbFqYqkc-R17nDyc0Q", ABP Sanjha
+https://ythls-v2.onrender.com/channel/UCYGZ0qW3w_dWExE3QzMkwZA.m3u8?playlist=news-india-punjabi
+
 #EXTINF:-1 group-title="News India (Punjabi)" tvg-language="Punjabi" tvg-logo="https://yt3.ggpht.com/jtXt24oRs-u32ON5WKsgyLPaD343n9S1NtGc8i0KnPHj6cfApzc5F45Pf8GnHKVF14R8b_sw", ddpunjabi
 https://ythls-v2.onrender.com/channel/UC8GYp35wJTN2ituJr0y-7AQ.m3u8?playlist=news-india-punjabi
 
