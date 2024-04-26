@@ -12,5 +12,11 @@ https://ythls-v2.onrender.com/video/pqabxBKzZ6M.m3u8?playlist=news-international
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE", FRANCE 24 English
 https://ythls-v2.onrender.com/video/tkDUSYHoKxE.m3u8?playlist=news-international-english
 
+#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lq1XC5Rkui4yj7O2vYjbVwzXL--i046Z92gh5F", The Independent
+https://ythls-v2.onrender.com/channel/UCshwRhftzkiov5wKR7M_LsQ.m3u8?playlist=news-international-english
+
+#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/4FK_4c1SOUGyQXgvLZ7WDJXB-sE8vVntcrTI7PYCiYkjkftELWfuRiQW_-1w6_uPbSY6T6ij", TRT World
+https://ythls-v2.onrender.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8?playlist=news-international-english
+
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/oF0flN62aRgHKWmNuKG1A7tMhMhQ3lt-sVFGlshCPjEutJDF6LG1GWSYaxMubeeQ9UQpCYWq2A", Yahoo Finance
 https://ythls-v2.onrender.com/channel/UCEAZeUIeJs0IjQiqTCdVSIg.m3u8?playlist=news-international-english
