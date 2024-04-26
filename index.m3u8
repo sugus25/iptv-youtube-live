@@ -4611,6 +4611,9 @@ https://ythls-v2.onrender.com/channel/UCXJjjNmD9kfc63d9GumIagw.m3u8?playlist=ind
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/xvSPpZd-kEa6T3KgnlWv5YYkzLxf9UjWwnjlVBhtJR67qcipOq0sBjrgOd5_46mdoCE3cglT_w", IndiaTV
 https://ythls-v2.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/xvSPpZd-kEa6T3KgnlWv5YYkzLxf9UjWwnjlVBhtJR67qcipOq0sBjrgOd5_46mdoCE3cglT_w", IndiaTV
+https://ythls-v2.onrender.com/video/Xmm3Kr5P1Uw.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nTL30oIzMXoIFIYQ2AW7J0V94YLW9g5ducr05XrkoWNf8", Indonesian Football e-League
 https://ythls-v2.onrender.com/channel/UCGjs_InMUkfCzB79AjzaaKw.m3u8?playlist=index
 
@@ -7026,7 +7029,7 @@ https://ythls-v2.onrender.com/channel/UCqfX_f4rBbPhq_KESE4saCA.m3u8?playlist=ind
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/dt_7th6zZPzSIeMfBgvkJBgu3NZ4YRZlqFuxLAKsHY7SljR0yLkcXZE-izL_Ds0NY5v1N7eW", News18 India
 https://ythls-v2.onrender.com/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8?playlist=index
 
-#EXTINF:-1 group-title="News India (Kannada)" tvg-language="Kannada" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZS6vFIerXWH2OlKz9G92C1kxOQ9ZJrYSHUkfQlC", News18 Kannada
+#EXTINF:-1 group-title="News India (Kannada)" tvg-language="Kannada" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_meeVEs1wGPVAkiV5oTP0uOAHsnkFOUWekR_THVcs-RmA", News18 Kannada
 https://ythls-v2.onrender.com/channel/UCa-vioGhe2btBcZneaPonKA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_noEGYn5NGuAElTdnJcp3vAZJYN5bM9ZDjFa7OfVxq2xw", News18 Kerala
