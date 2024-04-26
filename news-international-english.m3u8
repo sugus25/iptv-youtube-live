@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl", Al Jazeera English
-https://ythls-v2.onrender.com/video/gCNeDWCI0vo.m3u8?playlist=news-international-english
+https://ythls-v2.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8?playlist=news-international-english
 
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/NU4MEqwQB1RJPRvVqhqfGVYKqn3NxdgYElqSUzzS2zt_4fXqa3RCAphtKxlOynfwTsGTmSyfVA", ANews
 https://ythls-v2.onrender.com/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8?playlist=news-international-english
 
-#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lA_XLgOu0cySKOwrLqi4Ls1HWaAqUAkFtS0v_KthU", DW News
-https://ythls-v2.onrender.com/video/pqabxBKzZ6M.m3u8?playlist=news-international-english
+#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nPvbgitFH84mRDbtNuEqzL1z4yRpGh4t95znXG_SLDlwdS", DW News
+https://ythls-v2.onrender.com/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8?playlist=news-international-english
 
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE", FRANCE 24 English
-https://ythls-v2.onrender.com/video/tkDUSYHoKxE.m3u8?playlist=news-international-english
+https://ythls-v2.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8?playlist=news-international-english
 
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lq1XC5Rkui4yj7O2vYjbVwzXL--i046Z92gh5F", The Independent
 https://ythls-v2.onrender.com/channel/UCshwRhftzkiov5wKR7M_LsQ.m3u8?playlist=news-international-english
