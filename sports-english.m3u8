@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Sports (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/qpBiHMnrdLxP9AVkAAgwjJon_iL2-DW0uh8S89-y4Gq7uZbtaUxfXkDOelPHKflrDc_qJv05", Action Sports HD
+https://ythls-v2.onrender.com/channel/UCyEkDbFyiCSaLh1m_5FLvUw.m3u8?playlist=sports-english
+
 #EXTINF:-1 group-title="Sports (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/n4hdqcN3I8PoCgpqIod-LZB5RhaXViPVYlmwGCrK8kWrWo4PV5BCqBMEO0DvZvt0xRZsfl4C", Chelsea Football Club
 https://ythls-v2.onrender.com/channel/UCU2PacFf99vhb3hNiYDmxww.m3u8?playlist=sports-english
 

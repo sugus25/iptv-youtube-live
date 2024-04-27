@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lHPbB8ofmOO9z-qIfDyvdIkJwvZQIlzMkLheepDb2PWDQ", ABC News (Australia)
-https://ythls-v2.onrender.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8?playlist=news-english
-
 #EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/67h6bB9Vlw5SpQkWek4Uk8weqxzaPNGH76sAMK4j431Jx8JlUt8mblVlTCwseeb7rDavn3yBJA", Bloomberg Quicktake
 https://ythls-v2.onrender.com/channel/UChirEOpgFCupRAk5etXqPaA.m3u8?playlist=news-english
 
