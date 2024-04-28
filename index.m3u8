@@ -363,14 +363,8 @@ https://ythls-v2.onrender.com/channel/UCE5ajTJVTrsmxZJ-V3y8CLA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/TFvyhul87NLtuuUTUaT-HHRQys_Qf7tHts5H_cxF4SWrN194H-suD5KplzhprUXxWo6NRmKhJg", ABBTAKK
 https://ythls-v2.onrender.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XbAZtzScKC7q3PSnbD4mHtzHKppxs4MtjeukFKpi1qxeC763XK0UifNC0kEiKEtu01Do-sfHEA", ABC Learning English
+#EXTINF:-1 group-title="Learning (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/XbAZtzScKC7q3PSnbD4mHtzHKppxs4MtjeukFKpi1qxeC763XK0UifNC0kEiKEtu01Do-sfHEA", ABC Learning English
 https://ythls-v2.onrender.com/channel/UCPqrEgBEHVj4vDITrClNQIw.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XbAZtzScKC7q3PSnbD4mHtzHKppxs4MtjeukFKpi1qxeC763XK0UifNC0kEiKEtu01Do-sfHEA", ABC Learning English
-https://ythls-v2.onrender.com/video/0_A9J3q3SrE.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XbAZtzScKC7q3PSnbD4mHtzHKppxs4MtjeukFKpi1qxeC763XK0UifNC0kEiKEtu01Do-sfHEA", ABC Learning English
-https://ythls-v2.onrender.com/video/F8gbJUXaeo0.m3u8?playlist=index
 
 #EXTINF:-1 group-title=" News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ", ABC News
 https://ythls-v2.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8?playlist=index
@@ -1326,7 +1320,7 @@ https://ythls-v2.onrender.com/channel/UCbpZ2cu74MjsOJbiuiwRzlg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKY56DwW4J9AwhJmTO7IopS5zI1xvnnkThegUj1Q", BHAKTI LIVE
 https://ythls-v2.onrender.com/video/5esMzmXiwlc.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/O8IF2aZDXIqbLgWg5Wvu8pNffULaU7lS8PmGB5_UlK2kxqJoFBlR-uA0y0ErwjTEG33EUAn58Q", Bharat 24 - Vision Of New India
+#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/O8IF2aZDXIqbLgWg5Wvu8pNffULaU7lS8PmGB5_UlK2kxqJoFBlR-uA0y0ErwjTEG33EUAn58Q", Bharat 24 - Vision Of New India
 https://ythls-v2.onrender.com/channel/UCCQmi1Bd-_tHRm6M2uPlGUA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQzOJ_whMs5aB-WLkEr2ld0Pe6aWNuMb9hImHwd", BHMA TV
@@ -4128,6 +4122,9 @@ https://ythls-v2.onrender.com/channel/UCQfBQpmxUCOab0_zUNTi1Mg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/TNR1YJnIQATsAZzGx5JtR9PeUwtGptKjRX-rtcfZxsR7lliNZqc3s738Ks851ss_hCxTSVpNsQ", Hindi Bollywood Song
 https://ythls-v2.onrender.com/video/4OEsFfhS8-E.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Music (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.googleusercontent.com/AivVapfkH1IZfNkCKeR6vfcKhzRvzA7j4KHLhpbyPJtwkM9YC_9o63umP8-rnt8j07SvoeGCfw", Hindi Gana 70s 80s VA
+https://ythls-v2.onrender.com/channel/UCnczKQhr005B4fx1wNxU74g.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/QUQUOMqGQLgQ6IGrJfBr3EOLKvZ_1eBQ_pdsFcFXlC4jADwkziXntagzOMwGX0SnDGKw5h3rbQ", Hindi ROmentic
 https://ythls-v2.onrender.com/channel/UCfpuz-jLpu3b_jrvxsS_4Ew.m3u8?playlist=index
 
@@ -6783,14 +6780,17 @@ https://ythls-v2.onrender.com/channel/UC-A5yC6C07mpQAqb2N874Tw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTl4OllH3EcHWwzglIq9q61JG9D3dhU1oTJ1USS5g", News 12
 https://ythls-v2.onrender.com/channel/UCFhbonoFqxg2b9FMRzYAwog.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/0s6QsqTesFqsXncW5Bj3cEVs7eTmBQ8ds4gez2rEp10ZvP08q71vZtrc3rzKXLMqsrctF737sDU", News 24
-https://ythls-v2.onrender.com/video/gDjItRPbnqs.m3u8?playlist=index
+#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/0s6QsqTesFqsXncW5Bj3cEVs7eTmBQ8ds4gez2rEp10ZvP08q71vZtrc3rzKXLMqsrctF737sDU", News 24
+https://ythls-v2.onrender.com/channel/UCuzS3rPQAYqHcLWqOFuY0pw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytRnCMkBXCJua2omdH_Qc6D96lIRSOMf0lWD-3pumn3wam69YAPmA0EqEt8cK9X8TVaiRLIxyA", News All Day Tv Channel
 https://ythls-v2.onrender.com/channel/UCSaKEeVnwLVeCLaYX3csHJQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/14a8xcrDNj8pXJXsXwHW9Y4iriGurYrV5YnQX_tB1WYtcwTTeUcbRk-21kj9ZtNZshm2BRr4-Q", News Central TV
 https://ythls-v2.onrender.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0lsbFG1N_ih5ftw04rOi30e3oXtw3BeB7kREg4qnuT_o", News Ganga
+https://ythls-v2.onrender.com/channel/UCEW9foRmk4UdbzacT8KCYkA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/aPlBFEky2b81BukapRLL0r6PCYc8S69AaPg7jTeyhjxcBPjy8Q79NQEzq2L6fOIfnOulrWd3Emk", News Nation
 https://ythls-v2.onrender.com/channel/UCsNdeLwEZf86swPD3qJJ7Dw.m3u8?playlist=index
@@ -7175,6 +7175,9 @@ https://ythls-v2.onrender.com/channel/UCtlth0w7_mYqpHPViMhQ99Q.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/zODgYcASMdG_AxdH9azDIXqZJKTC-g3YWx_akyJC-oPN9rXjFYgvD73jXjxdmecuhI_gQhg6=s100-c-k-c0x00ffffff-no-rj", Oddbods Cartoons
 https://ythls-v2.onrender.com/channel/UCCkOmb5a0QlbN7UXiWS8NMg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="News India (Odia)" tvg-language="Odia" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mhTSmKPDs9jIj_Bg5Wlgbgy_aQGe03VfxT5rgQYdzBOA", Odisha Reporter
+https://ythls-v2.onrender.com/channel/UCNFdwbQNVYk-ekuWpbaLSzQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mt0PZ_wvUZheOfWPuO8Hz1IaprnDgplZa8MRqEQvsAQLM", OE24.TV
 https://ythls-v2.onrender.com/channel/UCyQpfuhftLvrmjxgEzVH78Q.m3u8?playlist=index
@@ -7683,7 +7686,10 @@ https://ythls-v2.onrender.com/channel/UCF7gGGK5faKRXZExCSp1Vyw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OZcOQc2xqaUYjAtECN7tOYPLOlsq-U049ibeulg1pO9iw6QVpBc8EreEYNAE0FXunAh7lyHMKMI", Prague Airport
 https://ythls-v2.onrender.com/video/TmV5kdlsBRo.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/VNaVfx3_pe_cX0nMeEAo_nXzzAvW7xKNr7Q3q46ETDj6ebgXwqnGCpixpx7gtijiwSp-ZH2EOw", Prarthana Bhakti
+#EXTINF:-1 group-title="News India (Odia)" tvg-language="Odia" tvg-logo="https://yt3.googleusercontent.com/05vM5HRymbSBvNleEettOmagNQ7YH04iak2XJ2PwguNM7nYBAmgDEwhw5BG4VGOCx4ApgXd74Q", Prameya News7
+https://ythls-v2.onrender.com/channel/UCaErUjJ2bJ7I7fYqrvwS3bw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/VNaVfx3_pe_cX0nMeEAo_nXzzAvW7xKNr7Q3q46ETDj6ebgXwqnGCpixpx7gtijiwSp-ZH2EOw", Prarthana Bhakti
 https://ythls-v2.onrender.com/channel/UCLIryeFjYeiEtpqNETz_Ydg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/IlRIlOlXofsnXNPZ0yRntW9kqPWBCJkgKK07m6WU13BpLrp-TtKZvJpl34oLFbUWe_Sbkhwc", Praticagem de São Paulo - Canal Oficial
@@ -7844,6 +7850,9 @@ https://ythls-v2.onrender.com/video/RUzgphgBRzI.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/tIM8cneh05_1FbmIELSEBC0DeKJNX0q3iH9Ccs6uMqNXs2UUSGJeXRENppMO0BZck1lDzOv9", Pyjamasques
 https://ythls-v2.onrender.com/channel/UCmwN7oJTsAeiPPcV4FF8HRw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Learning (Odia)" tvg-language="Odia" tvg-logo="https://yt3.googleusercontent.com/0qn287iSu2ntFSmrgg71ovdaIWMiY5O-y50W2YSTquh9wxPQmg7syy1Z2hcblLTBoVLjmf4g_w", Pyramid Classes
+https://ythls-v2.onrender.com/channel/UCl6uVL-a9cAJGEieE08vM3w.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/hZmWKCTflx0jS-0PbViBr56HRI_EoRHP_1YpEjLCMSji0JnwawizOR_Er6sKJrfmwh1Je8_c", QSVS - Qui Studio a Voi Stadio - TELELOMBARDIA
 https://ythls-v2.onrender.com/video/V1CCAvFCLBU.m3u8?playlist=index
@@ -8769,6 +8778,9 @@ https://ythls-v2.onrender.com/channel/UCEYLn1gbYN-Z1XKTXOGMcvA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ACfX2D-G2DP6-UCxk7omjmAOhb4JKvnyALI180imvSeINO5PhNYurmT8yTsSOWCcBLYKv53j9w", Sabaton
 https://ythls-v2.onrender.com/video/HSJOF4ulYG8.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Lifestyle (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.googleusercontent.com/ulwqy8-EUNmHk4QLNLj6iCgHUQPSJX0m7s4i832jtGEJEyJf6ynPYnmNpFoQIcLMVGDQY6XTZA", SabNetwork
+https://ythls-v2.onrender.com/channel/UCE6bApKfARaPf5aGNLWPggA.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mZriROH1CqvOy45oVEl5f50ptTXmfDoHDTS1Pjmtowgg", Sach Channel
 https://ythls-v2.onrender.com/channel/UCFncf9JRkCd6miTlC_5UcFg.m3u8?playlist=index
 
@@ -8840,6 +8852,9 @@ https://ythls-v2.onrender.com/channel/UCUhvwduJfFDPd3XcSZbDSaw.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Pz7eqdrYjKazpLfShrQCC7VxM36UFvisxnjJdLCWEUXwjx3rwOm71GTx1PX8JVxknNe0HiLx", Sandesh News
 https://ythls-v2.onrender.com/channel/UCiAH2s_M6nPfGZk-PpfyPkg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.googleusercontent.com/I_a3UXB3vSJE41_SBRy2M3jSlHumDEW2BvodioK1cbQO6mkuFXBUNdTo44zBCz1Zb8HbUgWngQ", Sangram Bhakti Sagar
+https://ythls-v2.onrender.com/channel/UCkoyqCndvey5N0BbQfgU1PA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nd7oUTPwL_F4wvahLaRP_oSj6at9HoyOo8-CfWToC4NI4", Sanktuarium Bożego Miłosierdzia
 https://ythls-v2.onrender.com/channel/UCay3nZ7oerf3fo8dEZcT55Q.m3u8?playlist=index
