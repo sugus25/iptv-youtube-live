@@ -72,6 +72,9 @@ https://ythls-v2.onrender.com/video/1NJkxVQsSIo.m3u8?playlist=index
 #EXTINF:-1 group-title="News India (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/eqbZ6s1e5--bLtQT-w_COL6u7ajCp_cUwtc-yXUntjsmXwjflWaFgKRrP0ao02Zhw3e_7zZIfA", 24 News
 https://ythls-v2.onrender.com/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/eqbZ6s1e5--bLtQT-w_COL6u7ajCp_cUwtc-yXUntjsmXwjflWaFgKRrP0ao02Zhw3e_7zZIfA", 24 News
+https://ythls-v2.onrender.com/video/1wECsnGZcfc.m3u8?playlist=index
+
 #EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/aJuYpTLX6RQmr3S9FHG_LVpYOSbBQ4aBEKTXMqFNBfTQi6kzbjZg-liRGRhlAOQLtGzpG1EuPQ", 24 News HD
 https://ythls-v2.onrender.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8?playlist=index
 
@@ -3185,6 +3188,9 @@ https://ythls-v2.onrender.com/channel/UCD3CdwT8lTCe5ZGHbUBxmWA.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="News India (Telugu)" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/u8QRZA82BCje9zgMhgDk_ROVb_zwcJz5iDJ-BQnNk47h6vY_PwqREBeJeUaVCCAZ3LAX_MDBTbg", ETV Andhra Pradesh
 https://ythls-v2.onrender.com/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/u8QRZA82BCje9zgMhgDk_ROVb_zwcJz5iDJ-BQnNk47h6vY_PwqREBeJeUaVCCAZ3LAX_MDBTbg", ETV Andhra Pradesh
+https://ythls-v2.onrender.com/video/GI-8sFxRoyw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News India (Telugu)" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/3eMz2ePLhVmre6X5oA_2Q6WOmYYW4xMaD2czPYtXC79JlK-sSAFJ7hiWp9Kx1cH7YMWmJi9Xw80", ETV Telangana
 https://ythls-v2.onrender.com/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8?playlist=index
@@ -9543,6 +9549,9 @@ https://ythls-v2.onrender.com/channel/UCFqRy7pWgY3Yii43GyjtAuA.m3u8?playlist=ind
 #EXTINF:-1 group-title="New India (Tamil)" tvg-language="Tamil" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mZ1IIgMwTRj4ns_qJsjoslanu6AKdBN1OBdxIXfixfdSA", Sun News
 https://ythls-v2.onrender.com/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mZ1IIgMwTRj4ns_qJsjoslanu6AKdBN1OBdxIXfixfdSA", Sun News
+https://ythls-v2.onrender.com/video/9M02G5c6x6w.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSDnDDX-3zYhLG-Z-R299rHwntXGaW-bGmInZvCAg", Sundomtv
 https://ythls-v2.onrender.com/channel/UCyDiTtktwmrc20Bvs_G4pow.m3u8?playlist=index
 
@@ -10208,6 +10217,9 @@ https://ythls-v2.onrender.com/channel/UCFctpiB_Hnlk3ejWfHqSm6Q.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lqxjqFIBNjyK9ZYuXIEC-os4BKQp9eGpkjMVUQdJZEWA", The Real Samui Webcam
 https://ythls-v2.onrender.com/channel/UCmYyJaUxYiF5IbLx-0jFXHQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lqxjqFIBNjyK9ZYuXIEC-os4BKQp9eGpkjMVUQdJZEWA", The Real Samui Webcam
+https://ythls-v2.onrender.com/video/TfOOzM6mPT4.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/f-OxUz26605wPv6gzjdK9Y97nkLQWhhr6P1HHH-eLI9t5D0UumrqKGqwYrBGXuvtHfHpBl0_", The Real SoulShirdi Sai
 https://ythls-v2.onrender.com/channel/UCstmnfIOcvO-6DONnfKhAPg.m3u8?playlist=index
@@ -11171,6 +11183,9 @@ https://ythls-v2.onrender.com/channel/UChl-MciRVsq6RPyhaIMceOg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/QEF3L2vD5L4QDb50g7asgODref3cOi9EAbxDF0tSyFS9gTkwm4POcr7iHBCSCKh4tBznUTgjcQ", Vistara News
 https://ythls-v2.onrender.com/video/H7mhvwZwaEw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/QEF3L2vD5L4QDb50g7asgODref3cOi9EAbxDF0tSyFS9gTkwm4POcr7iHBCSCKh4tBznUTgjcQ", Vistara News
+https://ythls-v2.onrender.com/video/V13iZ5T9K4k.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/JgcGQvVLZb7hdZVex8bbqJ2cnQd8GfDiMnbM0Fub--JTdrVD10bBPjbXhfBfpyTYC49X2QaKLSE", Vistara News Live
 https://ythls-v2.onrender.com/channel/UCcko36LSLlEQRvncSela3NA.m3u8?playlist=index
