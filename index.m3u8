@@ -999,6 +999,9 @@ https://ythls-v2.onrender.com/channel/UCjElJyiXmQXnWmceQ1JyKrA.m3u8?playlist=ind
 #EXTINF:-1 group-title="News India (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/gizUTRt3mGlEsAEfvvLWR9PIaTAeOhXBT89pTuQ6CcrAww1tWRlcskmWVK9sahEf-KWZZ3iJCw", asianetnews
 https://ythls-v2.onrender.com/channel/UCf8w5m0YsRa8MHQ5bwSGmbw.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/gizUTRt3mGlEsAEfvvLWR9PIaTAeOhXBT89pTuQ6CcrAww1tWRlcskmWVK9sahEf-KWZZ3iJCw", asianetnews
+https://ythls-v2.onrender.com/video/Ko18SgceYX8.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/BV_8I4MTYeAlwG1nXX2fxI8unRc_lZ8urLaD6mhkNkHrDLA6vbGTUB78XAfa340YxkzH8-ZGMDM", AsiaRoadRacing
 https://ythls-v2.onrender.com/channel/UC0ATP7jvhvWteLxek0RqmRA.m3u8?playlist=index
 
@@ -6836,6 +6839,9 @@ https://ythls-v2.onrender.com/channel/UCqfX_f4rBbPhq_KESE4saCA.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/dt_7th6zZPzSIeMfBgvkJBgu3NZ4YRZlqFuxLAKsHY7SljR0yLkcXZE-izL_Ds0NY5v1N7eW", News18 India
 https://ythls-v2.onrender.com/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/dt_7th6zZPzSIeMfBgvkJBgu3NZ4YRZlqFuxLAKsHY7SljR0yLkcXZE-izL_Ds0NY5v1N7eW", News18 India
+https://ythls-v2.onrender.com/video/HBorWH77wPs.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News India (Kannada)" tvg-language="Kannada" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_meeVEs1wGPVAkiV5oTP0uOAHsnkFOUWekR_THVcs-RmA", News18 Kannada
 https://ythls-v2.onrender.com/channel/UCa-vioGhe2btBcZneaPonKA.m3u8?playlist=index
