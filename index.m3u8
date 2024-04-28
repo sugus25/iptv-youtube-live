@@ -19,10 +19,10 @@ https://ythls-v2.onrender.com/channel/UCzPB5j0mU-0TORZ-7-u8y0w.m3u8?playlist=ind
 https://ythls-v2.onrender.com/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Az4lQBdlykWgc76XCSZj3UmeDMQ-dj9DupAI-Tn42mxyj6Nih10jaTtN4KX-kYxwmkq7V8lfREY", 11 канал
-https://ythls-v2.onrender.com/channel/UCwALNfmBX8f2XKt2xe4PMBA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Az4lQBdlykWgc76XCSZj3UmeDMQ-dj9DupAI-Tn42mxyj6Nih10jaTtN4KX-kYxwmkq7V8lfREY", 11 канал
 https://ythls-v2.onrender.com/video/BIOzfmRB4fQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Az4lQBdlykWgc76XCSZj3UmeDMQ-dj9DupAI-Tn42mxyj6Nih10jaTtN4KX-kYxwmkq7V8lfREY", 11 канал. Голос Дніпра🌊
+https://ythls-v2.onrender.com/channel/UCwALNfmBX8f2XKt2xe4PMBA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQqCZp3vzhXygI41sE9-GUoe1x0AWEQ-kwUXdQT6g", 123 GO! Genius
 https://ythls-v2.onrender.com/video/FfdIJOXYnh0.m3u8?playlist=index
@@ -75,8 +75,14 @@ https://ythls-v2.onrender.com/video/1NJkxVQsSIo.m3u8?playlist=index
 #EXTINF:-1 group-title="News India (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/eqbZ6s1e5--bLtQT-w_COL6u7ajCp_cUwtc-yXUntjsmXwjflWaFgKRrP0ao02Zhw3e_7zZIfA", 24 News
 https://ythls-v2.onrender.com/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/eqbZ6s1e5--bLtQT-w_COL6u7ajCp_cUwtc-yXUntjsmXwjflWaFgKRrP0ao02Zhw3e_7zZIfA", 24 News
+https://ythls-v2.onrender.com/video/1wECsnGZcfc.m3u8?playlist=index
+
 #EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/aJuYpTLX6RQmr3S9FHG_LVpYOSbBQ4aBEKTXMqFNBfTQi6kzbjZg-liRGRhlAOQLtGzpG1EuPQ", 24 News HD
 https://ythls-v2.onrender.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/aJuYpTLX6RQmr3S9FHG_LVpYOSbBQ4aBEKTXMqFNBfTQi6kzbjZg-liRGRhlAOQLtGzpG1EuPQ", 24 News HD
+https://ythls-v2.onrender.com/video/qah4pyuH_Jo.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Sports (Arabic)" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQT_7Qq4BbKAs4G5trNcRUW-B35JBsGt8Fagsyw", 24 sports
 https://ythls-v2.onrender.com/channel/UCGnTP2NwS6ZJwmXBTsS2w-w.m3u8?playlist=index
