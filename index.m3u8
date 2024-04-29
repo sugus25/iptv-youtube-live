@@ -6819,6 +6819,9 @@ https://ythls-v2.onrender.com/video/7tNtU5XFwrU.m3u8?playlist=index
 #EXTINF:-1 group-title="News India (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9", NDTV
 https://ythls-v2.onrender.com/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9", NDTV
+https://ythls-v2.onrender.com/video/RQrLqUxw0U0.m3u8?playlist=index
+
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/75NPG2RuKD_ndulSMb3xO0n6HKBTyrVyv7ckC3V4tcICZkI3Ef0kAIfXbOWDWmwDCsfvXPjaww", NDTV India
 https://ythls-v2.onrender.com/channel/UC9CYT9gSNLevX5ey2_6CK0Q.m3u8?playlist=index
 
