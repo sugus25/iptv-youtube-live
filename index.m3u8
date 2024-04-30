@@ -3625,9 +3625,6 @@ https://ythls-v2.onrender.com/channel/UCWeum91XCJ0RmTG8R4d8TFg.m3u8?playlist=ind
 https://ythls-v2.onrender.com/channel/UCt3igz3aIXfS108KV_jZsMA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/WeW6LZ-hWoXuS-gTh8BvNZaXEW-iFuHrVTMy9qQAqO9XZVzG7H3x6FQVriGmvrqXB5YoroKp0w", FREEДOM
-https://ythls-v2.onrender.com/video/BOPR9CNP-Uk.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/WeW6LZ-hWoXuS-gTh8BvNZaXEW-iFuHrVTMy9qQAqO9XZVzG7H3x6FQVriGmvrqXB5YoroKp0w", FREEДOM
 https://ythls-v2.onrender.com/video/ObVgUTEMhMM.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/WeW6LZ-hWoXuS-gTh8BvNZaXEW-iFuHrVTMy9qQAqO9XZVzG7H3x6FQVriGmvrqXB5YoroKp0w", FREEДOM
@@ -6678,9 +6675,6 @@ https://ythls-v2.onrender.com/video/NYoNORroe3o.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", Nagoya TV News
 https://ythls-v2.onrender.com/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", Nagoya TV News
-https://ythls-v2.onrender.com/video/-C6FE2m7kX8.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ll8Pu2Yc823swO-z0fBcPS79mM983V2jHfcOQ40c5Q_W-cdIY3TOhwPJ1mM5n2XREbg4iyJang", Naimat
 https://ythls-v2.onrender.com/video/gUC3TjCrwRw.m3u8?playlist=index
 
@@ -9699,6 +9693,9 @@ https://ythls-v2.onrender.com/channel/UCZsMIEMhYC1gmLhj-D0nsPw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nBCHJXOygHU948-58W4ki4N25Eseuaap_vztDQt2PQ9Q0", SunnahJalanPasti
 https://ythls-v2.onrender.com/channel/UCoPO7QD-HlBn7B02OMOsJJQ.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nBCHJXOygHU948-58W4ki4N25Eseuaap_vztDQt2PQ9Q0", SunnahJalanPasti
+https://ythls-v2.onrender.com/video/GKKYvpeq8kA.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/C26CiruO_T2Uwh2OgHhlYkQMPY3uB6hWQdrUdVYXFgRvoNzZeoFeoUa14jwcR90bVg72PY-BZw", Sunny Bunnies
 https://ythls-v2.onrender.com/channel/UCHyeWVPbdJNWNxdlsKl3IYA.m3u8?playlist=index
 
@@ -12611,6 +12608,9 @@ https://ythls-v2.onrender.com/video/6edjvFbwjPI.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/jeiKFUry436kaqXyNpfxbk1MGE0SYmE_ou3xVEe9l1givloIsI9sX3stStdsvcw2W1-s8oLS3hc", フジヤマNAVI
 https://ythls-v2.onrender.com/video/Sv9hcJ3k5h4.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc", メ〜テレニュース
+https://ythls-v2.onrender.com/video/-C6FE2m7kX8.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/vG2pA39P8gdb3wphZoKbFVoXJiUKwKplde9MD6Z_Vnqw7Gash44uPdg7HjPkqdE1J4fYiH2m2w", ヴァンガードチャンネル【アニメ「Divinez シーズン2」7月放送開始!!】
 https://ythls-v2.onrender.com/channel/UC1Wp3qfvlq1GybWL6C85jSw.m3u8?playlist=index
