@@ -636,7 +636,7 @@ https://ythls-v2.onrender.com/video/gCNeDWCI0vo.m3u8?playlist=index
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/VtNsH4R3StlgJ0sbFgY68Zzt8kXGnF39t_6rPmJDw1qpfB6h5JtAAAmvwgIGgmDi-9buOiTS", Al Mashhad المشهد
 https://ythls-v2.onrender.com/channel/UCWnBTuzUUDpKhJPGuDQMynA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="", Al Mayadeen Live - الميادين مباشر
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/MlJtzHB40ruahGWcGqhmWGItF1lbHMzZBdMJi-6xIzSfwu0IskY4_fT1xCR97znNgPxR9d7LH9c", Al Mayadeen Live - الميادين مباشر
 https://ythls-v2.onrender.com/channel/UCuJDz6R_lHaxeGnFTnv3tjg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/H136H03xas-FqWvuhQnwIhSEpr_qVepO1P9pxGvsRdLDQMEDrpPBVJl4-lrcQhOqgDQTbanQXNI", Al Nahar TV Live Streaming | بث مباشر
@@ -2303,6 +2303,9 @@ https://ythls-v2.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaRjYdnt_ES9B8QK398k4R1o5U6MoFQ0a7fqT4t8", Cocobi - Songs & Stories
 https://ythls-v2.onrender.com/channel/UC2fWLJgQUxRg-5Mv5A0cJMg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/5ez5hBfVp1PDnUbNMo0be1iuAXTlZxGP9VRyII8eSgRtRfnsOsXHfO0zF2KTXOzgSnhtYQv8", Cocobi Indonesia - Cerita Dan Lagu Anak-Anak
+https://ythls-v2.onrender.com/channel/UCKTVJSs20FKNkhEfvGumzuw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/5ez5hBfVp1PDnUbNMo0be1iuAXTlZxGP9VRyII8eSgRtRfnsOsXHfO0zF2KTXOzgSnhtYQv8", Cocobi Indonesia - Cerita Dan Lagu Anak-Anak
 https://ythls-v2.onrender.com/video/3WkzccyO0kg.m3u8?playlist=index
@@ -12701,6 +12704,9 @@ https://ythls-v2.onrender.com/video/vOue3tgccd0.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ", 寰宇新聞 頻道
 https://ythls-v2.onrender.com/video/w87VGpgd90U.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/mkDM23V4bLxqsPxDG9G2QBMScjYVSo2NjRuTNGFKu1LeePzoDjHAWWevGPAwQ4xDvIPeZNmMSQ", 寰宇財經新聞
+https://ythls-v2.onrender.com/video/25SE1bbTv9k.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTIh1fKCWloML175CE3vqarBe08BCod04b4H9Xlcg", 小猪佩奇 中文官方 - Peppa Pig
 https://ythls-v2.onrender.com/channel/UCRi0sw4PDw-C2C7fS9hrx5Q.m3u8?playlist=index
