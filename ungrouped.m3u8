@@ -9090,9 +9090,6 @@ https://ythls-v2.onrender.com/video/FeweQREkl44.m3u8?playlist=ungrouped
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_n3Keo-ZuVd7v3qBDNE6mOqQ4nXMHSnXDsEauwtziaem7w", The '80s Guy
 https://ythls-v2.onrender.com/channel/UC6ghlxmJNMd8BE_u1HR-bTg.m3u8?playlist=ungrouped
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ", The Asahi Shimbun Company
-https://ythls-v2.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8?playlist=ungrouped
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mCbyQGov8Dr5KWBUzmnEExSrukhXcL45z1zM8uv7OSkg", The Beach Channel
 https://ythls-v2.onrender.com/channel/UC4DGdCCp03yi6AWp2sO_r1g.m3u8?playlist=ungrouped
 
@@ -11441,6 +11438,9 @@ https://ythls-v2.onrender.com/video/mYhkthVZUhY.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/xbF1-NcnikgRAH04sVPQ4RL9IVokb0SKEi81ILkOJrz-bb41UQTqU8jMsikHut4gYNjH0uyZQg", 朝日新聞LIVE
 https://ythls-v2.onrender.com/video/wb2xVVPA_2o.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ", 朝日新聞デジタル
+https://ythls-v2.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/oya3tv4PLD8htvk4zfWOct9gAXpViqkLNUspIshTw7xwu8auNEEi6GIFY4u_6dsztlH4v2pDNg", 東京新聞チャンネル
 https://ythls-v2.onrender.com/channel/UCcipaSh5J0DwFRvoaAl0P3g.m3u8?playlist=ungrouped
