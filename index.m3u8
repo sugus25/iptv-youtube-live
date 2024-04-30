@@ -376,6 +376,9 @@ https://ythls-v2.onrender.com/video/F8gbJUXaeo0.m3u8?playlist=index
 https://ythls-v2.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ", ABC News
+https://ythls-v2.onrender.com/video/TrGVCppZam8.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ", ABC News
 https://ythls-v2.onrender.com/video/gN0PZCe-kwQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News Australia (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lHPbB8ofmOO9z-qIfDyvdIkJwvZQIlzMkLheepDb2PWDQ", ABC News (Australia)
@@ -6720,7 +6723,7 @@ https://ythls-v2.onrender.com/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQiK1W0GsRo4gjkz8gWUd0Sjw1Yxay-51CiCxleKw", Nat Geo WILD
 https://ythls-v2.onrender.com/video/6zGV59Ldp3s.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQUMyEoteXzQmupztuHuVAyVvHab9CF_6tezc0BYg", Nat Geo WILD
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/RRL8O751UsFCCL1U6tVCLlWr19skngM4dbAEb6EGE4Rcqqz842sf9bQGBk3IfnPlkcFvNyknyA", Nat Geo WILD
 https://ythls-v2.onrender.com/video/BJ3Yv572V1A.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQUMyEoteXzQmupztuHuVAyVvHab9CF_6tezc0BYg", Nat Geo WILD
