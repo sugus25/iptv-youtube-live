@@ -5331,7 +5331,7 @@ https://ythls-v2.onrender.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/AjvATNbIv72f20z6gMpWvFlItOPcP1N0KVTV4B_m5W_tOFfzHnKkuOMPB96E2SE21tX2EbwZ7Dg", Lion Music
 https://ythls-v2.onrender.com/video/Ew3yK0T5B7g.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/wexZnc6227F6QBg5GLK1uZAUDwI_F6hfWpyN1328A2wId0yiV6S7wLU4Mw5539cOIrJ1aPYq9rE", Liputan6
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/gv4Y_9ctDH18HkYWlf2pQD2ihzyZCKQ-qjbJHy8cdncE7gO6tKypg4f_oYYLgi8RBhEsczHPDQ", Liputan6
 https://ythls-v2.onrender.com/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/wexZnc6227F6QBg5GLK1uZAUDwI_F6hfWpyN1328A2wId0yiV6S7wLU4Mw5539cOIrJ1aPYq9rE", Liputan6
@@ -9613,9 +9613,6 @@ https://ythls-v2.onrender.com/video/2dfAzcDf8Zg.m3u8?playlist=index
 https://ythls-v2.onrender.com/video/S5WOGu2HSes.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", Taiwan SETNEWS Live  Channel
-https://ythls-v2.onrender.com/channel/UC2TuODJhC03pLgd6MpWP0iw.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", Taiwan SETNEWS Live  Channel
 https://ythls-v2.onrender.com/video/FoBfXvlOR6I.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", Taiwan SETNEWS Live  Channel
@@ -12359,6 +12356,9 @@ https://ythls-v2.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZdGT0pzlpBUdyvQN-2MtuDPe0_Bclv1JSv3LbIub8TAofAE_xL7SxyBbSCZYnJjpB9hV2ncl", 三立iNEWS
 https://ythls-v2.onrender.com/video/CKjSm5ZeehE.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", 三立LIVE新聞
+https://ythls-v2.onrender.com/channel/UC2TuODJhC03pLgd6MpWP0iw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqPfvWDJQIrLydgW9t3XoK5pc4Kl6-T692uOJ2JuHA", 三立華劇 SET Drama
 https://ythls-v2.onrender.com/video/HRwAMooYM3w.m3u8?playlist=index
