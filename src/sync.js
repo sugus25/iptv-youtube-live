@@ -23,7 +23,7 @@ const getCache = async () => {
 
   // merge the channels from two sourcea
   cache.forEach(item => {
-    if (item.name) {
+    if (item.name && item.url.startsWith('channel/')) {
       // santize item
       item.updated = (new Date()).toISOString()
 
