@@ -1032,8 +1032,14 @@ https://ythls-v2.onrender.com/channel/UCC0XEDBRtOO2GPC_DP4hR3w.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ieUVjzT9gKouMQgfpeCnTF9_HSBCCRuWhtVWOCpw7swpkuecn7BklfBIZ-_W454umuwzjRCRfA", Beautiful Relaxation
 https://ythls-v2.onrender.com/channel/UCXnvLHEf5t4ncz2DCLRMmpQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/5ogltiXRVLkQSfCs30VWezgjafqKRLhbJnhkMxVlRomdjP9rI4EYfPuMK7V3pofxpXoB8ykj", Bebefinn - Nursery Rhymes & Kids Songs
-https://ythls-v2.onrender.com/video/1orQbY9gkXM.1.m3u8?playlist=index
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/5ogltiXRVLkQSfCs30VWezgjafqKRLhbJnhkMxVlRomdjP9rI4EYfPuMK7V3pofxpXoB8ykj", Bebefinn - Nursery Rhymes & Kids Songs
+https://ythls-v2.onrender.com/channel/UC-cY4X2sLECUhishGNiyofQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Kids (Portuguese)" tvg-language="Portuguese" tvg-logo="https://yt3.ggpht.com/ZFERo2qO4isY1ioAjTsLT2S8z4gdX41umGUtxbHG_rzqHJjbwrj_RP6iryb_YSD3SES09EKjqg", Bebefinn em Português - Canções Infantis
+https://ythls-v2.onrender.com/channel/UCGrXp5w0eRzF0Bv_-ROtN-g.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/8T8-WeL94vW2tqOiXe90p8VIrUtosZkNi6T1XIuFzar1M8Dnz5Q5R-zWDUiaKjUBxzp-7DKtLw", Bebefinn en español - Canciones Infantiles
+https://ythls-v2.onrender.com/channel/UC9Vv1LScecnPZI778jocihA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/26E8tfIwZ00fZ_lutjKEOE5LqL2X0GQ8_kZiHTkOPxWoHwIZzR-lRGatU876Qo3KX1_DwGIT6g", Bedaya TV l قناة بداية الفضائية
 https://ythls-v2.onrender.com/channel/UCVWzOS8DBzcAp7Z5wrcVTbQ.m3u8?playlist=index
