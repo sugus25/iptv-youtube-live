@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m1rybWNIbA345IER0Wswzas1Hw2I5l5Qibd79XrlhysYE", (السنافر) The Smurfs •القناة الرسمية!
-https://ythls-v2.onrender.com/video/iWZIkkLZL8o.m3u8?playlist=index
+#EXTINF:-1 group-title="Kids (Arabic)" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m1rybWNIbA345IER0Wswzas1Hw2I5l5Qibd79XrlhysYE", (السنافر) The Smurfs •القناة الرسمية!
+https://ythls-v2.onrender.com/channel/UCBZLg-ixSGqEjh3ld7nSwLg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Dmx8CTHMSntnlRexa9jyB_lFCcP0B43hAe0DhWtknSXRrfcvrTjTFDky97MgeFON10TcaoQcQlo", +Favela TV
 https://ythls-v2.onrender.com/channel/UCkgOz-my1nu6G4hKKZTf-UA.m3u8?playlist=index
@@ -180,7 +180,7 @@ https://ythls-v2.onrender.com/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/jo5FrdtAu8z23u4a_Lw848w3F1j7Cf6bb0iP4Lu_nSgMM8Kbp2OBhXTcRiMxkgaAiavphHP_rA", [公式]スターキャット
 https://ythls-v2.onrender.com/channel/UCsuKV3IwmGEHJTvi9GAJ1tA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/oBo-NVXMmfaCLcjiWM2G8mIxFw-LIEck0w_RAZ5Ciawsi-7duneoEQ3qcmR4R6jAkVPaxOrqig", A Casa Mágica da Gabby
+#EXTINF:-1 group-title="Kids (Portuguese)" tvg-language="Portuguese" tvg-logo="https://yt3.ggpht.com/oBo-NVXMmfaCLcjiWM2G8mIxFw-LIEck0w_RAZ5Ciawsi-7duneoEQ3qcmR4R6jAkVPaxOrqig", A Casa Mágica da Gabby
 https://ythls-v2.onrender.com/channel/UC4bG4HsFDLpm1qTPDqZFRgA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/198n-WMQ4cLozV_HUuhk5wKEU7HSvvV9aIwHeqKOAvkGrWiwIsQB5_DrP-1u__fGaNI-N_mbJg", A Haber
@@ -3458,6 +3458,9 @@ https://ythls-v2.onrender.com/video/GDQnA1LVCWA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/GsksUTsfH6JOA0UTk7-31HIPXYqOfH0IBF1MAvxMUnC-DX8bJxgNrufCc3nPUx4Bps1P1Zr8RQQ", Fútbol MX 2
 https://ythls-v2.onrender.com/channel/UCsgraJBpJ_FIttTW82jD-Xw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/lH6fVskv05wUxGC3AmWhpHDvh-77b9jFBmYhgtNe8NJIa45nBULmkurCc_XfGQGJRgfEP_fo", Gabby's Dollhouse
+https://ythls-v2.onrender.com/channel/UC_jCXm9x_z9_kp8DNbIs6mQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News Gabon (French)" tvg-language="French" tvg-logo="https://yt3.ggpht.com/6hYz1o3RdUxQ_0yL0dodfXqTTI9kCPxQecISZb9ewMjGrdhMfB6wCud9vihroQw3p41JojYt", Gabon 24
 https://ythls-v2.onrender.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8?playlist=index
