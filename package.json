@@ -8,7 +8,8 @@
     "lint": "standard --fix",
     "generate:playlist": "node ./src/m3u8.js",
     "generate": "npm run generate:playlist",
-    "sync": "node ./src/sync.js"
+    "sync": "node ./src/sync.js",
+    "compare": "node ./src/compare.js"
   },
   "repository": {
     "type": "git",
