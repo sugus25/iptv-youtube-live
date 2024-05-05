@@ -2289,9 +2289,6 @@ https://ythls-v2.onrender.com/channel/UCJqwSXVmnG6hZrIoqdpjRYQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZQTq6XVhEVOrWPKAKIsWXVDsb4CrWB2waAGQhC6", CTIASIA 中天亞洲台
 https://ythls-v2.onrender.com/channel/UCys6fpFsyUIHMVhn9g10trQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cweYaB26lLbseNGYuAgmmTGm6mLdSWqzm88JfB1N3ISBThVUESAs4f7DeTJ7ctfshXDfR4PJ0Q", CTITV NEWS
-https://ythls-v2.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/t_aAnAmToPnMP2LnIuzQEeTzaZyBkFsexUUrvx1ji9K65JbWTNGKSzER3fLcivkjbRyJuAW4", CTVN AKD PLUS
 https://ythls-v2.onrender.com/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8?playlist=index
 
@@ -10134,7 +10131,7 @@ https://ythls-v2.onrender.com/channel/UCNWwvZUJvdUa3_v9l0HUQzg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKbWGEJl5eR5vm32K8RDv5okQbbnkAVm-b0Qo-EY", Televízia Hronka
 https://ythls-v2.onrender.com/channel/UCdsKjmExW-0pFskKYbjNIQg.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRTFISptWHswKsqfymVbYTjtDBofWDQDNI_NPamrQ", Telewizja Dami Radom
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kQwxCPM14CC-qFRAaQdTnPcMqZR51ijpPw2Y8AHpCjCgI", Telewizja Dami Radom
 https://ythls-v2.onrender.com/channel/UCL1u3cY7_nPjbZmKljCy_Cw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nbgvWZxFRIxmrX0mCHIheoSVUQiIyBevQZZwvzWMF6vBk", Telewizja Gorzów
@@ -12638,6 +12635,9 @@ https://ythls-v2.onrender.com/channel/UCwYvNGb19z9A6gpisi0Jv4A.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Qb7frcPv6WErITnMbe_iefNtf2olw4gcB4WNt99Y2ngPfpZkfXcP7lTwVQP2gQcTtY1IFKjkqg", 中京テレビNEWS
 https://ythls-v2.onrender.com/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cweYaB26lLbseNGYuAgmmTGm6mLdSWqzm88JfB1N3ISBThVUESAs4f7DeTJ7ctfshXDfR4PJ0Q", 中天新聞
+https://ythls-v2.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/28iLegE5c9FOK6AFu32VLoOuthXqqxLr5xXReD9_IpCuudQuSYggKCbdwFDhAlocrCno0t0W9w", 中天深喉嚨
 https://ythls-v2.onrender.com/video/WPfPjbOLNfE.m3u8?playlist=index
