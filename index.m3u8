@@ -4518,6 +4518,9 @@ https://ythls-v2.onrender.com/channel/UCQOt5-Mc5m03JCO_W9SWySA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Science (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/bOmqDNEBUJods7e6RnKi8ML_8-IW39uBuHwURGrPstqnu3X_iyO02EedWwQx2jpvBpK9HNax", National Geographic
 https://ythls-v2.onrender.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nTYtqJtummKwzJMzk7eBKSXdMpMF4QKlW8QWYrQ1fju7I", National Quartet Convention
+https://ythls-v2.onrender.com/channel/UCmzIkIsRhfIwuQaju_YhZfA.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="", NationalGoldTV.np
 https://ythls-v2.onrender.com/channel/UC1SeIQsJZSyo09PRq9zJz_w.m3u8?playlist=index
 
@@ -6272,6 +6275,9 @@ https://ythls-v2.onrender.com/channel/UCmluFv8LmQmKpmq0wyCAVgA.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/khFHqwhky1z0MqM2PXRS-WeptU3O8vNt5I_dtXrZsRXgORZD7V2A-CXC-LyFYClTpU1oo28y", SolTv-Producciones
 https://ythls-v2.onrender.com/channel/UCyT9rRB2tzQY5pwLe-5f8Lw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nj18SS4a4zRJ6lYpYseR3eDskeesfAdIPRJBkuvEp_Hio", Som Que Alimenta
+https://ythls-v2.onrender.com/channel/UCLTAyvLIHRK2kYWHCP3b37w.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/VHYWfsvAJCbO0e6IdN0d9RE14gxPxSXfr9wZmAFK2Evl9MOGucyny8OTMI-2IXvTQ_CxVdnZ", Somnath Temple - Official Channel
 https://ythls-v2.onrender.com/channel/UCT1egsvA08YcdMLiEu1DTRg.m3u8?playlist=index
