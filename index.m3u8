@@ -828,6 +828,9 @@ https://ythls-v2.onrender.com/channel/UCGxnmQJquvQwlV_ICDfAKNA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/aK3Ioj1sm0pQZGpkb2yh8QpJvnGnCKVXOsb083W4FhZ2zMa4-ZM6O8ItT8MVlWcYhooBamrnXA", BabyTV Español
 https://ythls-v2.onrender.com/channel/UCVA9wu4h1lLIPQo9wkJdg7w.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="", Bageshwar Dham Sagar
+https://ythls-v2.onrender.com/channel/UCEG8_X9cgXyXG6EtMP0qiqQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/DA6p1j2nykBx4DnbzowVrvGcYs79XJJNcW-O4ksAN-2iMF1ntj5SMsf21xYsfyGtnQACWA7Oww", Bahia Notícias
 https://ythls-v2.onrender.com/channel/UCelevrrg2g7NdlrJMPrunhw.m3u8?playlist=index
 
@@ -2550,7 +2553,7 @@ https://ythls-v2.onrender.com/channel/UCm44PmruoSbuNbZn7jFeXUw.m3u8?playlist=ind
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/QqJfK-0gx-9M9y3do7vgEA8dgxgxY7QBTNWt81Y8wHIXWl38ftVkmQZQNtRDuF2_F5cFsVX40A", First India News
 https://ythls-v2.onrender.com/channel/UC_cZYFovNQTsKw1ZLmO_AMA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ECkjlnETOWq_v2UuToBHeR_UY42J47UNashpSkdQpcMEMh0eBdBag-81bRs65BOhZzsbGxUW", Firstpost
+#EXTINF:-1 group-title="News India (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ECkjlnETOWq_v2UuToBHeR_UY42J47UNashpSkdQpcMEMh0eBdBag-81bRs65BOhZzsbGxUW", Firstpost
 https://ythls-v2.onrender.com/channel/UCz8QaiQxApLq8sLNcszYyJw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/4JrN_O0lhaitCoLCR0iCSwjoIh6vFaW98SrAYw4aik2W2SP2cUGKNc-PX3KZ8QDKpphgbsxA6UM", FLA TV
@@ -2631,14 +2634,11 @@ https://ythls-v2.onrender.com/channel/UCR3rqspk_iUpCEiiahEW0mg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Kids (Russian)" tvg-language="Russian" tvg-logo="https://yt3.ggpht.com/9HlrJ3aX2x68Lg2fbzDPXPPYrfzSGlYBE-dimwukUTDuhI0TzO91NbZyqB6iJmVmyJFI8Lby", Fox Kids Russia
 https://ythls-v2.onrender.com/channel/UCmG-sPW_FHZ4TsV15FdVtpw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/xrMXuR2ARUKOvvMKeB2XAFMt6rchyUkiEn2G2J1DtWjL5zVxKW9H4jlkQdBdBoqTi_WmU5_dGQ", Fox News
+#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/xrMXuR2ARUKOvvMKeB2XAFMt6rchyUkiEn2G2J1DtWjL5zVxKW9H4jlkQdBdBoqTi_WmU5_dGQ", Fox News
 https://ythls-v2.onrender.com/channel/UCXIJgqnII2ZOINSWNOGFThA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/46IT-KTOYd5FQsG0ygVDrXwg-CXO1z4rBZ2IVvF3WUjbg6MjHYdG3FV5C00lDwKYW114sF4s9w", FOX Weather
 https://ythls-v2.onrender.com/channel/UC1FbPiXx59_ltnFVx7IxWow.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="", FPTV.us
-https://ythls-v2.onrender.com/channel/UCT3Dk_ZPcoR7CeHM_Wwb3QA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News International (French)" tvg-language="French" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_k9aU_SRhYAWJjQ6AO7uzQDZE5mb7gmv4synLrC7hEWGjE", FRANCE 24
 https://ythls-v2.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8?playlist=index
@@ -6507,6 +6507,9 @@ https://ythls-v2.onrender.com/channel/UC7w8GnTF2Sp3wldDMtCCtVw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/JyB4GPMd40hihwacgU6s0ibVI4OmrATut22m5AvvpJS2aJikujnln7-Ml2T4Aopot1v8qr5793U", Studio BreakBeat
 https://ythls-v2.onrender.com/channel/UC75D_wYB6jlBkwtzLfIUxsw.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Learning (English)" tvg-language="English" tvg-logo="", StudyIQ IAS
+https://ythls-v2.onrender.com/channel/UCrC8mOqJQpoB7NuIMKIS6rQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_naTixfZt7qzD7YtqILL5Dn5MvjQx4sboDbV0YfoQNwCg", STVニュース北海道
 https://ythls-v2.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8?playlist=index
 
@@ -7644,7 +7647,7 @@ https://ythls-v2.onrender.com/channel/UCOm9kokvWtvCVTrmZoWpehA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/pfGjQXTv-n8QZDOko_LaLjORpKqZBcHFA2RG3OPGQzODyWONf2L0iB2bKrE21FMpo-yqd4fb0A", Urząd Transportu Kolejowego
 https://ythls-v2.onrender.com/channel/UCzk5x_PbhFKUoJx_HNTefDQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mpuS6J3PwGJatG2czLGfmZHyE_kNicqukg0jBnCbENmiJl", USA TODAY
+#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mpuS6J3PwGJatG2czLGfmZHyE_kNicqukg0jBnCbENmiJl", USA TODAY
 https://ythls-v2.onrender.com/channel/UCP6HGa63sBC7-KHtkme-p-g.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ln6VlHgT3ye4QNAUPkR8Sci1XTE5gM_VjjE9gu4g3JPYc", use-IP Ltd

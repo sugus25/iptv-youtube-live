@@ -9,11 +9,17 @@ https://ythls-v2.onrender.com/channel/UCBvv5xYXNHa5XjecBC2-odA.m3u8?playlist=new
 #EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nlnjM_fZG5f-TKrO9NVjXn0FWSw_MjlyAV13KEtO-959Y", CBS News
 https://ythls-v2.onrender.com/channel/UC8p1vwvWtl6T73JiExfWs1g.m3u8?playlist=news-usa-english
 
+#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/xrMXuR2ARUKOvvMKeB2XAFMt6rchyUkiEn2G2J1DtWjL5zVxKW9H4jlkQdBdBoqTi_WmU5_dGQ", Fox News
+https://ythls-v2.onrender.com/channel/UCXIJgqnII2ZOINSWNOGFThA.m3u8?playlist=news-usa-english
+
 #EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/46IT-KTOYd5FQsG0ygVDrXwg-CXO1z4rBZ2IVvF3WUjbg6MjHYdG3FV5C00lDwKYW114sF4s9w", FOX Weather
 https://ythls-v2.onrender.com/channel/UC1FbPiXx59_ltnFVx7IxWow.m3u8?playlist=news-usa-english
 
 #EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/PxnY9W5CY2DtxYuomOMRnJW2vu7oIgDf-c5JR-UyvMJKoZZhhRBhSKR5fgERwY9x9RI_NjdG", NBC2 News
 https://ythls-v2.onrender.com/channel/UCIYVU7fPs_n6gJIBso3ryeg.m3u8?playlist=news-usa-english
+
+#EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mpuS6J3PwGJatG2czLGfmZHyE_kNicqukg0jBnCbENmiJl", USA TODAY
+https://ythls-v2.onrender.com/channel/UCP6HGa63sBC7-KHtkme-p-g.m3u8?playlist=news-usa-english
 
 #EXTINF:-1 group-title="News USA (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/6AGUKj95cJTVBS5FKDg1UQF7ETsIK7jk9fOkMCgkZ6QfxHAZlYqlKUDYsNc_BDse18W3UZqRJJE", WPLG Local 10
 https://ythls-v2.onrender.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg.m3u8?playlist=news-usa-english
