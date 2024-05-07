@@ -1110,13 +1110,10 @@ https://ythls-v2.onrender.com/channel/UCKaqd3c_fGt25aa6HicNgRQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XN7AF0CAby-kXzRG1jwHrw6D2sjDUOpcK3F59Y_xZVi7b_5iK7i8KdiFVBN7zWFnFX_R6mtanw", BOA VONTADE TV
 https://ythls-v2.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="", Bob Esponja em Português
-https://ythls-v2.onrender.com/UCx68_7D0FoZSu_u0z7Qc8sQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/G-3lOUtuS24IfS7lXe7Krrj5JwcSt7NckaTwTuZS32gkhvL1f6zBQM3RrAagZuAiPKoK5iktj4w", Bob Esponja em Português
+#EXTINF:-1 group-title="Kids (Portuguese)" tvg-language="Portuguese" tvg-logo="https://yt3.ggpht.com/G-3lOUtuS24IfS7lXe7Krrj5JwcSt7NckaTwTuZS32gkhvL1f6zBQM3RrAagZuAiPKoK5iktj4w", Bob Esponja em Português
 https://ythls-v2.onrender.com/channel/UCx68_7D0FoZSu_u0z7Qc8sQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/1OxlWR2z6xgmU2RjUwhIFsuXAHaymuR6y0dIHCafp8Uoc05733uVdfMFn1UiHR1NlnkVAQ9DM8U", Bob Esponja en Español
+#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/1OxlWR2z6xgmU2RjUwhIFsuXAHaymuR6y0dIHCafp8Uoc05733uVdfMFn1UiHR1NlnkVAQ9DM8U", Bob Esponja en Español
 https://ythls-v2.onrender.com/channel/UCMfYMB69Y1B-SlGKm1Tdb0Q.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/LOyxjY5tSlBSVPREKytkEC5muFxGe6l1gLhul4FoxrxYV3F_f68QRdtrv9WEYM2Z05HksGYgslo", Boksado Boxing
@@ -1149,7 +1146,7 @@ https://ythls-v2.onrender.com/channel/UCV9FxSrPVEX3vjBax04V_uA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg", Booba – Cartoon for Kids
 https://ythls-v2.onrender.com/channel/UCKS1HX4moHCcDBZnM9k4giw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/iD849SdZ7EZFfMvIQ2zzwvfGBUTGL9_8uXtjFf4ok_8K1ibeJOT2bjxTAnzMxVlXevNiXG3pc7g", Booba – Çocuklar için animasyonlu karikatür
+#EXTINF:-1 group-title="Kids (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/iD849SdZ7EZFfMvIQ2zzwvfGBUTGL9_8uXtjFf4ok_8K1ibeJOT2bjxTAnzMxVlXevNiXG3pc7g", Booba – Çocuklar için animasyonlu karikatür
 https://ythls-v2.onrender.com/channel/UCwzaJ8TJ_nawO-cORHe95XA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSs45tzKH-dV1SXtxl5oF8xT4ez7gmJZo_J958TGQ", Boom Buddies Indonesia - Kartun & Lagu Anak Anak
@@ -1407,7 +1404,7 @@ https://ythls-v2.onrender.com/channel/UChtLgH7ZJLqLGWJpBnzy9Lg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="", CanalTelesantiago.co
 https://ythls-v2.onrender.com/channel/UC0h1kkyzQGnS3yckpyqEJQw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/F6HsunAveMZzHyrkVP7PR4XE4oXzANGv0L2lBJJHFWdTQBPQRUOYv0GWYOmAf52TWZNNsWP69g", Canciones Infantiles - LooLoo
+#EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/F6HsunAveMZzHyrkVP7PR4XE4oXzANGv0L2lBJJHFWdTQBPQRUOYv0GWYOmAf52TWZNNsWP69g", Canciones Infantiles - LooLoo
 https://ythls-v2.onrender.com/channel/UC5WwPdvAHvdS1ZK_v6AE90A.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ltNvyqsdTiJUUWENXdx0UQyMfyLwQ0pijiteyXrXM5Qg73Z1p3LdYScJ7y-WTwjQAyL0Nk9cOw", Canlı Radyo Dinle
@@ -4002,7 +3999,7 @@ https://ythls-v2.onrender.com/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/FvpbxMoM5TNIjIufWYR01ZxblpkoHtS-pbFV4iEYrLZMlH86hH0hRn3a11JvluO4jcCH-4XP", LooLoo Kids - Nursery Rhymes and Children's Songs
 https://ythls-v2.onrender.com/channel/UC4NALVCmcmL5ntpV0thoH6w.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ljAtY7Eq_qYn7Edz4IEjhgzzbvLCHh45R41DwyQvbujss", LooLoo Kids Português - Músicas Infantis
+#EXTINF:-1 group-title="Kids (Portuguese)" tvg-language="Portuguese" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ljAtY7Eq_qYn7Edz4IEjhgzzbvLCHh45R41DwyQvbujss", LooLoo Kids Português - Músicas Infantis
 https://ythls-v2.onrender.com/channel/UCWurQSGgLBQU-Lgy4ilu5-g.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kGwebPbwBF2MTTd7HKaBP4IiMqR410u0FkrlPZUO23uw", Lossless - Trữ Tình Bolero
