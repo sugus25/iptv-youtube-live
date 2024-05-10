@@ -1389,6 +1389,9 @@ https://ythls-v2.onrender.com/channel/UCuXFEDZzOIAvdCYqYsYAKmg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/RbtdWnKdsR1PuiXUbo-cA236DB2MMDhpEm-FCpQs7L-I_fKUb7I1YAuvb8Yd-lQ0ZHV0gCAH0w", Canal Red
 https://ythls-v2.onrender.com/channel/UC3PhLH0Rj2e_-0hNvwTLxGA.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/5MXltRF1wDLElBfxgcq1DoqPNUSG0II0oxtg4cKFFjoBk-biQStpP9lQBz9b3U2bOXM-cr1KcXU", Canal TeleSantiago
+https://ythls-v2.onrender.com/channel/UC0h1kkyzQGnS3yckpyqEJQw.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lWy1Fxb_KBmjRdveIpqjU6VM0QFlnxwmfskww7BxM-AVk", Canal Terraviva
 https://ythls-v2.onrender.com/channel/UCg7OGZm5onXJ-RDeGW6c7YQ.m3u8?playlist=index
 
@@ -1409,9 +1412,6 @@ https://ythls-v2.onrender.com/channel/UCky112obBMG68Nw5MrSNNPA.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mhU2bI-iGWToJUbUJqWiP9r0z6EIEcH38m-O8UguYMVg", canalsur
 https://ythls-v2.onrender.com/channel/UChtLgH7ZJLqLGWJpBnzy9Lg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="", CanalTelesantiago.co
-https://ythls-v2.onrender.com/channel/UC0h1kkyzQGnS3yckpyqEJQw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Kids (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/F6HsunAveMZzHyrkVP7PR4XE4oXzANGv0L2lBJJHFWdTQBPQRUOYv0GWYOmAf52TWZNNsWP69g", Canciones Infantiles - LooLoo
 https://ythls-v2.onrender.com/channel/UC5WwPdvAHvdS1ZK_v6AE90A.m3u8?playlist=index
