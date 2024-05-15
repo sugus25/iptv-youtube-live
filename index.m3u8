@@ -1011,7 +1011,7 @@ https://ythls-v2.onrender.com/channel/UCT1QJrOPtGWYyWkXry8uT4w.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/oSBYrGvm_6nYLLSsqaRDVjW5VECopfQwnldNyZxSGzifwaNztK2q_bxydO3DQjYjBI9lFyeGyew", BibleVision Français
 https://ythls-v2.onrender.com/channel/UC5qnsycDaMxkHe5YaWwhw3g.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="", BichriTV.sn
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mAzlyLNkjxtL35GEfJjNg_8-JXvIa_eYuXzzjGwzlbFTs", Bichri TV International - HD
 https://ythls-v2.onrender.com/channel/UCrtdAWf9y1D2by4ruhWbllA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/WcIaGkjIEI_hcd5dWMO9kfOGOwziTBYNMklvgO_zr1McSZ0wZ18AghDgqFS2aPwsxBH7hT6P7A", BIG JET TV
@@ -1815,7 +1815,7 @@ https://ythls-v2.onrender.com/channel/UCVimiJQzuiNRbNVaTIRthDA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_km94IbaapDCJhYIM0w6x_2rBOxCPIT87J3aYrW7pV7Og", cparlamentonic
 https://ythls-v2.onrender.com/channel/UCYKbJljhlPac_5NY1NxohFQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="", CreaLaTV.mx
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZskGbZlAP593GE5Sqy16c7pouq7cxqE2UwbtHExWDgIjqTG9hRLPShZD04RCbWaoux5s7JErkQ", CreaLaTV
 https://ythls-v2.onrender.com/channel/UCL1iKKBxY_iPu7iH-1wNdwQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Hobby (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/fnybNqxJVlKpq0EplOrnGgfKyjwQD1kR-kZTUHOqlooUG2VfhZKjJgHSCiuZkftEUGqToaPpoNk", Create & Craft TV
@@ -3876,6 +3876,9 @@ https://ythls-v2.onrender.com/channel/UC0hLHeIEaQPtef66IUWynSg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/8vbEC8bs7jGp8a4BXCtqFOMK_LctZc43IJwsCX2zAgyvyerAEgdzKKRI4TykU32lmP1M6aR5", La tucumana FM
 https://ythls-v2.onrender.com/channel/UCS_F0326eeAQY09gFqJILCw.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/dEozKbEwraJToDLx1DeyQ7KtLbdsyyeFjEn7Te5N-sKk_ApyDJiNC-ZXUWM6mVWOmVT5MMwscw", La Vanguardia
+https://ythls-v2.onrender.com/channel/UClLLRs_mFTsNT5U-DqTYAGg.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/F2hA7YbkFov2qAieNkVcWWil-4N4Js0tuLJoMg_1onq9Vm09a7KRZ3HidGDcFhRbUYiRuWQCUA", Ladány TV
 https://ythls-v2.onrender.com/channel/UCnG322MGBA4q5QWwDzUTh0Q.m3u8?playlist=index
 
@@ -3932,9 +3935,6 @@ https://ythls-v2.onrender.com/channel/UCMNltXN6fWur0K8Z1oubFPA.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cgOk4JqwaJ5zAv4iSKNwhKmgVNErpsriv5XIgpXpEfDwAO1ukif4AzwabjqfywSTDOGcmftcew", LAV Film
 https://ythls-v2.onrender.com/channel/UCq2sXHHjY9AYkxN93SWtzMQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/dEozKbEwraJToDLx1DeyQ7KtLbdsyyeFjEn7Te5N-sKk_ApyDJiNC-ZXUWM6mVWOmVT5MMwscw", LaVanguardia
-https://ythls-v2.onrender.com/channel/UClLLRs_mFTsNT5U-DqTYAGg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lH_4Hm2Rp_WO2L0W9xHheeefrZyrZ_VpS74Q53oL4yjAI", Lbc Jagran
 https://ythls-v2.onrender.com/channel/UCCCIR4mfW9qSUTHPGYLIppA.m3u8?playlist=index
@@ -7872,7 +7872,7 @@ https://ythls-v2.onrender.com/channel/UCLEhuU5yv0T4WBjntWoUSXw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRRwMDYPK0J7VKHesEsQpT0TRRWgSOIVIcrBm9V", VFF Channel
 https://ythls-v2.onrender.com/channel/UCndcERoL9eG-XNljgUk1Gag.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRwBkE6tttL9m2eSDCp2S834-M2mrhjaNj0TRA7_dY", Videotel palpala
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kkzzMSxiY5SXvSemoSZeK-HLSBWF2wBpvQyASmd2zZwHGC", Videotel palpala
 https://ythls-v2.onrender.com/channel/UC3t0crku6rK2y5eTbgp-klQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/I96-b-cIu5a1jckOClVuO3dJQDVHLO-pRLAXPavGZY5N-qHQfClyuG9YnH2RsrXI_n0xxufmUL4", Viet Melodic Official
