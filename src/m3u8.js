@@ -35,7 +35,7 @@ for (const channel of channels) {
   playlist.write(`
 
 #EXTINF:-1 group-title="${title}" tvg-language="${channel.language}" tvg-logo="${channel.logo}", ${channel.name}
-https://ythls-v2.onrender.com/${channel.youtube}.m3u8?playlist=index`)
+https://ythls-v3.onrender.com/${channel.youtube}.m3u8?playlist=index`)
 
   // get category playlist
   let category = `${channel.group}-${channel.language}`.toLowerCase().replaceAll(' ', '-').replace(/^(-)|(-)$/, '').replace('()', '')
@@ -55,7 +55,7 @@ https://ythls-v2.onrender.com/${channel.youtube}.m3u8?playlist=index`)
   catPlaylist.write(`
 
 #EXTINF:-1 group-title="${title}" tvg-language="${channel.language}" tvg-logo="${channel.logo}", ${channel.name}
-https://ythls-v2.onrender.com/${channel.youtube}.m3u8?playlist=${category}`)
+https://ythls-v3.onrender.com/${channel.youtube}.m3u8?playlist=${category}`)
 }
 
 playlist.end()
