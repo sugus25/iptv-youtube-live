@@ -14,3 +14,6 @@ https://ythls-v3.onrender.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8?playlist=new
 
 #EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ltoGlKW_jVNov9xiOqaXZLxIsDdsvhmW5YC_noO0-_Bio", GNN
 https://ythls-v3.onrender.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8?playlist=news-pakistan-urdu
+
+#EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/ROrwikOH_F5vU4BJW-LbkcEiSr-i6we4y4kHrCPbipmbWbOxR1kFHdzeednBSqd0LR2C-SgCxA", SAMAA TV
+https://ythls-v3.onrender.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8?playlist=news-pakistan-urdu
