@@ -3309,6 +3309,9 @@ https://ythls-v3.onrender.com/channel/UCDpWPw86wtFNIZZdnfi7_Ng.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/5J5NFuXWxr4iUv3nxWF0genblTzZ8wU5N9NjxvZdOKkGs1U3Y_KqrojCJ5Id4N9pFeIZ3uyCKkk", Independent Television
 https://ythls-v3.onrender.com/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8?playlist=index
 
+#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/npgfyFFlpAb9fP1F3CZUwtklfg_lWPU1df3UCi6Lkzh095Heshx6Y3HM0Bq3IlWMJWpAH0bbk2c", India News
+https://ythls-v3.onrender.com/channel/UCcH1_Lw_VbQoxGgDJ2OW0LQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="News India (Gujarati)" tvg-language="Gujarati" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKYiF6ktlF9jORIzAtjNfxfdgIeg5U-sIl51AZsd3w", India News Gujarat
 https://ythls-v3.onrender.com/channel/UCNQrca4WoGxtxWvabBI64gA.m3u8?playlist=index
 
@@ -3317,9 +3320,6 @@ https://ythls-v3.onrender.com/channel/UCISKj2--Nxrs5s60T3wq5Pg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ZhpppatvbXoLem66h2eUynk0m_KWRmak_SOfhPQ6Po0rq6Ki1B0278j9PSDZw_lfRPVlktBuJkU", India News Madhya Pradesh Chhattisgarh
 https://ythls-v3.onrender.com/channel/UCrDfc0F8U1QN3u82Qq_6fjA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.googleusercontent.com/npgfyFFlpAb9fP1F3CZUwtklfg_lWPU1df3UCi6Lkzh095Heshx6Y3HM0Bq3IlWMJWpAH0bbk2c", India News National
-https://ythls-v3.onrender.com/channel/UCcH1_Lw_VbQoxGgDJ2OW0LQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News India (Punjabi)" tvg-language="Punjabi" tvg-logo="https://yt3.ggpht.com/uivLcQTiHkX-Iz2FP4D9Hrz2lpWD3UxbUzSoUBb0O1RezKUsdceNdTZKy2VzZsENVyYbSFiLaA", India News Punjab Live
 https://ythls-v3.onrender.com/channel/UCaFBF255LGHwqSB35kN7jsA.m3u8?playlist=index
