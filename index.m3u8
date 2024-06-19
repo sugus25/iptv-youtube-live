@@ -282,7 +282,7 @@ https://ythls-v3.onrender.com/channel/UCRWFSbif-RFENbBrSiez1DA.m3u8?playlist=ind
 #EXTINF:-1 group-title="News India (Punjabi)" tvg-language="Punjabi" tvg-logo="https://yt3.ggpht.com/ituKRZmXUOZKqCyNVDBSe9R_2gJtbRywpW22DaZlncNKxjseC3_oGzNsDbFqYqkc-R17nDyc0Q", ABP Sanjha
 https://ythls-v3.onrender.com/channel/UCYGZ0qW3w_dWExE3QzMkwZA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Lifestyle (Filipino)" tvg-language="Filipino" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mpJFQOJeFAExpxDbKRjFysNfpwiUW4TRuqt8aGKDqIdZQ", ABS-CBN Entertainment
+#EXTINF:-1 group-title="Lifestyle (Filipino)" tvg-language="Filipino" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lsT-b6Oht3l9M9040h4ga7nNrh5CBOqrx-Hncsccq5bl8", ABS-CBN Entertainment
 https://ythls-v3.onrender.com/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Lifestyle (Filipino)" tvg-language="Filipino" tvg-logo="https://yt3.ggpht.com/jWgPqcz8GPbvDnlx8FIJ9HR2lXPIHcAjrF1WzS-b7oJiXae2cqwqKhls4LNHKwzjfN2LrVaBLA4", ABS-CBN It's Showtime
@@ -290,9 +290,6 @@ https://ythls-v3.onrender.com/channel/UCO4ryA0GLLwwsZ5ZQmkqVNA.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="News Philippines (Filipino)" tvg-language="Filipino" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lvZyHAT-wjvkTFECT6-j_nPGG6YVaYa8p93VA5ApmghA", ABS-CBN News
 https://ythls-v3.onrender.com/channel/UCE2606prvXQc_noEqKxVJXA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kktaQ03Fjpi63Ug5sq_qgVjBLNrYarx1cLaOtYYAB5f5g", Acereros de Monclova
-https://ythls-v3.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/zBs6Zd5gecQIo_CDP50HAv2RfYHMPm_sUjXde-v5b9XmrW9eu4CemuoUlyMrl11kCNvTp3mWgQ", ACSEL
 https://ythls-v3.onrender.com/channel/UCOerNRF513eB4-XKWGFhlqQ.m3u8?playlist=index
@@ -7199,6 +7196,9 @@ https://ythls-v3.onrender.com/channel/UCPgzHeVeVDsUvcvovWHjHGQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/K4yOadc_XHB3zOlOMBFDSVGe3h_M9HYNFOPurnNMPW83-GO7qEULJZY4ePM5r_vbBN8zz8l8fw", Terra Brasil
 https://ythls-v3.onrender.com/channel/UCWeXgaH6wwyTRAkA3n6sRxg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/z98_bbPWQ5OBxo6vwEJzqVxyVAC6krrgy5Jo2rsOJrNuI9NeFV-Wfg7K47Nyjoh7VR8Ghg2cVw", Tesla
+https://ythls-v3.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ilV6QRQIstBDKSblqGA6rkjNCef-Eg8BIF78rVNJPSlgUlzqocC0FkGOrqa1I27XBntnUW1Ptg", TESTIMONY CHANNEL
 https://ythls-v3.onrender.com/channel/UCDmLoDM4S60MhbfmO2yr_SA.m3u8?playlist=index
