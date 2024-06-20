@@ -48,6 +48,9 @@ https://ythls-v3.onrender.com/channel/UCQC1wGbOOIoC23fRGxt4kbg.m3u8?playlist=new
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/n2Y3BbSUf8TAfQqJPovjiY61wOXIHuSeZBbhvyt5vLCkulObA7_dKp9PedIW8kXw5rCX2g98-Gk", Har Khabar
 https://ythls-v3.onrender.com/channel/UCkfMPrLxnaGaKon4ccRJ9Tg.m3u8?playlist=news-india-hindi
 
+#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/KDYtz6I2sgLgbxosjZMFfOdwW5_IMgLZEoUU1rtsR3GFDW4AYToLldwdMpvaeT5SPFbs5dpacA", Haryana News
+https://ythls-v3.onrender.com/channel/UC6Hd69A3RKgu6Dj52H53ZDw.m3u8?playlist=news-india-hindi
+
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/npgfyFFlpAb9fP1F3CZUwtklfg_lWPU1df3UCi6Lkzh095Heshx6Y3HM0Bq3IlWMJWpAH0bbk2c", India News
 https://ythls-v3.onrender.com/channel/UCcH1_Lw_VbQoxGgDJ2OW0LQ.m3u8?playlist=news-india-hindi
 
@@ -93,8 +96,17 @@ https://ythls-v3.onrender.com/channel/UC531MlZA5LUbeGwEN_zcppw.m3u8?playlist=new
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/dt_7th6zZPzSIeMfBgvkJBgu3NZ4YRZlqFuxLAKsHY7SljR0yLkcXZE-izL_Ds0NY5v1N7eW", News18 India
 https://ythls-v3.onrender.com/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8?playlist=news-india-hindi
 
+#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/_nPRYbak_EiuHDW42FckbmnS2LxCkzBthvRrcahzhnA99-0ogNVGonFt-ieqGZgAqGmd66ERDKA", News18 MP Chhattisgarh
+https://ythls-v3.onrender.com/channel/UCBwc2cbPpvxNCNEI2-8YrqQ.m3u8?playlist=news-india-hindi
+
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lzt1Kz7koDCQMKVq3Y0lwmMlzVDP6FwsleAYIBfyePvz4", News18 Rajasthan
 https://ythls-v3.onrender.com/channel/UC7FlLbNo66YsCEAPuJITiNg.m3u8?playlist=news-india-hindi
+
+#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lcNkLYqPVnecaQXWdnc4DF1ssm_fw4c9Ud7Lv2ttzqHrU", News18 UP Uttarakhand
+https://ythls-v3.onrender.com/channel/UCafYgzpyw7aIUYOLjjADu7w.m3u8?playlist=news-india-hindi
+
+#EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nuakQCgFRK4qSTuhvhg69GY1HcBUpGB_kXFrthgXF-qQ", News1india Live TV
+https://ythls-v3.onrender.com/channel/UCA9JOzo-2-0xAdihJkRKSyg.m3u8?playlist=news-india-hindi
 
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/dW9C4y8F4S8rJOaBgcZtnvm6JxnRSd3Ez5ahmZUCG0LZWkrIwn2a9NKHJzOBJMmzMGeYzRRa3Q", Rajasthan Patrika
 https://ythls-v3.onrender.com/channel/UCWk-7Yosyvzln9ZzJg8BvVg.m3u8?playlist=news-india-hindi

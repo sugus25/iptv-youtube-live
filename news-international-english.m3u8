@@ -12,11 +12,23 @@ https://ythls-v3.onrender.com/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8?playlist=new
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kXM1RXRlPPtYKlHhurjihNMkyWufd12RVJehOwEwc-REU", Arise News
 https://ythls-v3.onrender.com/channel/UCyEJX-kSj0kOOCS7Qlq2G7g.m3u8?playlist=news-international-english
 
+#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/QnXaC_YmVgrih83IPHmS_37TOJquPQm4ESeop_PTyvatdS6pJa4ynQ57K9NtD6xV9n41h7to6Bw", Bloomberg Originals
+https://ythls-v3.onrender.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ.m3u8?playlist=news-international-english
+
+#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/67h6bB9Vlw5SpQkWek4Uk8weqxzaPNGH76sAMK4j431Jx8JlUt8mblVlTCwseeb7rDavn3yBJA", Bloomberg Quicktake
+https://ythls-v3.onrender.com/channel/UChirEOpgFCupRAk5etXqPaA.m3u8?playlist=news-international-english
+
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg", Bloomberg Television
 https://ythls-v3.onrender.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg.m3u8?playlist=news-international-english
 
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/jzQp-6YNrrmY0RNebqrYYWDHn2bhOchDuaMosWDesP885TMYt0oPS9kBQnG_eqve-kjJzBWi-g", CBN News
 https://ythls-v3.onrender.com/channel/UCYI_ychRnL7sJrG6PUSBpQA.m3u8?playlist=news-international-english
+
+#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_n00DzE39o-4IFJ07IP3gG__TMqKxXXbwYaARinwTXTDFM", CNA
+https://ythls-v3.onrender.com/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8?playlist=news-international-english
+
+#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/0i-Y1gvY53RQGXdlQigtqp4yNQRTudeO-MJ7khXddxqnr3KrYlEpyUXC3OGaEvgAbLN4CMDLVg", CNA Insider
+https://ythls-v3.onrender.com/channel/UC_Lnb8ZHqqgLbp-7hltuT9w.m3u8?playlist=news-international-english
 
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/sPhNL3tZ0hBV2WYCvPAIGAYQ_E0fiunw2TQlyDJuYAQbyVnA6Ad3Ovbo-C7gJ7uU7fVnC39NSQ", CNBC
 https://ythls-v3.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8?playlist=news-international-english

@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="News India (Tamil)" tvg-language="Tamil" tvg-logo="https://yt3.ggpht.com/znstWBiDnURf0sLoHHPehabTLRlR4iLWK16A_Cws1OW2Tx_WM8Q-inuq_dgQ2o1vJklOo0Q6Ag", Chanakyaa
+https://ythls-v3.onrender.com/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8?playlist=news-india-tamil
+
 #EXTINF:-1 group-title="News India (Tamil)" tvg-language="Tamil" tvg-logo="https://yt3.ggpht.com/GaWKcuzxJwyyTDWGjgmjdPJunTAUjjkt9PkEHcVhvaDayjwFYAzOg5VJ8xyOtLIgwR-LHFBbzQ", DD Tamil News
 https://ythls-v3.onrender.com/channel/UCcTKQnC3lRA4aira95_a1pw.m3u8?playlist=news-india-tamil
 
@@ -8,6 +11,15 @@ https://ythls-v3.onrender.com/channel/UCZinho9wu3iAeRpUXvAMzBQ.m3u8?playlist=new
 
 #EXTINF:-1 group-title="News India (Tamil)" tvg-language="Tamil" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lP8lnD1J9AQ7TfdP3ojBH1AQh3Dol4m31xEQcHOh3o0uA", Jaya Plus
 https://ythls-v3.onrender.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8?playlist=news-india-tamil
+
+#EXTINF:-1 group-title="News India (Tamil)" tvg-language="Tamil" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mAO3l2rPp-Y5X6ZgMiPa962Ni7vo9ERDESM05URUw8zo8", News18 Tamil Nadu
+https://ythls-v3.onrender.com/channel/UCat88i6_rELqI_prwvjspRA.m3u8?playlist=news-india-tamil
+
+#EXTINF:-1 group-title="News India (Tamil)" tvg-language="Tamil" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kLCSyecG8N8YnAaQ8OldvloRXumSZI95eYGNCX68JA5A", News7 Tamil PRIME
+https://ythls-v3.onrender.com/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8?playlist=news-india-tamil
+
+#EXTINF:-1 group-title="News India (Tamil)" tvg-language="Tamil" tvg-logo="https://yt3.ggpht.com/YMbzihGGFcyiQE1PLZgBpgnMukFcDv28Mi63kk7AVXwQMNgYsSNXKY56dWbmjJmwToJV58oO", NewsTamil 24X7
+https://ythls-v3.onrender.com/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8?playlist=news-india-tamil
 
 #EXTINF:-1 group-title="News India (Tamil)" tvg-language="Tamil" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lsZg5AuszjSq2zyrai2A2B7xUF_e24UZLtXgm5NuK3i1nS", Polimer News
 https://ythls-v3.onrender.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8?playlist=news-india-tamil
