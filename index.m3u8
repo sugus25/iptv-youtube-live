@@ -5682,6 +5682,9 @@ https://ythls-v3.onrender.com/channel/UCKMXh66UdpueUyQLQIqZSyg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/daZ92MwefXhqONlPyQQkYxj5YvwBeIDKKUDqRtJk1emg-EhvvCOBNoQLNBOQ7J5dvjzlbq453g", PTV Home
 https://ythls-v3.onrender.com/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/8Rt3bfbXlvOelLGRjKYEaXFlUNmGj6NXBE41RfN6Vb8VD85DWoYyapBfUFaH7LF9m0Fo4eeOhg", PTV Home Live Stream
+https://ythls-v3.onrender.com/channel/UCdLLxVWeJbtOCZ6s7-YZVKA.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ip68diOCG3OCL4MdsIDASj1C31ozoatM3SI9MmBHPlNmiH7RT0k0nmTdkOK8ich6n1GCFVFzEQ", PTV News
 https://ythls-v3.onrender.com/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8?playlist=index
 
