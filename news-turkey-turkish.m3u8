@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="News Turkey (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kYr_pJ26fMpoQPKgJEACBiddx9WO4CV4akUE8yBzhrHMg", BloombergHT
 https://ythls-v3.onrender.com/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8?playlist=news-turkey-turkish
 
+#EXTINF:-1 group-title="News Turkey (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/UneelRSoJGzUXSwmr6S0-d6CmyxLX6Z0U441iVB4261_pyJtFXzKorLj10ZgCOpHgitGgJY2vA", Business Channel TV
+https://ythls-v3.onrender.com/channel/UCLPc5pYOl2clEkCA82Sfb0Q.m3u8?playlist=news-turkey-turkish
+
 #EXTINF:-1 group-title="News Turkey (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/ShuHogS_oo3tsc3tCTX38tSKoFHUzCYgnQ-Vrun8QiFgWAQoaBE5ZRld8vZkZU40gAVibg2WRw", CNN TÜRK
 https://ythls-v3.onrender.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8?playlist=news-turkey-turkish
 
