@@ -5847,7 +5847,7 @@ https://ythls-v3.onrender.com/channel/UCBJ9zxns1hxblYZw4urBd_w.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/PXuM_XNTXmTHBdvyB9vM6xRiWecPWp3h2Xq74i7teWTFqhplK4JcDJV5Qc44tQrre-Ha_amq3A", Radio Tele Soleil
 https://ythls-v3.onrender.com/channel/UCgMBVBmwMjyxtM3yttRMNvA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/4vlY71yYwlD1javnbwho1gALOhzupEdzgjr9-dPBtG2PTzwxg_wdBj75vqDjTOYdFbdmBb9v", Radio Television Caraibes
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/KLUmFzoz15YvDlKFVFKIKBaaqUwezGKRtbSB8ZUiJL65rv6KhPBwUV6I5NOwVyeIN36zg77ZCg", Radio Television Caraibes
 https://ythls-v3.onrender.com/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_k3y2sV1Ruy2K78GH3OmgP9YlNa9JJDesrc3PMDRLVZUJo", Radio Télé Altagrace
@@ -7350,6 +7350,9 @@ https://ythls-v3.onrender.com/channel/UCxIJK4Odah4n5t6TN4XPAnw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZRmlQ-cdTWUWX3dScGlWS2T9iAE-d8hXBxskDN8aQ", Tiempo de Juego COPE
 https://ythls-v3.onrender.com/channel/UCMHb51gmuIuP8dVpsHr-uEw.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m8X9mT-HZG5lKIiCAJykIcmXqiL55IlVyGqWptac3ezJgf6r2Can8euNwXp4DTBFAbEw", Tierra del Fuego Live
+https://ythls-v3.onrender.com/channel/UC6NTD1HmdaZMbe9K5qADOvw.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m_u8q8PQuuwasnsvA6HcWNnQOy4E9IknxOF4z5Hkt3CXWlTAE0MiksI9oF40grXAO5Ow", Tiešraides Palīdzība
 https://ythls-v3.onrender.com/channel/UCobDe84Qg0doVv4vNUmeD-Q.m3u8?playlist=index
 
@@ -7934,9 +7937,6 @@ https://ythls-v3.onrender.com/channel/UCP6HGa63sBC7-KHtkme-p-g.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ln6VlHgT3ye4QNAUPkR8Sci1XTE5gM_VjjE9gu4g3JPYc", use-IP Ltd
 https://ythls-v3.onrender.com/channel/UCR77bEpXLTBxztLOEKN3Wbg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m2Rwia_eyGWDz8xKSESFYK_DGnzPi5_E0gArkpck8", Ushuaia Live
-https://ythls-v3.onrender.com/channel/UC6NTD1HmdaZMbe9K5qADOvw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/f8Qr8RvG2Tgyf0NOeGRwQ7aedahTPZjRL0DMuPDLgWxynYCX1pGCIPtPM9dgpTf88XAtrBGu", uSPORTS
 https://ythls-v3.onrender.com/channel/UCD46uwr6TBJ2xntbIJevsBQ.m3u8?playlist=index
