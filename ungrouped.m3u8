@@ -3135,6 +3135,9 @@ https://ythls-v3.onrender.com/channel/UCq2sXHHjY9AYkxN93SWtzMQ.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lH_4Hm2Rp_WO2L0W9xHheeefrZyrZ_VpS74Q53oL4yjAI", Lbc Jagran
 https://ythls-v3.onrender.com/channel/UCCCIR4mfW9qSUTHPGYLIppA.m3u8?playlist=ungrouped
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/4_-wrdXOjru3PMdk8C4eR6qayowWdnHFRDw81GZe62Cyf8-FGkJwx-bckfKs51KPJjfcOQJh", LCK CL
+https://ythls-v3.onrender.com/channel/UCZtmNrG53nmbq-Ww2VJrxEQ.m3u8?playlist=ungrouped
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/DfvldtgOckLkqPJ94ctEigDD2QrqYybiakYdoOcGtopL0vyiUOXb-5uhAfLhVElPldiwrLyp9g", LCS
 https://ythls-v3.onrender.com/channel/UCSF_aFGIIIoWY30GVV19TKA.m3u8?playlist=ungrouped
 
@@ -7667,9 +7670,6 @@ https://ythls-v3.onrender.com/channel/UC0OGisUcF1mAwL4pqjLCmhg.m3u8?playlist=ung
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/r9Z3A7oZRix2XyDts61OInX_NvJJuVml0AdWGj9W8yyLpeKpSIdG7e7e63T_BX7ytTZcuWl-", 팍스경제TV 실시간 방송
 https://ythls-v3.onrender.com/channel/UC6UEuBvk-0rmV4FUu0LDiTw.m3u8?playlist=ungrouped
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/EuGPosWAlGqiN64IVJJWIeUki8CrlGXbobfyOavsF0AdSx-Lw5w0GYfpeaqeaSpf_kdHVtpLig", 프제짱 PzZZang
-https://ythls-v3.onrender.com/channel/UCZtmNrG53nmbq-Ww2VJrxEQ.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/JwJ-Sbw0KP-qECIq7-Tx9hmMB1aezWMS7tZAfIJXwxbrAm5dlNn-MdDsE2jDXtEHAmLPUqOT4w", 한국경제TV
 https://ythls-v3.onrender.com/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8?playlist=ungrouped
