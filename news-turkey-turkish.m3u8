@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="News Turkey (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/J-MO0c7Y8sVJMemkFBfwtZVWWxMYwFw7fugyCj9eyHUNFMEpPSGiSNgG8nehOw0vuvBD0qgTEg", A Haber
+https://ythls-v3.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8?playlist=news-turkey-turkish
+
 #EXTINF:-1 group-title="News Turkey (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kYr_pJ26fMpoQPKgJEACBiddx9WO4CV4akUE8yBzhrHMg", BloombergHT
 https://ythls-v3.onrender.com/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8?playlist=news-turkey-turkish
 
