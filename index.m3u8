@@ -1800,6 +1800,9 @@ https://ythls-v3.onrender.com/channel/UCrovHQd_7-YhEZ83eiz8CLg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Crime (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mhdfrpLquT9R83qBTxl8sTsbQh6RZJHhu2B2stsVTwYQ", Cold Case Detective
 https://ythls-v3.onrender.com/channel/UCdjslyNQupPSFxK_mSPcG-g.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ig6Msm-JRmFuK5LVa96nvmev-KASzdjetnHmwq5WueWJLotieCCnTimAOGFgpvVwW7XMbQCX", Comisión UBES
+https://ythls-v3.onrender.com/channel/UC45KKgQVrRZ7LKmkUh_LlmQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nW2qOU-Xgh7k-WW3yEjS5EohzjFJwtZc09_-HHC9rL5A", Como Cam
 https://ythls-v3.onrender.com/channel/UCaLNBpVCnRQ129Ow2MaMtew.m3u8?playlist=index
 
