@@ -36,16 +36,13 @@ https://ythls-v3.onrender.com/channel/UCDG3PA6FkeNjCG8KzbQsOQA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m8A1AJGJE8Mlujki_UVaR0OBiFQCZGZ5ETa1XA5uxVsA", 16 東播海岸
 https://ythls-v3.onrender.com/channel/UCYQkax7MCF5UJFTSnGn0aEQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/-JecEcR41FgqIWxsh3xBwhqf2x3JeuNplGhCTLi5f_CaxTeG4FlM9HqEdOcfHfZG40FWmT5T", 1in TV
+#EXTINF:-1 group-title="News Armenia (Armenian)" tvg-language="Armenian" tvg-logo="https://yt3.ggpht.com/-JecEcR41FgqIWxsh3xBwhqf2x3JeuNplGhCTLi5f_CaxTeG4FlM9HqEdOcfHfZG40FWmT5T", 1in TV
 https://ythls-v3.onrender.com/channel/UCcku2B0bzJi6H5gxspIuchw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQjlm7Mq7Q-ruDJROKn5OHdrN_En9AaNw4cTOBpvw", 1Yes News
-https://ythls-v3.onrender.com/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/YA8Wy_QSaqD3UzmwrB4rt3uU0TPwg73ypY-wxlaReOV373qO4JckSChhzWhmIuxqkrAhf-H3pw", 23 DOTA TV
+#EXTINF:-1 group-title="Sports (Vietnamese)" tvg-language="Vietnamese" tvg-logo="https://yt3.ggpht.com/YA8Wy_QSaqD3UzmwrB4rt3uU0TPwg73ypY-wxlaReOV373qO4JckSChhzWhmIuxqkrAhf-H3pw", 23 DOTA TV
 https://ythls-v3.onrender.com/channel/UCLj_XrISrlSsdGCZMK2N0xw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/r-Cco67lO23OThI0NkF9d-skPpRYanG-O98-DB3cMlyITes0-nzg-rRmL9EDw7_oait3ZtXR", 24 Horas - TVN Chile
+#EXTINF:-1 group-title="News Chile (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/r-Cco67lO23OThI0NkF9d-skPpRYanG-O98-DB3cMlyITes0-nzg-rRmL9EDw7_oait3ZtXR", 24 Horas - TVN Chile
 https://ythls-v3.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News India (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/eqbZ6s1e5--bLtQT-w_COL6u7ajCp_cUwtc-yXUntjsmXwjflWaFgKRrP0ao02Zhw3e_7zZIfA", 24 News
@@ -57,22 +54,19 @@ https://ythls-v3.onrender.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Sports (Arabic)" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nHQwEx0zCuN3XnK5QEg5l4ZPf63WGB8tL8fO2EYvuILQ", 24 sports
 https://ythls-v3.onrender.com/channel/UCGnTP2NwS6ZJwmXBTsS2w-w.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/AwsdiCh9vPY13Ar44-U-5ocTcBqYlCPxrixNq8j3UgyrOc-SzI6GDAlMWL5PzmNXMQO77EQiV-I", 24 TV
+#EXTINF:-1 group-title="News Turkey (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/AwsdiCh9vPY13Ar44-U-5ocTcBqYlCPxrixNq8j3UgyrOc-SzI6GDAlMWL5PzmNXMQO77EQiV-I", 24 TV
 https://ythls-v3.onrender.com/channel/UCN7VYCsI4Lx1-J4_BtjoWUA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mX3PqYGxP4ZvqI0iswQB2cWz-mfUjmuZMJlWZ7loH_83Q", 24 Канал онлайн
+#EXTINF:-1 group-title="News Ukraine (Ukrainian)" tvg-language="Ukrainian" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mX3PqYGxP4ZvqI0iswQB2cWz-mfUjmuZMJlWZ7loH_83Q", 24 Канал онлайн
 https://ythls-v3.onrender.com/channel/UCja992VI_u2e52c9FHQXw5A.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lzifWt4zm0HVbQEHLVUEu7XnZT7u3wGiPlg859U3WNz3o", 25 Film
+#EXTINF:-1 group-title="Lifestyle (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lzifWt4zm0HVbQEHLVUEu7XnZT7u3wGiPlg859U3WNz3o", 25 Film
 https://ythls-v3.onrender.com/channel/UCfyPw7vYwIVb6OuDIf7qeOQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/UKz8Lk6TxfKH_6UWMpQNEmVO5DckvRKPjNZXOeKCr4IjgsbS0i7FB70ZgxWyCmHrvJ69NnMgbA", 2A TV - LA CHAÎNE DU PEUPLE
+#EXTINF:-1 group-title="News Senegal (Senegalese)" tvg-language="Senegalese" tvg-logo="https://yt3.ggpht.com/UKz8Lk6TxfKH_6UWMpQNEmVO5DckvRKPjNZXOeKCr4IjgsbS0i7FB70ZgxWyCmHrvJ69NnMgbA", 2A TV - LA CHAÎNE DU PEUPLE
 https://ythls-v3.onrender.com/channel/UCh57LRfcD3Z4TK6WrzL39GA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/aa9EOkdHp-XfwuVUn3PMpXdD8ZKfdZMK_jMnt0kvT5i-yB_MQZngqAgqfOZ_JkhqUWoUa5nRdbs", 2R News
-https://ythls-v3.onrender.com/channel/UC9EIrbmaCF4DXoe5jb6MI0w.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_l4F3HvZ1SgnryW5F2Q4a4x6UD9XogjuvnmvNJiHXs7Wh0", 2stvsenegal
+#EXTINF:-1 group-title="News Senegal (Senegalese)" tvg-language="Senegalese" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_l4F3HvZ1SgnryW5F2Q4a4x6UD9XogjuvnmvNJiHXs7Wh0", 2stvsenegal
 https://ythls-v3.onrender.com/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/gTQ6MIy1TTsql3g-bGFYsPftsCiAcYRkfhxDkK5u-AoBQjcS4B2gi7_MPx9BwrxLJIfdzIsINQ", 3 na Área
