@@ -12,7 +12,7 @@ jobs:
           token: ${{ secrets.PAT }}
       - uses: actions/setup-node@v4
         with:
-          node-version: 'lts'
+          node-version: 'latest'
       - run: npm ci
       - run: npm run sync
       - uses: stefanzweifel/git-auto-commit-action@v5
