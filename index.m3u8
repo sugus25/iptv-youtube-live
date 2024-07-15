@@ -888,9 +888,6 @@ https://ythls-v3.onrender.com/channel/UCoa-D_VfMkFrCYodrOC9-mA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/n-uTCGuryohEZU4Aecrw-aatKOS7xqtr_heWMU4hBG9_pEf5ClZHXiKlM2c5ohRqxNcm2EzYuls", Band RS
 https://ythls-v3.onrender.com/channel/UC8PdrO-xSiQm7L_PJpDqbrA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cf8zepSMSaeGtkdu3geAFk1z2ayLpAxIzBUno77O0Ca-nLxwGNER4gdfcKDKDKVS9KMwPLH1", Bandai Namco Esports
-https://ythls-v3.onrender.com/channel/UCNbQdNu55JMgF0Aq2h5UZrA.m3u8?playlist=index
-
 #EXTINF:-1 group-title="News Bangladesh (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/Ie00zX6Axc_Yr9ETae-kt6QlvwSpz5FMLY5eEr9k0b-MYMb8KBjeybjGJL_zgt4aa55NLEFjUA", Bangladesh Awami League Official
 https://ythls-v3.onrender.com/channel/UC69wxSBQmdp00E_f_v7YKZw.m3u8?playlist=index
 
@@ -2955,7 +2952,7 @@ https://ythls-v3.onrender.com/channel/UCTP5z0kFg6-nPcZ79gTC67Q.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/1vU--nqDsq-bZOsrfCcgPzyFpQdkVUx-o14blvdboXw66DlfOs3SGNX19QClAgOUVINxXz1puQ", GNK Dinamo Official TV
 https://ythls-v3.onrender.com/channel/UC6vpARgHA0oSqtBgYcVWdHg.m3u8?playlist=index
 
-#EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ltoGlKW_jVNov9xiOqaXZLxIsDdsvhmW5YC_noO0-_Bio", GNN
+#EXTINF:-1 group-title="News Pakistan (Urdu)" tvg-language="Urdu" tvg-logo="https://yt3.ggpht.com/e3_Eiw4hbC5BsRP2MTrK7U7nud2l20SuoaKY3QDDhSN6eGHnVNp1PvR9NmILlF0GrrIofoWC", GNN
 https://ythls-v3.onrender.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/p1fjRNprdWlBYClYSJ_FmI8MnNfLPA6kJ7qtP6HUZyxlWR0VAcIKRznfND2A_XR79AHPtISMYw", Gobierno de Guatemala
@@ -4694,6 +4691,9 @@ https://ythls-v3.onrender.com/channel/UCLfgtQY_Dw4GvMex1yJoTdw.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Vnu7uhwypwylqgfJekim2yO6hD7IsfKdC0OzFeX94SHdKjvXRN963Nr9-StlWoSXGRqDpYiMhQ", MRO北陸放送公式チャンネル
 https://ythls-v3.onrender.com/channel/UCF5te9Y8oBT7oVJNyQkhWWQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m_8bl998ZkgQSk2BO33_sNuc5TYQyx9Arrt2pVC5mP", MrsPlayStuff
+https://ythls-v3.onrender.com/channel/UCNbQdNu55JMgF0Aq2h5UZrA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ls6Jl46WZTuSS9ofrvjuFygq29VOG8yfnWYa3y5XWFT6k", mtaOnline1
 https://ythls-v3.onrender.com/channel/UCW4QTka08QOHRNxKcJLEuUA.m3u8?playlist=index

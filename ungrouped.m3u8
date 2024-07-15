@@ -564,9 +564,6 @@ https://ythls-v3.onrender.com/channel/UCoa-D_VfMkFrCYodrOC9-mA.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/n-uTCGuryohEZU4Aecrw-aatKOS7xqtr_heWMU4hBG9_pEf5ClZHXiKlM2c5ohRqxNcm2EzYuls", Band RS
 https://ythls-v3.onrender.com/channel/UC8PdrO-xSiQm7L_PJpDqbrA.m3u8?playlist=ungrouped
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cf8zepSMSaeGtkdu3geAFk1z2ayLpAxIzBUno77O0Ca-nLxwGNER4gdfcKDKDKVS9KMwPLH1", Bandai Namco Esports
-https://ythls-v3.onrender.com/channel/UCNbQdNu55JMgF0Aq2h5UZrA.m3u8?playlist=ungrouped
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/n9e2RM6QjtP3-9Z_C-cLouFL0UpbZVDPmHfruwEr_JnOpLShR8euQfalInzrnAwhIAbiwr_w", Bangladesh Cricket : The Tigers
 https://ythls-v3.onrender.com/channel/UC0gsMYK1dqQ5KqOQfavVNkg.m3u8?playlist=ungrouped
 
@@ -3749,6 +3746,9 @@ https://ythls-v3.onrender.com/channel/UCLfgtQY_Dw4GvMex1yJoTdw.m3u8?playlist=ung
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Vnu7uhwypwylqgfJekim2yO6hD7IsfKdC0OzFeX94SHdKjvXRN963Nr9-StlWoSXGRqDpYiMhQ", MRO北陸放送公式チャンネル
 https://ythls-v3.onrender.com/channel/UCF5te9Y8oBT7oVJNyQkhWWQ.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m_8bl998ZkgQSk2BO33_sNuc5TYQyx9Arrt2pVC5mP", MrsPlayStuff
+https://ythls-v3.onrender.com/channel/UCNbQdNu55JMgF0Aq2h5UZrA.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ls6Jl46WZTuSS9ofrvjuFygq29VOG8yfnWYa3y5XWFT6k", mtaOnline1
 https://ythls-v3.onrender.com/channel/UCW4QTka08QOHRNxKcJLEuUA.m3u8?playlist=ungrouped
