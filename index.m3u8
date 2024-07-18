@@ -4236,6 +4236,9 @@ https://ythls-v3.onrender.com/channel/UC99HJnTzJ2snfqwNkMccLIQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nS5QEGp0DMa_qk-uqiscSZIWVShgi6LbfUnNtwGOi6DQ", lofi geek
 https://ythls-v3.onrender.com/channel/UCyD59CI7beJDU493glZpxgA.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/YijDYAf4ojx4GGtlLjLVqV3f2I0g_imMUA9uavpojQpt0O7xk0K7FSaTHqf6IJSlxFNz_JUI8Q", Lofi Girl
+https://ythls-v3.onrender.com/channel/UC4R8DWoMoI7CAwX8_LjQHig.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Music (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/YijDYAf4ojx4GGtlLjLVqV3f2I0g_imMUA9uavpojQpt0O7xk0K7FSaTHqf6IJSlxFNz_JUI8Q", Lofi Girl
 https://ythls-v3.onrender.com/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8?playlist=index
 
@@ -7152,6 +7155,9 @@ https://ythls-v3.onrender.com/channel/UCF-lR6O96Un4hDjmnC-wsIA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/qpKwkueF21F6l0VdvzAl_U_B-vBADzQ97yJeZtNO6VC7C0cREfLKT686myCKwM-l-SAsKnve", TELE PAIN VIVANT
 https://ythls-v3.onrender.com/channel/UCl9xqqpoS6YwNjsZsZ7a5JA.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/8ebY9y8UbMNw9HIxRfiXVQJXdxNbDNQ68-VeKsB8p2MUeHsSwuT_sZVFf0vyfv2Xmr03tGsbRw", Tele Senegal
+https://ythls-v3.onrender.com/channel/UCfwCPzdT1i87xWYh1P3suTw.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kTfP1XM954gjauvG-k3WBmPXUhdf8veLXTAha3Oh1nSNQ", Tele1
 https://ythls-v3.onrender.com/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8?playlist=index
 
@@ -7187,9 +7193,6 @@ https://ythls-v3.onrender.com/channel/UCegzBUd6-PYoO_v7gjJgufg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/GChp-fMVoCiycqgRENEyXsHsOWx2T5pwFl3FPNYJ4vWedfWoUWuAjUPZs3Fs6N3a8yhPzTjdjQ", Teleradyo Serbisyo
 https://ythls-v3.onrender.com/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="", TeleSenegalTV.sn
-https://ythls-v3.onrender.com/channel/UCfwCPzdT1i87xWYh1P3suTw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/1922xR4FfjmQF_dAdDEYpXhOzpUIykJ0Cc4t22cBXBY1pifCZ39B3HIZulq3ZIo9LeDab7xMOw", Telesol
 https://ythls-v3.onrender.com/channel/UCG7dtDLsyjkyrfoo5oGtcXw.m3u8?playlist=index
@@ -7440,9 +7443,6 @@ https://ythls-v3.onrender.com/channel/UCxRmRUB3kX-X-_9YsNFhq3g.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/pK5_z_dptxyLuGllTGH4voHjz6WNTv0vgysrHQtmK6X45fl8g_h1ytu1H-ir1ExvY8uph0MbQA", The Official Pokémon YouTube channel
 https://ythls-v3.onrender.com/channel/UCFctpiB_Hnlk3ejWfHqSm6Q.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lmCXd-bzkNwvh7ti_4uk7g1q4aJqA8CLz9Udj_dg90x8Y", The Pat McAfee Show
-https://ythls-v3.onrender.com/channel/UC4R8DWoMoI7CAwX8_LjQHig.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lqxjqFIBNjyK9ZYuXIEC-os4BKQp9eGpkjMVUQdJZEWA", The Real Samui Webcam
 https://ythls-v3.onrender.com/channel/UCmYyJaUxYiF5IbLx-0jFXHQ.m3u8?playlist=index
 
@@ -7464,7 +7464,7 @@ https://ythls-v3.onrender.com/channel/UCIzXayRP7-P0ANpq-nD-h5g.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/KU5LjNkE1LyKazkhLcWmQAn7JUSJA-Qg0fF_qpkV7JH-BkowjfZU1EqKckNoLXBmsEQq09xdhg", The SWL Channel
 https://ythls-v3.onrender.com/channel/UCn_5SHr4B5fTjOyrI5igyOg.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mFui25IYiIGX_eiFHHA8qltVdRBEtvSKyWH8sl_tNwR3I", The Times and The Sunday Times
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mvURmcrS05UHcWCcSL6xC31iB27Eh0NEfcRZmA-me607M", The Times and The Sunday Times
 https://ythls-v3.onrender.com/channel/UCF-VP3b3oH0XASqsLI5rnLw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/hlGFV-B3yViYZXq-g-fBKQVqCkC5ANsvuJm21NfEs_x-bxtvgbVuNV1elQ6oUIXcgDpILYEsog", The Town of Ambience
