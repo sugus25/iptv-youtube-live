@@ -1698,6 +1698,9 @@ https://ythls-v3.onrender.com/channel/UCwVQIkAtyZzQSA-OY1rsGig.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/A_NG01EQh2BAE5IZH11WOBRTe4LBuSVscOHa7ztaJlle672t0tdJo_rp1Fo4nWPlVR7ukPmisHY", Chillhop Music
 https://ythls-v3.onrender.com/channel/UCOxqgCwgOqC2lMqC5PYz_Dg.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/rkS0GcsQ-bE5TOvWrkuxZavAe1-0fbgcmwAx7IwN-UV7ov2Y-JhafhmFkL3XoaycfeSsSLck64g", Chilli High
+https://ythls-v3.onrender.com/channel/UCGv9D6jI_5qb12RzoEU4aEA.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ALCXYh6fZFTVA88ymcZKNbuEG4BEdrTf3aE_Zd5_TWvrkZxJzXZ8RZXcCSkPUgbFPJmIPf7_-Q", ChillYourMind
 https://ythls-v3.onrender.com/channel/UCmDM6zuSTROOnZnjlt2RJGQ.m3u8?playlist=index
 
@@ -8184,7 +8187,7 @@ https://ythls-v3.onrender.com/channel/UCTcH-GOkexQHWKBWSfOjhPQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Spiritual (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/BfnePr98Xhqrr-JIStkvhhlxRSgoxpNw8NWXOnd_1PtnyUIqk7tqqQLjba8y9ep5uUdy4pxrpio", Vatican News
 https://ythls-v3.onrender.com/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Spiritual (German)" tvg-language="German" tvg-logo="https://yt3.ggpht.com/9GY7uvX523PpqcwxeZbTFJSP0IpdOSTvBimMwk64eeuy84ee1-8W_XUGc2clOAH_AlnhpFzVVw", Vatican News - Deutsch
+#EXTINF:-1 group-title="Spiritual (German)" tvg-language="German" tvg-logo="https://yt3.ggpht.com/HlizTwMb-tjcvXcnsBy8ZLiqV0IMhl9_-ViOhXqO1Ju3NZx1dmsJeKcTw7r6fXWone56F6bPcg", Vatican News - Deutsch
 https://ythls-v3.onrender.com/channel/UC4ndSG692MXx_zZlIKMYsdg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Spiritual (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/BPYRjWqStlcpmDQ-oRb4m-AA1W1LhOAGp6E-Fgdy7up9W0QIYKVW2Pry7OFY9g1KQRfOCvZfd1g", Vatican News - English
