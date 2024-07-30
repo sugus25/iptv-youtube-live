@@ -1251,7 +1251,7 @@ https://ythls-v3.onrender.com/channel/UCoAQNKxgfE32ai4mOXNXvug.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/qylk6-mfF4GRXl0Dx1WchYkSJgOxzNBd3HuKEGn-CVVUMLVlxaPjL0CqOgMz42TzfVqXOvB5", BTQ
 https://ythls-v3.onrender.com/channel/UCnm_kOhhQZOkc0TvltTsfcg.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/6hWF5_WQFt1Eb0VSzWaWk8xS2nTEx9wW7q6bBe0DDoQ9PqNW3y7cCj8muU03IC-98asMHNpD", BTV
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/47Z8cXdtY5um1cSQC1uQx1lbCduUXp-YTxXUGOIXU8HDnJ5a2kCd7KsdPGChwbAaaQjEGex_jg", BTV
 https://ythls-v3.onrender.com/channel/UCo6NXGgBiaXcvdF2vHXGB4A.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/4tRs6ab-4T7bHZ9JN4hgqJicgFiRlV21qoZq4qVod1WZ9HlCRV_8MXbbgWVMRhn3ogibQEZfz0A", BUDDY MAMBRAH - MAMBRAH
@@ -3602,6 +3602,9 @@ https://ythls-v3.onrender.com/channel/UCh9shDtuxe5Wyp5W4E1715A.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="News Bangladesh (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lQbyEAjm114_uL5ujX2bpWznVjzka0Js7P8pdPjSDEKd8", Jamuna TV
 https://ythls-v3.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/K-ku9jllMv3TELp5MpM1Iq1mnU85jJs6xBccF5Wjfzw03S7zWh8YVr5ceWlBx1nn5ujXsMy6", Jamuna TV Plus
+https://ythls-v3.onrender.com/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mxf8AA5ZOoNeBmNtXvdo021afOeNzPzXFL5XTHk7kVDg", JAN TV
 https://ythls-v3.onrender.com/channel/UCjmnq35TvJ1J8JZS49OPg-Q.m3u8?playlist=index
