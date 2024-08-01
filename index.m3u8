@@ -1398,7 +1398,7 @@ https://ythls-v3.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Ee5USFitIV8r2L7evC0BnqgNAlud5zeS-rlrddlHqPi8pjJzq1KHOXotvzuA8l9ot7tqOTbBFQ", Canal Alex Muller
 https://ythls-v3.onrender.com/channel/UCEeox4iCxO2fIhMZ8XXu7ww.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/wooAiPxCWV7vgvlXl-82nHzXeCP-cB8ldztDS_pIr3PR5B5i1zL2NN2Y23SisuWCLApteB0BqHU", Canal Catorce
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/iLul-QEYucXf-y-RITnovIpqlWImDZIdqFZh354NycHfE1SOg1H3Bn5S7ZN53lRnjYxA8huyT1Q", Canal Catorce
 https://ythls-v3.onrender.com/channel/UCvKhnicGlLpJWfgAcmX8zXQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/wuS1Qrt195_cS0Hz-SoouUbaRAfiimzNYgqpW94i6l4Q8l04HXyVCxkwKLkSq9yBZupAvU8_SA", Canal Católico de Nicaragua
@@ -6258,6 +6258,12 @@ https://ythls-v3.onrender.com/channel/UCleEDSt_ZmBeU9CWU4q0rWA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lwtCeP0dX_7h_B4VUbAIUzHBE0MYgAE-qgjYW_kcIACeo", Rede TVT
 https://ythls-v3.onrender.com/channel/UCmQTY7b5w61WlmBbJ5a8XrQ.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/-fzl7l1tfMTe1zfx0VvyYUW8Kl8BWXU16WVYyYDi0WIv1Jf5J_VeAre_4e8EKsSjuMemSoPFeQ", RedeSeculo21
+https://ythls-v3.onrender.com/channel/UCGm27Ndv8a-0yUJFVpRwkDQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/B3fhN-RzvWnglhq305oFzZLIe8AOn05Spf6oc19lvsxF5t7CKGcBlJ_NR_mhOyKiYRffDDOQxQ", REDEVIDA AO VIVO
+https://ythls-v3.onrender.com/channel/UCi6mmUqfytngFLXbhPUDd1A.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/5M400WAd_eQzD7dTtpOt3APybglpHrqplu4JcUMZXDn5sWNzXXcjEJv0NoWqeXKV2LAFxgGB", REDEVIDA ao vivo oficial
 https://ythls-v3.onrender.com/channel/UCd4ZCLywkZyL2AxJgQhuOAA.m3u8?playlist=index
 
@@ -7872,7 +7878,7 @@ https://ythls-v3.onrender.com/channel/UCH1a8t5cikU9cYa69BLVfbQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nCSd1j6RMQNlj_JZN8VlVbZXec5zQp82SI8Hv2s7gExw", Tv An-Nashihah
 https://ythls-v3.onrender.com/channel/UCuFC59Zh7N1Hw45arhoMpCw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/wHhRyn1ejBKc6n04Ad6K6GxBRbbjtPdRzRjCxCkjwmSFOvhAm0e8ePU8vqUHmhV1xnOeOwP9", TV Aparecida
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/lyxnbLskG5qW0mDvs4MZ8lKhxATCaJJbfjhTAGDxw6EZJMn5gSBkQcgzEFwYZTOMhGAHIR6SDg", TV Aparecida
 https://ythls-v3.onrender.com/channel/UCfYrK5JU5EznsnK3wQE7iIg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/vvqjiKu1lt6TB1bbDac7FkEie36GMaifRhRNdN8xzhKds8nW9DpxrsmKfhiyDC7gLb7EUjA4JA", TV Azteca Deportes
