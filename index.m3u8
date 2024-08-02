@@ -7836,6 +7836,9 @@ https://ythls-v3.onrender.com/channel/UCBgTP2LOFVPmq15W-RH-WXA.m3u8?playlist=ind
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/DomqJQrT631BU5WenyQFWJoMakumfkZDHumEKsGwgPWXrN_Jv2UKGapoGvsjVTP_wFzyMXiRyQ", TRT World
 https://ythls-v3.onrender.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kSMH9zf4kFSb-Kq7ezFaYdnSrwZMBmMK32j-OemdC-sA", True Jesus Church Christchurch
+https://ythls-v3.onrender.com/channel/UCkSUTuErA2TyXp2ifq7X9dw.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaTkO-vafjB_fCjYngDBgzkR9WB-nWXRwEMSheNH", True Jesus Church Melbourne
 https://ythls-v3.onrender.com/channel/UCq7ZMb0Y3iwR0X6R-_Cm-0g.m3u8?playlist=index
 
