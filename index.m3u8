@@ -873,7 +873,7 @@ https://ythls-v3.onrender.com/channel/UCVA9wu4h1lLIPQo9wkJdg7w.m3u8?playlist=ind
 #EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/PQHwS9iPtFYwPgI-wEJZ5DU2k4wtaJj4d8yG9c38gnZH8mVedCuNkplX7nixMPAAyD7HYO1tdQ", Bageshwar Dham Sagar
 https://ythls-v3.onrender.com/channel/UCEG8_X9cgXyXG6EtMP0qiqQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/DA6p1j2nykBx4DnbzowVrvGcYs79XJJNcW-O4ksAN-2iMF1ntj5SMsf21xYsfyGtnQACWA7Oww", Bahia Notícias
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/4FPy4qZS8Dq8p29Gfxh_PtsCNusFKDO3ssljX0tpIRoSoguvNuBQj36eGuqIjJhlGbXGhrimTQ", Bahia Notícias
 https://ythls-v3.onrender.com/channel/UCelevrrg2g7NdlrJMPrunhw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nn-lLKTrGT4CGloNmgBC08q5ZHyowlYrbgeK7kAK_RISfNhFGBT44XXB5udyAAFC4-AYGNJ7ng", Baku FM
@@ -1290,9 +1290,6 @@ https://ythls-v3.onrender.com/channel/UC8BvBIN5EOAx8ACb01BTt6g.m3u8?playlist=ind
 #EXTINF:-1 group-title="News Argentina (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/nKNFyCErbN5C21SI5A9GwPSNAlC9jaa6JMKN6VuW6jQWSd6lRO6UEamjneVlJUr9qXxQCeRa", C5N
 https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nUZ_5wmNm9LXBvuUK5G2ZqY1z44cJs4_Hqc2Z6lvkkMNA", C7 Chubut
-https://ythls-v3.onrender.com/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/mWTpfmuyklx8MegXH1c-J-Aulf_oHrWTLW1MHPGP99T43tRM7NdME2Iuo1kdyjvfPigZO1dMKRI", Ca Sĩ Bùi Thúy
 https://ythls-v3.onrender.com/channel/UCd7feLe4vCWNHmcXeNtQ9CQ.m3u8?playlist=index
 
@@ -1382,6 +1379,9 @@ https://ythls-v3.onrender.com/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/MsSE7_YC2suB5UJz5e4z5jUCHQ6hg0AtbCVyNAVeFITK1-QDcSGatBtFJUHl6LvPzq7a1oMa6A", Canal 66 Mexicali en vivo
 https://ythls-v3.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/v_HMB7tpTgRlFIazRayH4oRnX0cIwxie5gngWMb8d5t7goM7oNcEHcDvi6FqauCWvkDxV1U7Dg", Canal 7 - Chubut
+https://ythls-v3.onrender.com/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/YbQiMhJJqEXtgBCu7S-AnpYn2jlK8kGHHJ23i5aUAfep71WWTBGb8DbUmkUUnRX4D-oDatdzTA", Canal 7 Neuquén
 https://ythls-v3.onrender.com/channel/UCMaLdICu-EY8yALEM1B9pJg.m3u8?playlist=index
@@ -1752,7 +1752,7 @@ https://ythls-v3.onrender.com/channel/UCB-8E662xOk1I3-wdhTMNiw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/3kZQHjTvrCouTzzf72fo4LX4Qow7DJIAgZiEydSJsZ6xdmStncrOg2EATuITK4EwJeYWrphB", City 41
 https://ythls-v3.onrender.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/xnjStXHLmn_E_gDILPtB6BDFd7zj675cVIlKLKUTmRb7xDnqdE-fHcHJpNDcyqeB89u22mtO", City 42
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Gs1T8SabaNb9oOFWS9ESOrxHgAeVzAkhdp5irtZhpmYWNBrIcIkn8hlB8t9apDkMCqsusAFQ", City 42
 https://ythls-v3.onrender.com/channel/UCdTup4kK7Ze08KYp7ReiuMw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQRpfhBdlBoOoxeStpBEYLlaHMl1thDFIGBj2v5Hg", City News HD
