@@ -1138,9 +1138,6 @@ https://ythls-v3.onrender.com/channel/UCI-Ho-GaKYbtMzXJWmWAsrg.m3u8?playlist=ung
 https://ythls-v3.onrender.com/channel/UCH5499PHqkqKPsGEUJl5lZg.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XiDI4jKrS7jiTTMpQPVnjQUwiZlMmW-5uTqY8L2-2rFzijy16o2QsHvvF3JVrNBNzHqlIYbIag", CazéTV
-https://ythls-v3.onrender.com/channel/UC4R8DWoMoI7CAwX8_LjQHig.m3u8?playlist=ungrouped
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XiDI4jKrS7jiTTMpQPVnjQUwiZlMmW-5uTqY8L2-2rFzijy16o2QsHvvF3JVrNBNzHqlIYbIag", CazéTV
 https://ythls-v3.onrender.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/REdulLjzgxpdHlujUeTpflyzAWwGDEmYNpDh5zyKqNwOCHXvhJBgYFv0OIGVaqb6MrIrrik2Ig", CBA24Ncomar
@@ -1412,6 +1409,9 @@ https://ythls-v3.onrender.com/channel/UCZWejX-zpo9GSfzDd3MBO_Q.m3u8?playlist=ung
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/a70Vcu-azrgXv4g87o0pDUD3xmFcb_w1sFfkNiwqX--XrJm5mMCwD9CTgm17osv4weW5ItNp9g", Cristian Gomez
 https://ythls-v3.onrender.com/channel/UC4oKJQRnYF3Cj6VNW4BxJbA.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/VQSupfye-dNKO97uGqBngHduKdKb87oTTMHfxVeDmTbQQ2YC469X9TkXQFODNXxkHregXv4hO7o", CrossFit Games
+https://ythls-v3.onrender.com/channel/UC4R8DWoMoI7CAwX8_LjQHig.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZr0VCOSdENmDkaR7USSM0gokJpbia0ct5bX7lq6g", CRTV
 https://ythls-v3.onrender.com/channel/UCNxFBlUBOaI3iQW37T3hFww.m3u8?playlist=ungrouped
@@ -6938,6 +6938,9 @@ https://ythls-v3.onrender.com/channel/UC-bk3CDvTwt2TqPHykduhcQ.m3u8?playlist=ung
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTgO85iLtiY03dJwNw0P4YbidQt27D29CoCSTFIuw", UNQtv
 https://ythls-v3.onrender.com/channel/UCDGRQwIsI-kOCwdUn4UFjSQ.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/v6i9aPzHM2BA6oIOGA-k3vsUxpeeQpl3qM9PCgYyQeqkoXQ-83byoLYCV5jaOAx4GHhfW7NjVg", UNTOLD
+https://ythls-v3.onrender.com/channel/UCeDqemm8j1o4u90IHkC0h0w.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZPWdN5qzZzQcA4QmkvwmLi0etlQh9kaZEdd9ajS1LQexj91gi_cysXVFFRB0yZbRgpcUcQXnqw", UNTV News and Rescue
 https://ythls-v3.onrender.com/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8?playlist=ungrouped

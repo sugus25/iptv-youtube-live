@@ -1594,9 +1594,6 @@ https://ythls-v3.onrender.com/channel/UCH5499PHqkqKPsGEUJl5lZg.m3u8?playlist=ind
 https://ythls-v3.onrender.com/channel/UCil6uAMf2IXD1SkiwZq3xhw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XiDI4jKrS7jiTTMpQPVnjQUwiZlMmW-5uTqY8L2-2rFzijy16o2QsHvvF3JVrNBNzHqlIYbIag", CazéTV
-https://ythls-v3.onrender.com/channel/UC4R8DWoMoI7CAwX8_LjQHig.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XiDI4jKrS7jiTTMpQPVnjQUwiZlMmW-5uTqY8L2-2rFzijy16o2QsHvvF3JVrNBNzHqlIYbIag", CazéTV
 https://ythls-v3.onrender.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/REdulLjzgxpdHlujUeTpflyzAWwGDEmYNpDh5zyKqNwOCHXvhJBgYFv0OIGVaqb6MrIrrik2Ig", CBA24Ncomar
@@ -1943,6 +1940,9 @@ https://ythls-v3.onrender.com/channel/UCZWejX-zpo9GSfzDd3MBO_Q.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/a70Vcu-azrgXv4g87o0pDUD3xmFcb_w1sFfkNiwqX--XrJm5mMCwD9CTgm17osv4weW5ItNp9g", Cristian Gomez
 https://ythls-v3.onrender.com/channel/UC4oKJQRnYF3Cj6VNW4BxJbA.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/VQSupfye-dNKO97uGqBngHduKdKb87oTTMHfxVeDmTbQQ2YC469X9TkXQFODNXxkHregXv4hO7o", CrossFit Games
+https://ythls-v3.onrender.com/channel/UC4R8DWoMoI7CAwX8_LjQHig.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZr0VCOSdENmDkaR7USSM0gokJpbia0ct5bX7lq6g", CRTV
 https://ythls-v3.onrender.com/channel/UCNxFBlUBOaI3iQW37T3hFww.m3u8?playlist=index
@@ -6405,7 +6405,7 @@ https://ythls-v3.onrender.com/channel/UCCCjc1piE1mIrhcE3ejENeA.m3u8?playlist=ind
 #EXTINF:-1 group-title="News India (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/f6tEYjB34zD0Z4U93w9UFJkBiGpdryrUj8KKS9IuIEjVvD12Bm9m5n5aBfwWbgIRB-r5FOYyCjc", REPORTER LIVE
 https://ythls-v3.onrender.com/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="News India (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kHTOEGyPpnVu-5YVqWgmywM7oe5_0ftceaN97mJH7X6g", Republic Bangla
+#EXTINF:-1 group-title="News India (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kF_ZwJh7qjD421U-Dtn4_8iTshdasEDBJu2G2yS_Rbi9s", Republic Bangla
 https://ythls-v3.onrender.com/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/zv_TrbiRA-GpTz7DyYGCX08_XUcPUuVD_lcApKXQU18y3FBilr7b6CAy4Y4fVyVeiXk_JcCrg3A", Republic Bharat
@@ -8396,6 +8396,9 @@ https://ythls-v3.onrender.com/channel/UC-bk3CDvTwt2TqPHykduhcQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTgO85iLtiY03dJwNw0P4YbidQt27D29CoCSTFIuw", UNQtv
 https://ythls-v3.onrender.com/channel/UCDGRQwIsI-kOCwdUn4UFjSQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/v6i9aPzHM2BA6oIOGA-k3vsUxpeeQpl3qM9PCgYyQeqkoXQ-83byoLYCV5jaOAx4GHhfW7NjVg", UNTOLD
+https://ythls-v3.onrender.com/channel/UCeDqemm8j1o4u90IHkC0h0w.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZPWdN5qzZzQcA4QmkvwmLi0etlQh9kaZEdd9ajS1LQexj91gi_cysXVFFRB0yZbRgpcUcQXnqw", UNTV News and Rescue
 https://ythls-v3.onrender.com/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8?playlist=index
