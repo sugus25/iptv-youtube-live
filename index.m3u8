@@ -150,9 +150,6 @@ https://ythls-v3.onrender.com/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cJEUagcc1K5EFYOceKf7eFNYgrUjfDXxmZG25YoXSKNXE5Kz4Ij-2oFLJQ_FiFR8c40lkqZN", 80's Memories
 https://ythls-v3.onrender.com/channel/UC4CcBMOy5wVegGbjefI9PsQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Nature" tvg-language="" tvg-logo="https://yt3.ggpht.com/tny6yAyqL1pFn4BbNuEWpnmR9hstmThyfzFpOl1kWqUPcF8sHwSehdA_28SGp9ICaSlnR3GD", 8K Nature Film
-https://ythls-v3.onrender.com/channel/UCFEkwFTrP1WrQym33cul9qQ.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Nature" tvg-language="" tvg-logo="https://yt3.ggpht.com/HHzE2Qhvq0fhhq4UW2Oiu58knHVD03EHitlSdnK__n_xsCr3FHFwR_1KUQz7GZJLOIIlLC4PgA", 8K Scenic Relaxation
 https://ythls-v3.onrender.com/channel/UC7JnIYJEPmoxXJdYb1BhrnQ.m3u8?playlist=index
 
@@ -2558,6 +2555,9 @@ https://ythls-v3.onrender.com/channel/UCzMxEa-lDX2AfgotszScOFg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/olCcMkrgci-FOBDNs6RDwGbFIae_6_7AX1yKZlY0QuumkjI6TZt6RG89sd4gkGtu9Tdc1eaf", ERA
 https://ythls-v3.onrender.com/channel/UCNq5APn4lVabRaYCnTxiNIg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Nature" tvg-language="" tvg-logo="https://yt3.ggpht.com/tny6yAyqL1pFn4BbNuEWpnmR9hstmThyfzFpOl1kWqUPcF8sHwSehdA_28SGp9ICaSlnR3GD", Eric - 8K Nature Film
+https://ythls-v3.onrender.com/channel/UCFEkwFTrP1WrQym33cul9qQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/GvZs37dXr-gIFdOrtsVMLQNYLyg5g8E5gVuZUmXUzrveLAfiNNno8lWeB4CX8TAHFwOMVcOQ", Erick y Gonzalo
 https://ythls-v3.onrender.com/channel/UCcRSITGrzZce21uHdQ6GjZA.m3u8?playlist=index
@@ -6266,6 +6266,9 @@ https://ythls-v3.onrender.com/channel/UCdZg575-DFjGWV_AtcUKgSw.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/3o4b2TKpiRTd-878RfoJrmbKxzV9FrwxECU7pT7TANBAf-9-TgpJYM4-Do2RVynWiEwCc4Qz6A", Radyo Akdeniz
 https://ythls-v3.onrender.com/channel/UChjG9CZRjZPwKYpEejWiRFQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/2ZBLE3rnWZJ126C3sYnXE9AhdayZtEoO6TG2rExfLsjQ4ey-2sfCG2-SdHrQfDhyg4-B5Zd5OPw", Radyo Damar
+https://ythls-v3.onrender.com/channel/UCqUenabL_g28LsTtTPIwg3Q.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/R_TUZAxY_0m1mMg9n6X3c7iTXl7rYwf1oq0OOAv-VKYhmiGScTo4hrjneceOclIWgwKs7s1aug", Radyo Dem
 https://ythls-v3.onrender.com/channel/UCsRYEFd9Utbo2N4NgSrwB1Q.m3u8?playlist=index
