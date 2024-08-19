@@ -942,6 +942,9 @@ https://ythls-v3.onrender.com/channel/UClzwimpLoZu9us9MwalLbtA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_moDk3UYTG1fWAC9xvkP6CQ6smNg0pb3tzUEwqpvtVoH4k", Banglavision DRAMA
 https://ythls-v3.onrender.com/channel/UCsr6QVeLlkitleHoS0T4IxQ.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lznWhV194D6rfuuCsBIe8SS11AMjZ3H-AbQxhpuxfys8M", BanglaVision NEWS
+https://ythls-v3.onrender.com/channel/UCA4y9g_GRdNrZLH_u5LLSdw.m3u8?playlist=index
+
 #EXTINF:-1 group-title="News Bangladesh (Bengali)" tvg-language="Bengali" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lznWhV194D6rfuuCsBIe8SS11AMjZ3H-AbQxhpuxfys8M", BanglaVision NEWS
 https://ythls-v3.onrender.com/channel/UCAIEufoszs1J38-pKECORRg.m3u8?playlist=index
 
