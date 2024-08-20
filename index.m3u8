@@ -1887,6 +1887,9 @@ https://ythls-v3.onrender.com/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8?playlist=ind
 #EXTINF:-1 group-title="News India (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r", CNBC-TV18
 https://ythls-v3.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/xwzsmNuEvx__DAMgcQ69IwSdkKQhycEMHlhFndg3LgADYsuw8LmoFVaHANRH7CHpUOM9YYZb2Q", CNBN   Music
+https://ythls-v3.onrender.com/channel/UCjvbRMtkYsK3tM-tSQeDQBQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="News Brazil (Portuguese)" tvg-language="Portuguese" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ndPKZMHqFQNc-W3JxlLh_POjtSMcKusAaagJRjtpDO6hU", CNN Brasil
 https://ythls-v3.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8?playlist=index
 
@@ -9617,6 +9620,9 @@ https://ythls-v3.onrender.com/channel/UC-VBiRZVuOAAxuBIbSTWnHg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XPwxqjkL6tTVsYfBGvkEjmSWUfjZXo6X3jrlbON1PoGF0EZx33Da_8LDjpZWVdPrGB_8IAoByQ", เรื่องเล่าเช้านี้
 https://ythls-v3.onrender.com/channel/UC5wKpLWxAZBZrunls3mzwEw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Vg08scJeSYlVvMuWbtc8NfaqnbYLNNuE09rfY7PwT_WxeAIPP3l5PbcZDA_KRgwfRLeCgPRN", แนวหน้าออนไลน์
+https://ythls-v3.onrender.com/channel/UC7d3VlqC5LvvIraCNHBFtjw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XGR-Mo-bDnk1NPUO7IfrPgOqrz18lsBkMz63GYvCDL69aQSY8XWJaAw2gYfemF00GyL6UoGh", แฟนหมัดแฟนมวย Office
 https://ythls-v3.onrender.com/channel/UCpIRlMq3jEj_lkVzRkgNMfA.m3u8?playlist=index
