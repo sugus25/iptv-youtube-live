@@ -342,7 +342,7 @@ https://ythls-v3.onrender.com/channel/UCXTRFt1vLvZpahQtiKJjLaQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Hobby" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_l41eftbN8AKCVN1U6hqpF40qFj3rDBdsDWCzqCSaS6A1U", Afraz Explores
 https://ythls-v3.onrender.com/channel/UCRI_rCIV69l-PmT3oyD64kw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://pipedproxy.wireway.ch/L8irqEmpi37buYveRShxDoYvBTtJs4UboF4yo7sPY86uzdIy_oJ06A3VsP-TGjzFpEewg_iV1Cw=s176-c-k-c0x00ffffff-no-rw?host=yt3.ggpht.com", africanews
+#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/L8irqEmpi37buYveRShxDoYvBTtJs4UboF4yo7sPY86uzdIy_oJ06A3VsP-TGjzFpEewg_iV1Cw", africanews
 https://ythls-v3.onrender.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News International (French)" tvg-language="French" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nPCPPLjp-33-ae31fQNCUONzD_xU9OYLH0GCbz28e8dco", africanews (en français)
@@ -365,6 +365,9 @@ https://ythls-v3.onrender.com/channel/UCshCsg1YVKli8yBai-wa78w.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/yJdGaW0JBC3mJ2g5kPIo9OCatRk7ZXbWuIxO4ixx0rKz6G_KRvZoj-j9lplUkLS62MB86lxE", AGRICULTURA TV
 https://ythls-v3.onrender.com/channel/UCBkkqRIsRTbio4W7MwAZiEw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Eu5ofwi9VXMyF4urBOVWIT_3S2T7TC5PJ0zGwzuTiuDNk5d5BwJFUQCq4eaCsb1_sEi_8bJbIw", AGTV147
+https://ythls-v3.onrender.com/channel/UCX3CsFxBMpKZ8JiZNK3HZeQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="", AhlouMourideTV.sn
 https://ythls-v3.onrender.com/channel/UCuFSrdYq5td__h886cSTmVw.m3u8?playlist=index
@@ -3698,6 +3701,9 @@ https://ythls-v3.onrender.com/channel/UC1vJ4RlWSHP6n0xL2G1tkYQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mUFkulNIKxTfUl3sSwV2-WGr_irm7v6mwkZbrIgQ", Islamic Foundation of Toronto
 https://ythls-v3.onrender.com/channel/UC6YKpVqeVjUgWMxi-9aOAjw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/T4pk4NEp8Go9kvBNPeY1sXBytY6PpKRqSR2EQwnZPqQCwx7K6KMSZ_Vss55pDBDWSfKZBxR1_w", Islamic short 15
+https://ythls-v3.onrender.com/channel/UCjlT7NJzTuULfiqLns8Ymeg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ds6RympTIsZFrAmN1872SmSN6KAcJSvrQGa8_t4JzrCwmkcVfMxrX7urkgf9D_nxmbBIouo7Sw", Islom uz
 https://ythls-v3.onrender.com/channel/UCcSZr1or1h5dx4bYEMqfEvA.m3u8?playlist=index
@@ -7247,6 +7253,9 @@ https://ythls-v3.onrender.com/channel/UCNaQMcnWvx95j7OG3217IMg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/6JgPn4NiLEzuo6wEyPDizL51oeYOVYItm_bpPUOrAMdAx_ZeYh3aPKUSbzTk1nrzsEmB4sDqgw", SNNPRS RADIO & TELEVISION AGENCY
 https://ythls-v3.onrender.com/channel/UCnCYLFMXiN_bX-kCbn_fuIg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/tbGydDLt9HQmx48ry9wdMCF4DVWCeWwW37Gs5eppDYKZKPAO42lux15jGXxMpoopmaNPU1e0jw", Snooker World
+https://ythls-v3.onrender.com/channel/UCuyywS7FL1SzIBQzoCwsf0g.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/GJixYnYJEDHVnN_bCuctl9b9Dl3M6KMoy7f8uU9Wv9X40wyRBHzU3Q1ZXysidYKJ-h8kojxkXn8", Soaking Worship Music & Prayer Music
 https://ythls-v3.onrender.com/channel/UCEyDPrWKqwWORC6TFTo4a-w.m3u8?playlist=index
