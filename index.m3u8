@@ -672,6 +672,9 @@ https://ythls-v3.onrender.com/channel/UC-PHIZjV-oX8H7zD1cCN2NQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kXM1RXRlPPtYKlHhurjihNMkyWufd12RVJehOwEwc-REU", Arise News
 https://ythls-v3.onrender.com/channel/UCyEJX-kSj0kOOCS7Qlq2G7g.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lDPRI2u9ZNAS0OG2TEB54VNVJf8jjquCGZPuJ6IKjGGg", Arkadaşım Hoşgeldin
+https://ythls-v3.onrender.com/channel/UCOYerJedhQqSyhXkev8QRFA.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/1-VP_lwsqZVYWhBBi17lkKs1PmMGDHRpU3P10x97ZpGGKwyo7Ih4igNzF_t3PbIo-oLcMuHPeg", Arryadia TV
 https://ythls-v3.onrender.com/channel/UCRN5ho3UGhUi7ZCBe2G2f2w.m3u8?playlist=index
 
@@ -5604,7 +5607,7 @@ https://ythls-v3.onrender.com/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m1sBVbsNiqMuUzgmlf_-tTJBjZGJKrOMLLN37-nEQgm7wR", NTN24
 https://ythls-v3.onrender.com/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://pipedproxy.wireway.ch/DNtj-vFL6GGkFn6Os_2soKy-XAWy6IJp7ee4ckJoI2e9bK-5WQtWfAekLIOqddoADSxg7s0wqg=s176-c-k-c0x00ffffff-no-rw?host=yt3.ggpht.com", NTV
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/DNtj-vFL6GGkFn6Os_2soKy-XAWy6IJp7ee4ckJoI2e9bK-5WQtWfAekLIOqddoADSxg7s0wqg", NTV
 https://ythls-v3.onrender.com/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/vezfaITuH-YuZVA8Ust5Xjz-_9jHCJYqGEsEs8pPTZ0tQNMM5H9qJBEJspgxb9SsWsg482qIujI", NTV Belgesel
