@@ -1917,7 +1917,7 @@ https://ythls-v3.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8?playlist=ind
 #EXTINF:-1 group-title="News Indonesia (Indonesian)" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/Y5NY2WFXLWKE5krXFfqXecZpfiwdzlcrmW0kKMaoGOgVgFddSZxbYLH3BDJW6J-ePsLaqdIhng", CNN Indonesia
 https://ythls-v3.onrender.com/channel/UCKII0Ml9S5wneKbHswmUrIQ.m3u8?playlist=index
 
-#EXTINF:-1 group-title="News Turkey (Turkish)" tvg-language="Turkish" tvg-logo="https://pipedproxy.wireway.ch/ShuHogS_oo3tsc3tCTX38tSKoFHUzCYgnQ-Vrun8QiFgWAQoaBE5ZRld8vZkZU40gAVibg2WRw=s176-c-k-c0x00ffffff-no-rw?host=yt3.ggpht.com", CNN TÜRK
+#EXTINF:-1 group-title="News Turkey (Turkish)" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/ShuHogS_oo3tsc3tCTX38tSKoFHUzCYgnQ-Vrun8QiFgWAQoaBE5ZRld8vZkZU40gAVibg2WRw", CNN TÜRK
 https://ythls-v3.onrender.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/4m7yvjIhOhtCXb905kcNQl6EXt5AzDXvmx6pN5WxbMtd1hylOZDESw6lvV77UjPWtQ--JizW8w", CNN-News18
@@ -8099,6 +8099,9 @@ https://ythls-v3.onrender.com/channel/UC6RJ7-PaXg6TIH2BzZfTV7w.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="News India (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/s6K7Y46LEug1os9yNZh4sFhrE4-RpHjJg8TQGUnCxzXabA3kE6SGcNslIRB9ihNK1fVgVjda7Sg", TIMES NOW Navbharat
 https://ythls-v3.onrender.com/channel/UCMk9Tdc-d1BIcAFaSppiVkw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/_GNnPMVqsgUaG6M0nMLBzzAbte-Tbjmn3MVzKLb97sGhE7aEMKzpFaniuI2mbuoCmLTQ-6H-", Times Now World
+https://ythls-v3.onrender.com/channel/UCw8Fc5R0Q5yyS3KrDCPM3xg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Ems9kHUKznJEgYlDZjfQlKo-UaPexfo5DQX0yUPW4Vs--9cTag3vIgCXQoN96OZ9DB3LOszHbQ", TimTheTatman
 https://ythls-v3.onrender.com/channel/UCXBE_QQSZueB8082ml5fslg.m3u8?playlist=index
