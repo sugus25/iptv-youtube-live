@@ -45,7 +45,7 @@ https://ythls-v3.onrender.com/channel/UC427u0v10Nta15-eRGqRQ7A.m3u8?playlist=ind
 #EXTINF:-1 group-title="Sports (Vietnamese)" tvg-language="Vietnamese" tvg-logo="https://yt3.ggpht.com/YA8Wy_QSaqD3UzmwrB4rt3uU0TPwg73ypY-wxlaReOV373qO4JckSChhzWhmIuxqkrAhf-H3pw", 23 DOTA TV
 https://ythls-v3.onrender.com/channel/UCLj_XrISrlSsdGCZMK2N0xw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="News Chile (Spanish)" tvg-language="Spanish" tvg-logo="https://pipedproxy.wireway.ch/r-Cco67lO23OThI0NkF9d-skPpRYanG-O98-DB3cMlyITes0-nzg-rRmL9EDw7_oait3ZtXR=s176-c-k-c0x00ffffff-no-rw?host=yt3.ggpht.com", 24 Horas - TVN Chile
+#EXTINF:-1 group-title="News Chile (Spanish)" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/r-Cco67lO23OThI0NkF9d-skPpRYanG-O98-DB3cMlyITes0-nzg-rRmL9EDw7_oait3ZtXR", 24 Horas - TVN Chile
 https://ythls-v3.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News India (Malayalam)" tvg-language="Malayalam" tvg-logo="https://yt3.ggpht.com/eqbZ6s1e5--bLtQT-w_COL6u7ajCp_cUwtc-yXUntjsmXwjflWaFgKRrP0ao02Zhw3e_7zZIfA", 24 News
@@ -1601,6 +1601,9 @@ https://ythls-v3.onrender.com/channel/UCno6OgN7-NDmRTNBgqWevlw.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XHrBxW2f0S_7Nw1XVfmJXFnzyCaavKwDvCHgK7Hbx7rZ9HYfEFH51y03DQCfdmp2EIQue7tVbQQ", Capuchin Tv
 https://ythls-v3.onrender.com/channel/UCHPJTU2lq20S3kQoDONYHgQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/dbzzlClEIe6IgvcrsaWVDef2daRmp-6sWuRzWxMgtPAmxJJRzbaGrKU_PlMBmNzZ0alNoMax7Q", Carajo
+https://ythls-v3.onrender.com/channel/UC4mdhKZXjrKoq5aVG6juHEg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/bA7hYe4xurkJWEjSlzoY1AH7popgyQm7ls3QlDZKciJicV-LkkA9RI1LYPriLiUNw4yfD7uT1w", Carburando
 https://ythls-v3.onrender.com/channel/UCVHQZIlc766KbxpKQK1on6Q.m3u8?playlist=index
@@ -8034,6 +8037,9 @@ https://ythls-v3.onrender.com/channel/UCllMP-ipM0TsiXva2Jf6jYw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_n9Y_ILB6QBZ_IoLp_hoTmRdsSO0Is8vxtgoarCzVyXKW8", The New York Racing Association, Inc.
 https://ythls-v3.onrender.com/channel/UCxRmRUB3kX-X-_9YsNFhq3g.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY", The official channel of KSA Qur’an TV 
+https://ythls-v3.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/pK5_z_dptxyLuGllTGH4voHjz6WNTv0vgysrHQtmK6X45fl8g_h1ytu1H-ir1ExvY8uph0MbQA", The Official Pokémon YouTube channel
 https://ythls-v3.onrender.com/channel/UCFctpiB_Hnlk3ejWfHqSm6Q.m3u8?playlist=index
 
@@ -9659,9 +9665,6 @@ https://ythls-v3.onrender.com/channel/UCZ8zJO04KF6RD2VqZaWFkxg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/eFNVGS7Wefr8B3nxChTS8Pm4HnX9lUfDzQXt6QDgvQg5SrvOLAUn4xnMRiDkdq3u7l5ZcV1VwQ", قناة القرآن 2 - Quran
 https://ythls-v3.onrender.com/channel/UC6W_OgG8P31BVf9EVe5d8Ig.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY", قناة القران الكريم
-https://ythls-v3.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Lr4TgcA9J_-a6EhagyZtHYUuF9pspoo_OgFZvALPLBL987AUv_qtIKykimLnaQtQRnbhkVS81Vs", قناة الموريتانية Télévision de Mauritanie
 https://ythls-v3.onrender.com/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8?playlist=index
