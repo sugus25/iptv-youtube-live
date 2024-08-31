@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ITaNuMF3Wv-rcf38SmuLzoUxbbKLL9wo61h9qZjSMopdOxBnw-H9-MGX1z0_cEsCR1uQ_dvg3g",  LuppyのAI実況!! AI Live!! streaming every day 
+https://ythls-v3.onrender.com/channel/UCLO6sG8DrTEE-NwUWAtU6Ng.m3u8?playlist=index
+
+#EXTINF:-1 group-title="News India (Tamil)" tvg-language="Tamil" tvg-logo="https://yt3.ggpht.com/uEg0EEuKqJHhrkjmSn4VaXrpAe_WO47laeBqZ45HrlYwKN-wm3-Cijq_taNvnH-MlEXylFBpCg",  Zee Tamil News
+https://ythls-v3.onrender.com/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Kids (Arabic)" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m1rybWNIbA345IER0Wswzas1Hw2I5l5Qibd79XrlhysYE", (السنافر) The Smurfs •القناة الرسمية!
 https://ythls-v3.onrender.com/channel/UCBZLg-ixSGqEjh3ld7nSwLg.m3u8?playlist=index
 
@@ -4616,9 +4622,6 @@ https://ythls-v3.onrender.com/channel/UCAvM85RyHxoAU3lrJPWIASg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/IKguv0kxjgBRd2bqXMXlZQ43fCv8tPpd_ILsrF3I3qnXFgJurUYHz6hbptYhHI-rAsnlSf4U", Luiger
 https://ythls-v3.onrender.com/channel/UCppDP4y1L-5TWttVOkBDm7A.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ITaNuMF3Wv-rcf38SmuLzoUxbbKLL9wo61h9qZjSMopdOxBnw-H9-MGX1z0_cEsCR1uQ_dvg3g", LuppyのAI実況!! AI Live!! streaming every day
-https://ythls-v3.onrender.com/channel/UCLO6sG8DrTEE-NwUWAtU6Ng.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lknWNjGUZv72Le-6lRXKP4vViQ7vylxpiOi7sme0fR0gM", LUZU TV
 https://ythls-v3.onrender.com/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8?playlist=index
@@ -9251,9 +9254,6 @@ https://ythls-v3.onrender.com/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="News India (Punjabi)" tvg-language="Punjabi" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mYezwF8U4HTGAeotjmhJc6INyJknRtZa8oxGAXnhETPA", Zee Punjab Haryana Himachal
 https://ythls-v3.onrender.com/channel/UCmhe0p2-m_KURZYQNchK-QQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="News India (Tamil)" tvg-language="Tamil" tvg-logo="https://yt3.ggpht.com/uEg0EEuKqJHhrkjmSn4VaXrpAe_WO47laeBqZ45HrlYwKN-wm3-Cijq_taNvnH-MlEXylFBpCg", Zee Tamil News
-https://ythls-v3.onrender.com/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News India (Telugu)" tvg-language="Telugu" tvg-logo="https://yt3.ggpht.com/93tHmOkT1G1qrPxtoASRHz8rmbBPXMkYTBPfQP2lI04QAr5FdQme5yZEl66L4ytnBDwfkmY26g", Zee Telugu News
 https://ythls-v3.onrender.com/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8?playlist=index
