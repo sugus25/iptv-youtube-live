@@ -810,11 +810,11 @@ https://ythls-v3.onrender.com/channel/UCMDzPE_7fcZSRJgpwIVor_A.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mK-MLoldc3E_ltVdOwVtTo3EiRSKtKnqHi3EqIIfTkfUU", avex
 https://ythls-v3.onrender.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/-Vg5_Cqh69cKl3FdzalAKpgyZ6RdhHgK2w_lHC1zoI5coVH4wgtqGi1vhcTLlOWUWHFOqtiqUh4", AVIATION TV
+https://ythls-v3.onrender.com/channel/UC0R-K3crhMX9jzswbmfIORw.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/jaONFhJ-yp2O9kbIJmwaivGE6e2SE2HK6JdebQmMDVezvPag-ZH_vScwRqi_yBpo5ehP90tIQg", Aviation TV
 https://ythls-v3.onrender.com/channel/UCNKQAsFBh59t4IixJDJYz-Q.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/-Vg5_Cqh69cKl3FdzalAKpgyZ6RdhHgK2w_lHC1zoI5coVH4wgtqGi1vhcTLlOWUWHFOqtiqUh4", AVIAÇÃO TV
-https://ythls-v3.onrender.com/channel/UC0R-K3crhMX9jzswbmfIORw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mpbFtKX2NMShRpx-qj7F7CyxXT9SlUzWxM3qfbKumY9g", Avlu
 https://ythls-v3.onrender.com/channel/UCVgeIzj6TgseOnQirWqkibg.m3u8?playlist=index
@@ -2066,6 +2066,9 @@ https://ythls-v3.onrender.com/channel/UCJqwSXVmnG6hZrIoqdpjRYQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_l8SgXAVMQfKIlItsM9845It65oUAAo-_hp-v_RhGzn7g", CTIASIA 中天亞洲台
 https://ythls-v3.onrender.com/channel/UCys6fpFsyUIHMVhn9g10trQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cweYaB26lLbseNGYuAgmmTGm6mLdSWqzm88JfB1N3ISBThVUESAs4f7DeTJ7ctfshXDfR4PJ0Q", CTITV NEWS
+https://ythls-v3.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/t_aAnAmToPnMP2LnIuzQEeTzaZyBkFsexUUrvx1ji9K65JbWTNGKSzER3fLcivkjbRyJuAW4", CTVN AKD PLUS
 https://ythls-v3.onrender.com/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8?playlist=index
@@ -9920,9 +9923,6 @@ https://ythls-v3.onrender.com/channel/UCwYvNGb19z9A6gpisi0Jv4A.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://pipedproxy.wireway.ch/Qb7frcPv6WErITnMbe_iefNtf2olw4gcB4WNt99Y2ngPfpZkfXcP7lTwVQP2gQcTtY1IFKjkqg=s176-c-k-c0x00ffffff-no-rw?host=yt3.ggpht.com", 中京テレビNEWS
 https://ythls-v3.onrender.com/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cweYaB26lLbseNGYuAgmmTGm6mLdSWqzm88JfB1N3ISBThVUESAs4f7DeTJ7ctfshXDfR4PJ0Q", 中天新聞
-https://ythls-v3.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/7TX5a0vWm4atw3f_uPwN651m0VOmnBSfP0sLEZb4sEha-laWJC2XpeAIVbUqPTum0NRAwuAn", 中天電視
 https://ythls-v3.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8?playlist=index
