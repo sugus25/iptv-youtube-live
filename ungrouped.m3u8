@@ -2850,6 +2850,9 @@ https://ythls-v3.onrender.com/channel/UCWdxGek7_vN9T2iWsAw5NXw.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/h3HGABqb9-Q7TZ0mDnqNFdHECE_LDS_DV5FTD1QkwoEjKMwL4wCc6Ajxzw5BBB4ednUD6rAOIb4", Info Bahêa
 https://ythls-v3.onrender.com/channel/UC53LVNhAttaJLw8bvo41zwQ.m3u8?playlist=ungrouped
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZzQzx6N00-yjE9OJS3-C9t3SnyMC528qkf4rjnA-hQFxJdWRk8TXzXhoKRVUm7_LDWIYxSGs1w", info shinjuku channel
+https://ythls-v3.onrender.com/channel/UC56apcbc2pLZ9xyBizbD1Dg.m3u8?playlist=ungrouped
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/iOvUHlIEb1g2APsu-z3FDn2uSP6NsB4kp6rsbvmNSAbArdiTJjSF9UND_talgW3a1WNqn0RXBw", Info24 TV
 https://ythls-v3.onrender.com/channel/UCzBMwyEo1cJVpVnGE81Hlgw.m3u8?playlist=ungrouped
 
@@ -8336,9 +8339,6 @@ https://ythls-v3.onrender.com/channel/UCdBuL72WRnKDIvAekxS2NxQ.m3u8?playlist=ung
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/pKdd0dnZ9nsBDo7zvAXbqTHWdDducB8p4xWUnGgTVZoS4ck4ZfjWgh60wgG7UBJnRfiOPW2VFg", アイドルマスターチャンネル
 https://ythls-v3.onrender.com/channel/UCe3uJZIjfYwNNR0S6W3GvEA.m3u8?playlist=ungrouped
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZzQzx6N00-yjE9OJS3-C9t3SnyMC528qkf4rjnA-hQFxJdWRk8TXzXhoKRVUm7_LDWIYxSGs1w", インフォ新宿 channel
-https://ythls-v3.onrender.com/channel/UC56apcbc2pLZ9xyBizbD1Dg.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nNCFSG7-y95gIeoYNTzhotIMul6Nddts3L4I5EXMzVRQ", ウェザーニュース
 https://ythls-v3.onrender.com/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8?playlist=ungrouped
