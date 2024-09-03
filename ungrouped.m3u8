@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ITaNuMF3Wv-rcf38SmuLzoUxbbKLL9wo61h9qZjSMopdOxBnw-H9-MGX1z0_cEsCR1uQ_dvg3g",  LuppyのAI実況!! AI Live!! streaming every day 
-https://ythls-v3.onrender.com/channel/UCLO6sG8DrTEE-NwUWAtU6Ng.m3u8?playlist=ungrouped
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ezG7fZAoI4puqxZvEHRY0Xfwl6CcR3bWRadwh-lg_-JSuBw9aK6hpJuR5wIlu1WHhsvseAWzfyA",  YTN
 https://ythls-v3.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8?playlist=ungrouped
 
@@ -3753,6 +3750,9 @@ https://ythls-v3.onrender.com/channel/UCAvM85RyHxoAU3lrJPWIASg.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/IKguv0kxjgBRd2bqXMXlZQ43fCv8tPpd_ILsrF3I3qnXFgJurUYHz6hbptYhHI-rAsnlSf4U", Luiger
 https://ythls-v3.onrender.com/channel/UCppDP4y1L-5TWttVOkBDm7A.m3u8?playlist=ungrouped
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ITaNuMF3Wv-rcf38SmuLzoUxbbKLL9wo61h9qZjSMopdOxBnw-H9-MGX1z0_cEsCR1uQ_dvg3g", LuppyのAI実況!! AI Live!! streaming every day
+https://ythls-v3.onrender.com/channel/UCLO6sG8DrTEE-NwUWAtU6Ng.m3u8?playlist=ungrouped
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lknWNjGUZv72Le-6lRXKP4vViQ7vylxpiOi7sme0fR0gM", LUZU TV
 https://ythls-v3.onrender.com/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8?playlist=ungrouped
 
@@ -6714,7 +6714,7 @@ https://ythls-v3.onrender.com/channel/UCllMP-ipM0TsiXva2Jf6jYw.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_n9Y_ILB6QBZ_IoLp_hoTmRdsSO0Is8vxtgoarCzVyXKW8", The New York Racing Association, Inc.
 https://ythls-v3.onrender.com/channel/UCxRmRUB3kX-X-_9YsNFhq3g.m3u8?playlist=ungrouped
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY", The official channel of KSA Qur’an TV 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY", The official channel of KSA Qur’an TV
 https://ythls-v3.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_k1Jk-B1gv2VEOec5rwonEiZ3LCTqbNMikUcdJA8VVZwSw", The official channel of KSA Sports TV
