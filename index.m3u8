@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ezG7fZAoI4puqxZvEHRY0Xfwl6CcR3bWRadwh-lg_-JSuBw9aK6hpJuR5wIlu1WHhsvseAWzfyA",  YTN
-https://ythls-v3.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Kids (Arabic)" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m1rybWNIbA345IER0Wswzas1Hw2I5l5Qibd79XrlhysYE", (السنافر) The Smurfs •القناة الرسمية!
 https://ythls-v3.onrender.com/channel/UCBZLg-ixSGqEjh3ld7nSwLg.m3u8?playlist=index
 
@@ -7065,7 +7062,7 @@ https://ythls-v3.onrender.com/channel/UCcDerngKTEU5ryjMS-ThLbg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/l0JtOdwYNVUVTjIpd9hcJbTVVwIpkwthEdbGf_t8sNcLvyONsJDjYjql5BEwf9rmA2xCsiOJ", SBT RIBEIRÃO PRETO
 https://ythls-v3.onrender.com/channel/UCfbg-zJ9uZ-WInaLy_dWcQA.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/-B5rJKb9yqtvcFTco0gMpH7qgv8DFW1SeIMDrlrDdLFh3EgY6oa_fcHZZT0vd7UdD1n60mbDDA", SBT Rio
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/A3F5Z6YGYMWyGi3mNPISa1AUZLSx1yGKOYrVVO9sNLaLiIihuibole_iHkn6bgdjLThelilCyt4", SBT Rio
 https://ythls-v3.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/YpwopYpJzCAW8V62GFJmtX2FjwCG1eOqgZHrw0gq9c3h9IHq6VvvOHL20-9zH72FnfM-avRkDUI", SBT RS
@@ -9272,6 +9269,9 @@ https://ythls-v3.onrender.com/channel/UCE74C-snUczeXrfOYp4hYQQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/U0YJuePqZN1YOay971fOvIX4RF6FFQYU2mgd-sqBDbnSCkZEwsBzGnfuEJBLfscKyJsDghH7", YOYOTV
 https://ythls-v3.onrender.com/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ezG7fZAoI4puqxZvEHRY0Xfwl6CcR3bWRadwh-lg_-JSuBw9aK6hpJuR5wIlu1WHhsvseAWzfyA", YTN
+https://ythls-v3.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kenQ-Sh0d3Dz0TugP8jgAQKs8yXdfW5JHU-jtMWU_tLes", YTN dmb
 https://ythls-v3.onrender.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8?playlist=index
