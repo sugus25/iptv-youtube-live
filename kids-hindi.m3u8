@@ -1,4 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Kids (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mVZTAfbNybQt0cazmbRc6lQl1ExeEz6FoSEdK2QyPzsHM", Green Gold Kids
+https://ythls-v3.onrender.com/channel/UCs-i-OgJaRat1M0lCqviF2w.m3u8?playlist=kids-hindi
+
+#EXTINF:-1 group-title="Kids (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/F3elzjwGcFsCWo-aK-CZRWcFWAaNq7TgV-wSAWkopZGlwRU26jeHHeEz7vR89QJSElJH4MglMSQ", Green Gold TV - Official Channel
+https://ythls-v3.onrender.com/channel/UCiBigY9XM-HaOxUc269ympg.m3u8?playlist=kids-hindi
+
 #EXTINF:-1 group-title="Kids (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/sTcN3KabSwj4sa-DtlvDFO2Y0YTj5am71qXaiQPa2lcyKzHBwLb4P109MKbgOhN42Vwtn_ZZLg", Kiddiestv Hindi - Nursery Rhymes & Kids Songs
 https://ythls-v3.onrender.com/channel/UCvEAgG7WzPZnZkf9iOV_YCg.m3u8?playlist=kids-hindi
+
+#EXTINF:-1 group-title="Kids (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/VSKxGLLPYmFiBeWquJTjBMH9mRCwqZa0Mo-hXn6C0wdYLhot7j_cl4D9oGjhn1Rioz1EikQZNQ", Krishna, Balram & Chhota Bheem - Official Channel
+https://ythls-v3.onrender.com/channel/UCUBBWpvzbAagsfNc0x91FZw.m3u8?playlist=kids-hindi

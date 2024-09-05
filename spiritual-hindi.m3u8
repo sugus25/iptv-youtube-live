@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/LwyusAQcJ43aJ2kxrPJKM1AdouMRwub-CIFspsVxgfHR2OzvNEvBJ8oP-bpWHbR3pKreJWia7g", Aadinath Tv Channel
+https://ythls-v3.onrender.com/channel/UCY8r_lukdRi5cK5wjK_O3qw.m3u8?playlist=spiritual-hindi
+
+#EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/mTxGk_huqS8BhkItuB8nUiWHdfiV1A-qdTdjCyEAicLUXe55lsB4Kl2UvHuVkQSvNkCKBnbgdw", Aarti
+https://ythls-v3.onrender.com/channel/UCEtokXRy2e4Kta9r43Xf2zw.m3u8?playlist=spiritual-hindi
+
 #EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/H8paNA8AsPy3xD6XEoJP3zxDJ2H-hXiV4Kvs_VDXt8P2fxFBLpBdpY8TUG2gvN7ZUg0T_4G-", Agamvani Channel
 https://ythls-v3.onrender.com/channel/UClOK2dPmq8k8Xwii_4TjRnQ.m3u8?playlist=spiritual-hindi
 
@@ -24,6 +30,12 @@ https://ythls-v3.onrender.com/channel/UCbpZ2cu74MjsOJbiuiwRzlg.m3u8?playlist=spi
 #EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/06h3K7MjKrTLBSykjKpjw6KNKmecTNFfWqvqkIBs4kVBowTnmSgSHzvSzNjY5Fd4VNk53rRhPQ", BK Murlis
 https://ythls-v3.onrender.com/channel/UCeuVcSjfG14oYySSb_SI4gg.m3u8?playlist=spiritual-hindi
 
+#EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/HvGkyjKGOCNzity5lJeE3MGy44G_Im5_YtCE5usyIjOazziJN9S2EBovhS-x5U3mjqAInT9ljNo", Guru Mahima Bhajan
+https://ythls-v3.onrender.com/channel/UCWgJYm5Yt1x-a5Mr_kWbnBA.m3u8?playlist=spiritual-hindi
+
+#EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nj1r7W5In8SSd5T_jShGAAvU5FDV5mrpqkuPJ3lAmNjQ", Hanuman Chalisa
+https://ythls-v3.onrender.com/channel/UCCnwv_YYfblpiH1BCoANaZA.m3u8?playlist=spiritual-hindi
+
 #EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/cmXR5OrJASDcNhBOWu3hwnetv8NqIalDOiIlpWdqKBfu1364rIr5fmfKI670vOmMDPYJ-qCUFw", Hare Krsna TV
 https://ythls-v3.onrender.com/channel/UCZ8S3qwowiFztAQBRTawWfA.m3u8?playlist=spiritual-hindi
 
@@ -32,6 +44,9 @@ https://ythls-v3.onrender.com/channel/UC1vJ4RlWSHP6n0xL2G1tkYQ.m3u8?playlist=spi
 
 #EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/yDKVE1WsdaNqdYKl_MzTK3cnWHBBEs75IRNkXBUTxh6yLcFbKPCA6vx6np7HrEGefUMhYAP_sB0", Kartavya TV
 https://ythls-v3.onrender.com/channel/UCvbCPonBNwpRD8e77MPj8cA.m3u8?playlist=spiritual-hindi
+
+#EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/Vb6PMnenKucPz85V0GCcbX5G1qM4yQYNcdZYnFfFZCMQe02gFHZMUCXv9crICjVnW0tpWK6Viw", Krishna Bhajan Live
+https://ythls-v3.onrender.com/channel/UCdIR0Koo7rnucpMqxqqUYGg.m3u8?playlist=spiritual-hindi
 
 #EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/ueCHN3UJUO7QGvsknfIFCWEQLgBDqCijHXeYHYh1kLJ4wvpxqErOH65rvrCP-G3YWDX6k_YzRA", Om Shanti Channel GWS
 https://ythls-v3.onrender.com/channel/UCUcvsN9Jqc4RzVvMlJ1y_FA.m3u8?playlist=spiritual-hindi
