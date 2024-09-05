@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/X7sGlHvio2GzlJEFT9ApB32APpzyWW7Qa3vMk1gawf2zcKCNO5g8kUBUwcSoBy4pceRhvp1d0Q", (Love Live! series)ラブライブ！シリーズ公式チャンネル
+https://ythls-v3.onrender.com/channel/UCTkyJbRhal4voLZxmdRSssQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Kids (Arabic)" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m1rybWNIbA345IER0Wswzas1Hw2I5l5Qibd79XrlhysYE", (السنافر) The Smurfs •القناة الرسمية!
 https://ythls-v3.onrender.com/channel/UCBZLg-ixSGqEjh3ld7nSwLg.m3u8?playlist=index
 
@@ -8975,6 +8978,9 @@ https://ythls-v3.onrender.com/channel/UCkwbN2a1L1H6P9rcA7FhAqg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Spiritual (Portuguese)" tvg-language="Portuguese" tvg-logo="https://yt3.ggpht.com/9GsuN0RGci3EiS8A7QsN3KBSEpIx4ZsOiiErAVRSIGmOAAGMvtYdTHLuSlKgQfd7CEx4kE6_YQ", Vatican News - Português
 https://ythls-v3.onrender.com/channel/UCGYSq4b4DXmtK4jyq6r-FYg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/jVjHVSg8jvGBwwW6rpYWkeLYLswga-hYH760mAod_Q4Gvh-EBdynHKB5A6z-N7Qr_pJ1nBN1eyY", Vatican News - Tiếng Việt
+https://ythls-v3.onrender.com/channel/UC1HuzI97H8M5bI3Wl6wKdvA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Spiritual (Hindi)" tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/mTU7zCy_MJ3rJYzZWdK5oEhshGd9hiV-e623Rn4UriAwwRudyo6j7kGo4HFgDwgJpn7c4nlTtA", Vats Bhakti Geet
 https://ythls-v3.onrender.com/channel/UChqurhe2_-KeXIkXtmHWH8A.m3u8?playlist=index
