@@ -5430,9 +5430,6 @@ https://ythls-v3.onrender.com/channel/UCtvsljLC4qHFdI4W9GmQPcA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/GXT4nNQwo_9FkCjTw-Prcuy1ABOJHKvA3_E_aJHPIxDdAb5wf3Tewp6gkB91swFAH9bba3z44-Q", Nature SFX
 https://ythls-v3.onrender.com/channel/UCFmw5kSI-ltJZHRwelcIvvg.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/1vc45cvAnfdRgsUzzPA8pRJ1rscPIeMXFu27b06UdC5C4sSqs_cvA3sknuYF89eaH25fOAJ7_Ek", Natures Wonders Live
-https://ythls-v3.onrender.com/channel/UCZGzBEPt4uJa903WP4zC-0Q.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nTlZ34GrMelr3mHb9Rt89GtLqPFooEDPE9pHoqTdQV-WM", navo.tv
 https://ythls-v3.onrender.com/channel/UCJulUprbsYQg5oDfmAnAtwg.m3u8?playlist=index
 
@@ -9095,6 +9092,9 @@ https://ythls-v3.onrender.com/channel/UC8KnlXI3YAkOZfwMgxb1lOg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/f7NIUt7aBzt-JB7G8Fffg5FumAqwuBNSUkUz68dh5NQVEN7MYyy7qDhxA2pM8d1nyGtdxWThcw", VOICI L'HOMME TV Officiel
 https://ythls-v3.onrender.com/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/1vc45cvAnfdRgsUzzPA8pRJ1rscPIeMXFu27b06UdC5C4sSqs_cvA3sknuYF89eaH25fOAJ7_Ek", Volcoholics
+https://ythls-v3.onrender.com/channel/UCZGzBEPt4uJa903WP4zC-0Q.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m8ONFvfrA-jEbjsxmDy5ckUYcNGsmR0umTh2Uo", volinesia
 https://ythls-v3.onrender.com/channel/UCX8ulKB5VAcVB5ACKKrgN4g.m3u8?playlist=index
