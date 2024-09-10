@@ -33,9 +33,6 @@ https://ythls-v3.onrender.com/channel/UC2sloW3tudsSaEpxiqd9hTQ.m3u8?playlist=ind
 #EXTINF:-1 group-title="Craft" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZKbTGe8CA-KZuRC9tuLhZuDcR8Zvsj3jYIHjfONOxfqY-U0IyTtkIZBlGgBsgyCQxatkNW26xw", 123 GO! Series
 https://ythls-v3.onrender.com/channel/UCpCVVGz-2XCYmXWzsNf5tpw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Nature" tvg-language="" tvg-logo="https://yt3.ggpht.com/s9P3iMyiLx-zU_fRrjl5KEWvA2a4O6PkS9QcMUBsHMwcgebsUBcHfPEHRes_grRTVYqEIsvdGA", 12K Scenic Relaxation
-https://ythls-v3.onrender.com/channel/UCDG3PA6FkeNjCG8KzbQsOQA.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/V3rQmL6b5p0xtM-j-m_Obpvvq9TwPKWUMDcXn11SsCOoNfTzhNw4qlK05ukU0GwSet_uwxk-pQ", 12K UHD WORLD
 https://ythls-v3.onrender.com/channel/UCBfGoFRkYgHuzbc6DsF_1LQ.m3u8?playlist=index
 
@@ -9482,6 +9479,9 @@ https://ythls-v3.onrender.com/channel/UCyv_Dr7XjzSFpN67stIKNxw.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/iShEISHMEnfDelHSqt5-q2BSVz6iqrJw1AoFt5N0gzWFQQYUdzW5EhjG2utkOqaHq1Nb7Bys", Z-TV
 https://ythls-v3.onrender.com/channel/UCTZWNKxJnGzxu8g3oT1hTWg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Nature" tvg-language="" tvg-logo="https://yt3.ggpht.com/s9P3iMyiLx-zU_fRrjl5KEWvA2a4O6PkS9QcMUBsHMwcgebsUBcHfPEHRes_grRTVYqEIsvdGA", Z. Heaton - Scenic Relaxation
+https://ythls-v3.onrender.com/channel/UCDG3PA6FkeNjCG8KzbQsOQA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mtv0rUU7KNMuqWidmfk5ugUqFe7CHI4IKenj-R2lF7t6M", ZaadOat Studio
 https://ythls-v3.onrender.com/channel/UCXGnVLz06P_LkxuSqX03TAQ.m3u8?playlist=index
