@@ -7911,9 +7911,6 @@ https://ythls-v3.onrender.com/channel/UCPvs-mrFpJ5MYV6FeAtvc-w.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/X4k4aiTxXAZK344xYPK6rP3G1SAY4qx4y3h2_B8yfik4E95NB0V7Ix1ghqLnsFs2CrB7GP3qtg", Taiwan EBC News
 https://ythls-v3.onrender.com/channel/UCR3asjvr_WAaxwJYEDV_Bfw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", Taiwan SETNEWS Live  Channel
-https://ythls-v3.onrender.com/channel/UC2TuODJhC03pLgd6MpWP0iw.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/7oHDLfe2OmUa1JKmmkZNDMKE05gOuz8zWXpNGhg2JxhOfBNX0eAfJ6r3_Qa9MPzBdX3rvivF", TaiwanPlus Livestream
 https://ythls-v3.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8?playlist=index
 
@@ -10163,6 +10160,9 @@ https://ythls-v3.onrender.com/channel/UC1Wp3qfvlq1GybWL6C85jSw.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZdGT0pzlpBUdyvQN-2MtuDPe0_Bclv1JSv3LbIub8TAofAE_xL7SxyBbSCZYnJjpB9hV2ncl", 三立iNEWS
 https://ythls-v3.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6", 三立LIVE新聞
+https://ythls-v3.onrender.com/channel/UC2TuODJhC03pLgd6MpWP0iw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/nI0wlG4cnLqN8m6xoPAOJH9CoGVrwwlONr3M-0xzCRw7OckieIU4zM6X3zAuLFgqrDGczGwakWI", 三立華劇 SET Drama
 https://ythls-v3.onrender.com/channel/UC0Bp71S54Jsw9XsapPoUVFQ.m3u8?playlist=index
