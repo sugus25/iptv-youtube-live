@@ -3702,9 +3702,6 @@ https://ythls-v3.onrender.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m9yDaUpS9fkJJriwJBVQ-HmdkzIWaShxIunaX44tFbQO4", Hunat TV
 https://ythls-v3.onrender.com/channel/UCs9txwkB_q2Yq-7sEPL0Vkw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/azNvNosTS2Blh5zkHqWpqJUkCXFG-Zedom1qZKc65H8-PTqwJUsGUZInd_LY94seQkGoml0b", Hur TV
-https://ythls-v3.onrender.com/channel/UCcqzDkOHROItrMMcC9wva3Q.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/SnBF4elHlnS327lBAhTw-ey-YMziYUth1GW8KqXJuGybvrnBll44ky0aOa0ovk-eglKre5_za6w", Huy Tuan Media
 https://ythls-v3.onrender.com/channel/UCHhxEF4JiijCXiLpMiOByGg.m3u8?playlist=index
 
@@ -3722,6 +3719,9 @@ https://ythls-v3.onrender.com/channel/UCls_EBAwd14tA-yRVQmH0Ww.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_liDcA7viiDFLXVRdBs_QTaxKkYR9eb6HuvLBoGPFDpmKg", Hír TV
 https://ythls-v3.onrender.com/channel/UCAvx9uxtvhnxNpnjutUei5A.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/azNvNosTS2Blh5zkHqWpqJUkCXFG-Zedom1qZKc65H8-PTqwJUsGUZInd_LY94seQkGoml0b", Hür Asya TV
+https://ythls-v3.onrender.com/channel/UCcqzDkOHROItrMMcC9wva3Q.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nqxtdLRw9k97zXMr70yhLGPThOlEsft_SIZ0553PFacnE", I Love You Venice
 https://ythls-v3.onrender.com/channel/UCMpn1qLudF-zb4M4bqxLIbw.m3u8?playlist=index
