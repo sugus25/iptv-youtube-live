@@ -1887,6 +1887,9 @@ https://ythls-v3.onrender.com/channel/UCkTCNuQ2mGfW6-SpHpaze_g.m3u8?playlist=ind
 #EXTINF:-1 group-title="Sports (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mqLZgio6S4MJBEEABW9VzezGwibvmm6MyOKzhCgmkM-g", ChessBase India
 https://ythls-v3.onrender.com/channel/UCIsEhwBMPkRHsEgqYAPQHsA.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kEpXGzt3yiLRabrjqkppFTbdHiBGQo_3ljlB4HzNoaoRM", Chilevisión
+https://ythls-v3.onrender.com/channel/UC8EdTmyUaFIfZvVttJ9lgIA.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/f_0nh3pN7GbYA1YwkuEQjX1_lRLD9ZUk3EjexYSPuOiqN298ScOcNVgGFU-AHZSmg1Yy4diG", Chill Music Lab
 https://ythls-v3.onrender.com/channel/UCwVQIkAtyZzQSA-OY1rsGig.m3u8?playlist=index
 
