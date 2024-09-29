@@ -441,6 +441,9 @@ https://ythls-v3.onrender.com/channel/UC_yXEx3-Gk5drg9qhPzSQSg.m3u8?playlist=ind
 #EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/3fbjZ6CAJl7Y7ii8qo0C4VEd_zcsC3-zrB0Nw5MW--VZmga15wtwwTBmePBRAPl3vCSFRoQq1Q", Al Jazeera English
 https://ythls-v3.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8?playlist=index
 
+#EXTINF:-1 group-title="News International (Arabic)" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/95qHtOgBMsPaDUwAAacr9DDr8jLTg5LcguOQepnAOw4MJDdLG0k164rs8TjdEUThfcssJ3YgoQ", Al Jazeera Mubasher قناة الجزيرة مباشر
+https://ythls-v3.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/rlixNsiHA4_QEdKNGuAjORhKrPCvzxJ2vuFKKl4dixtPIxQVcXqLOhc5IAqQn5ZOKEheZ56dfw", Al Khadimiyyah TV
 https://ythls-v3.onrender.com/channel/UCqbQTS505CVDNNmPI0KwoYA.m3u8?playlist=index
 
@@ -512,9 +515,6 @@ https://ythls-v3.onrender.com/channel/UCKos1CTDZxCL63jSfGjUXQA.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="News International (Arabic)" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/LViWsQpkUN7p22xcW5kPzWai-HzWlaszpsEP3jQjnIyXi2G_gaZz7zosE1_vNOPrrdvzKYEryA", AlJazeera Arabic  قناة الجزيرة
 https://ythls-v3.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8?playlist=index
-
-#EXTINF:-1 group-title="News International (Arabic)" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/95qHtOgBMsPaDUwAAacr9DDr8jLTg5LcguOQepnAOw4MJDdLG0k164rs8TjdEUThfcssJ3YgoQ", Aljazeera Mubasher
-https://ythls-v3.onrender.com/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Music (Korean)" tvg-language="Korean" tvg-logo="https://yt3.ggpht.com/rt1bDWIkFPoQblyNJnQsf1LisM9i88QKRUU-NZu9fmQ0ogyLvUVVUJe1ufaEN0E8DiZk2RgYwg", ALL THE K-POP
 https://ythls-v3.onrender.com/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8?playlist=index
