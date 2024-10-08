@@ -693,7 +693,7 @@ https://ythls-v3.onrender.com/channel/UCGxFB7iKKAVTNGQtHxfjIsQ.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lMkIi__J19L1zgnDIERMmOYfmiouWalzhMjY0sp4iK4g", Bazylika Hałcnów
 https://ythls-v3.onrender.com/channel/UCCLjkP90dJSqG8ksIn9sENw.m3u8?playlist=ungrouped
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_knLAfuGnuwQH0ILPRoZzWWwdkCxxaGb_2K0tqrGcVA324", Bazylika Pszów
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_knLAfuGnuwQH0ILPRoZzWWwdkCxxaGb_2K0tqrGcVA324", Bazylika Pszów (Parafia NNMP w Pszowie)
 https://ythls-v3.onrender.com/channel/UC2yRQAn3eXbBjO7zOQmde2g.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/63oBh0EB7AXSsv_zZfEiz7YJIe9anqcM-IEap331_u9AM4IJb-RIM29WBOYZikHz2hD5htJx", Bazylika św. Antoniego w Rybniku
@@ -2459,6 +2459,9 @@ https://ythls-v3.onrender.com/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8?playlist=ung
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nHB3lxXh8PcGgMTgBPmFKovSbKRxBTavrjbjomHTg1HpFp", franceinfo
 https://ythls-v3.onrender.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/zkel8f5ypciKHnmXwofWUywrUhhkaGOF3z6sX_B9p_rT7QN7TfZF7T2_jNnJDrINLGuwu2As-w", Francis Higgins
+https://ythls-v3.onrender.com/channel/UCwDf5MzuhJlo7dtSPOlXkXA.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/OqAHHeiogNgJrbYl6kCwXRTqv0EVDins6QKeR1uQvV7aCuMU0i4rO5WTIqdfteDvJOT7YD8As4o", Frecuencia Paranormal
 https://ythls-v3.onrender.com/channel/UCvJpJyvx6t0Z8gSQvKCqoUg.m3u8?playlist=ungrouped
