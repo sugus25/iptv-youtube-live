@@ -756,7 +756,7 @@ https://ythls-v3.onrender.com/channel/UCE2oY4S4wOu6WofU2YbfWsw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE", ARZU FİLM
 https://ythls-v3.onrender.com/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ffwXUi1iCce2gIgW5-qBUd9exLKmcoXzuj47mUvS_jLPAK1Pe5uX_S5Qy5JVHrpduvrYgksxUw", ARZU FM
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/-7ZdtPXTbxkpuk1gaGh-PZpCFuNZ8UdykqpvX17aAdzWXb_8GdpC4kIKwPCF31waVGteRkE2", ARZU FM
 https://ythls-v3.onrender.com/channel/UCuZ1SWFeoKMN9KmbHf4SWVw.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kNcqq9BovIuOsS78M_W_MB4EJDE7GlQ18UpDyqU0_GEw", As Aventuras de Sunny Bunnies
@@ -1521,6 +1521,9 @@ https://ythls-v3.onrender.com/channel/UCFGIPvN1dMn4Bdo8B8WWPDw.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/uRTY_eREkTQUEbazeoqOh0RhNNcgsag-QkBmT3lO94yy7LbvNk_lPgZtAnHryirJR6dXRV8p8Iw", Campeones TV
 https://ythls-v3.onrender.com/channel/UCQtJCkHdO66sKxvfD8Ik_bg.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/mkPASTj9ecp5l33D8rcDZg_T59cLZTU_h98r-82ELhFYjUYVhZ5HmdKPHvBgi30Su4C2qjxgxEM", Canal 10 Córdoba
+https://ythls-v3.onrender.com/channel/UCUzonpa3XKurQVycdMY70XQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/tGe0VH_w0ptumT8Z-BY7U2fxxCNEtIsf4Tb8kOaoCJb5h5TRy78e_MWBc2CXO8bKWkCqCJGZuRA", Canal 10 Río Negro
 https://ythls-v3.onrender.com/channel/UCqcRu9coKWnbrr1Ooj354PQ.m3u8?playlist=index
 
@@ -1787,9 +1790,6 @@ https://ythls-v3.onrender.com/channel/UCC-2eYzh7XOOYm01Wec1B2w.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/XiDI4jKrS7jiTTMpQPVnjQUwiZlMmW-5uTqY8L2-2rFzijy16o2QsHvvF3JVrNBNzHqlIYbIag", CazéTV
 https://ythls-v3.onrender.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/REdulLjzgxpdHlujUeTpflyzAWwGDEmYNpDh5zyKqNwOCHXvhJBgYFv0OIGVaqb6MrIrrik2Ig", CBA24Ncomar
-https://ythls-v3.onrender.com/channel/UCUzonpa3XKurQVycdMY70XQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/APkrFKaWN9DljTFS6EKYW3BXQ03P7Z1v-pfC1DW0V2MeUQ", CBC Live Stream
 https://ythls-v3.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8?playlist=index
