@@ -1305,6 +1305,9 @@ https://ythls-v3.onrender.com/channel/UCu7fTMa7aKHCdUZObgdkraA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mQajRZ_lOUY3N7suej4JQbe5dk6jKd7X8Dx61F3GCQw3k", Blue's Clues & You!
 https://ythls-v3.onrender.com/channel/UCjZo1E1P6wDDyw6ImVgKM-A.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mvZfIq7VtV0cqo7xVOffZmhCAtQBNT1-TaU97gIZq7DA", Bluemist
+https://ythls-v3.onrender.com/channel/UCYfRhVI02Qa_zdFhYEwvENw.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_krKnP2u8Kh903iscoEwVINnCQjk5iqg2S8Gn6oEWpVJA", BM&C NEWS
 https://ythls-v3.onrender.com/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8?playlist=index
 
@@ -2093,6 +2096,9 @@ https://ythls-v3.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="News Brazil (Portuguese)" tvg-language="Portuguese" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lmJE_9aX-lvy2eliMO5ejbko3mQVM6Ecf79AR8pQFMcV8", CNN Brasil
 https://ythls-v3.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/UoeAWCzWpjcO50Tut623q3Zc2LiDzXX1NI0Bllmu5AVCzDH63XpXQXJSgsEt-zn2Ply5W4SFAw", CNN Brasil Money
+https://ythls-v3.onrender.com/channel/UCqfm5IQhpMlfeAWMmVL_uNg.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News Indonesia (Indonesian)" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/Y5NY2WFXLWKE5krXFfqXecZpfiwdzlcrmW0kKMaoGOgVgFddSZxbYLH3BDJW6J-ePsLaqdIhng", CNN Indonesia
 https://ythls-v3.onrender.com/channel/UCKII0Ml9S5wneKbHswmUrIQ.m3u8?playlist=index
@@ -4443,6 +4449,9 @@ https://ythls-v3.onrender.com/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/jLtUBolohoXYmDNg8HHjTjOXTph9YNZ1OJlz_I3_9P15fY9jGrVjg3wFX_v2fTCP6BLrV_r9dQ", Kairali News Live
 https://ythls-v3.onrender.com/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/GjgCARdYLofdEj-kJ7Alut02aCwKFTG-G5YRE72caqJvA0ddx9RNCRqzy5jBZiTkBCTk878g", Kalaallit Nunaata Radioa | KNR TV Streaming
+https://ythls-v3.onrender.com/channel/UCIjOAtv53RHerlfl98fZmcQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/SgCGxhGGb02joj3hYvxoDKDXl4B1ryc9wMafxW-ZK5pGzJvMTmJ0GevSkCgbJIxXqJh1RAgg4oE", Kalaignar TV News
 https://ythls-v3.onrender.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg.m3u8?playlist=index
 
@@ -4640,9 +4649,6 @@ https://ythls-v3.onrender.com/channel/UCVX_4LoUm4mdZBPdpMJkkSQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kgvmokMYPVyBsHt5HllumTnnmyHBCzmd-S5GbJNFDW2g", KNR Nutaarsiassat / KNR News
 https://ythls-v3.onrender.com/channel/UC6D225YIMCwVBiBktEeV-vQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/GjgCARdYLofdEj-kJ7Alut02aCwKFTG-G5YRE72caqJvA0ddx9RNCRqzy5jBZiTkBCTk878g", KNR TV | Kalaallit Nunaata Radioa,  KNR1 KNR2 LIVE
-https://ythls-v3.onrender.com/channel/UCIjOAtv53RHerlfl98fZmcQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lFnKhN6CSwnkENXitAT0XO69MuvdlVyez8IIcyQu4QEg", KolbeParish OMI
 https://ythls-v3.onrender.com/channel/UClQw4HC6SSL94PeoFKQzb3g.m3u8?playlist=index
