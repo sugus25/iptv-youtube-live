@@ -5838,11 +5838,11 @@ https://ythls-v3.onrender.com/channel/UCSUu1lih2RifWkKtDOJdsBA.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/YFuSni2z6e_LpLsHt2Nm696YFQ1Al6QEYK9utBInH1RM9bzR6qtku7LtWZ2TdRUeDHScsRd0rA", Nastya Artem Mia ESP
 https://ythls-v3.onrender.com/channel/UCLt9LS1IhrRuPIdsnzc21qQ.m3u8?playlist=index
 
+#EXTINF:-1 group-title="Nature (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/brfj3nGEmUsJuqO3uL18jSa4VO-Q6gVKuYyn5_ZP8GEzxn3cyBiHtkojqoSN320f2vpfpi9kBAg", Nat Geo Animals
+https://ythls-v3.onrender.com/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Kids (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/OsILVN24vcOj1TCJAy15Z_TFY1eYnDVj3EMnQIv5TreYmskDhtVn1Sz1IeBjoexUxjmXgKdO2Q", Nat Geo Kids
 https://ythls-v3.onrender.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Nature (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/brfj3nGEmUsJuqO3uL18jSa4VO-Q6gVKuYyn5_ZP8GEzxn3cyBiHtkojqoSN320f2vpfpi9kBAg", Nat Geo WILD
-https://ythls-v3.onrender.com/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kwtcp7oL4WjeUETmMUe_kWXJWyzQvj0gzVgRvR0vHo1A", Natagala Chaco
 https://ythls-v3.onrender.com/channel/UCrqnIMFEqxDmO8PL3xkGHpg.m3u8?playlist=index
@@ -6209,6 +6209,9 @@ https://ythls-v3.onrender.com/channel/UCnFgq4Ara6A2a_8kpTvivLQ.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/p5gWiVaD22vPnnolMW0iLOTobZbYtYmDA9lPwNrJMcadnrEuzLJjOeSn073kxI2pIkIXShNz", Nokta TV
 https://ythls-v3.onrender.com/channel/UCQuaIes9sMK8Z0VAZsVsvxQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/h_FvxPmQG-OSCcy31JThKhlfoprDvZiNlk_JquNoN2sLjnXCae7xmg0wipUx5TuZQAQJMv6E", Noor-E-Islamic
+https://ythls-v3.onrender.com/channel/UCcj-hHUc1Gu2nb_mqIP6KQQ.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lzHtgaL620i_RrZEsYrphFLhd7DzwZG8lnGl1vptIw0IM", Norway Live
 https://ythls-v3.onrender.com/channel/UCgAmmVZsZ4vfDH-vtWawaOg.m3u8?playlist=index
