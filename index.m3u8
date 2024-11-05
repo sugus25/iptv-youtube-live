@@ -4662,9 +4662,6 @@ https://ythls-v3.onrender.com/channel/UCZJXR4VXvJ4GPd4y0GJcUYg.m3u8?playlist=ind
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_l3lXImXpZ36G8MPu61fX19n2XHa9OZmvBIuEyNQiwvvDU", KOMINFO MMC
 https://ythls-v3.onrender.com/channel/UCEe1ees-scoEkTQv3he9PJw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZZwmMSe_R7EnHu11EEzYXs2NSZPS0QykwWtC7fWI70xXjKUTnjvIj8otm2fAijo_Vo6xFQZ1Pig", Kominfo Newsroom | GPRTV
-https://ythls-v3.onrender.com/channel/UCn-Ex0zXXTVElhMr12o0zwA.m3u8?playlist=index
-
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ipvBNJREJPGYHgqEoMIsMOLPObWu1oD7C8TGIIVrAx-xHFqLjbB0jjDeFZZGjcDdyLeYeQZ2dWs", Kompas TV Medan
 https://ythls-v3.onrender.com/channel/UCJsvXpOXUoc_0-hjwbMUzNA.m3u8?playlist=index
 
@@ -6086,6 +6083,9 @@ https://ythls-v3.onrender.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/fXgXYq-vfZapJMvkRQ2k6L1vj4Zd2J97zKXlsc6G95LdIyfH3PI8o-QPreIbPOkEE0B63i1vNdU", Newsmax
 https://ythls-v3.onrender.com/channel/UCx6h-dWzJ5NpAlja1YsApdg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ZZwmMSe_R7EnHu11EEzYXs2NSZPS0QykwWtC7fWI70xXjKUTnjvIj8otm2fAijo_Vo6xFQZ1Pig", Newsroom | GPRTV Kemkomdigi
+https://ythls-v3.onrender.com/channel/UCn-Ex0zXXTVElhMr12o0zwA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News India (Tamil)" tvg-language="Tamil" tvg-logo="https://yt3.ggpht.com/YMbzihGGFcyiQE1PLZgBpgnMukFcDv28Mi63kk7AVXwQMNgYsSNXKY56dWbmjJmwToJV58oO", NewsTamil 24X7
 https://ythls-v3.onrender.com/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8?playlist=index
