@@ -1932,7 +1932,7 @@ https://ythls-v3.onrender.com/channel/UCOvTt3b378hpuUXgb46UdMQ.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/wi5ssqC3z4N_-9bxsl6gi1ZAqOFeSHfNpgV17Gs1nvk6U631zQ6x5FEa5YWnh6rsh75Szzqu", Diyanet Çocuk
 https://ythls-v3.onrender.com/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8?playlist=ungrouped
 
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kg1PXkb5IvOoU7c2haUmoWIPg20lNNFb-jk8qkh4PQ3_4=s176-c-k-c0x00ffffff-no-rw?host=yt3.ggpht.com", DiyanetTV
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kg1PXkb5IvOoU7c2haUmoWIPg20lNNFb-jk8qkh4PQ3_4", DiyanetTV
 https://ythls-v3.onrender.com/channel/UC3d1AdmvAP6Jq16-WpD086g.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/fhEPBRzTIGm7uFV3LZesDiMFXn176uZicAXThuUej3NwqRNx9IoQNadJcjgLj6USj1yXyVYh", Diário TV Teresópolis
@@ -4700,6 +4700,9 @@ https://ythls-v3.onrender.com/channel/UCLfgtQY_Dw4GvMex1yJoTdw.m3u8?playlist=ung
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/Vnu7uhwypwylqgfJekim2yO6hD7IsfKdC0OzFeX94SHdKjvXRN963Nr9-StlWoSXGRqDpYiMhQ", MRO北陸放送公式チャンネル
 https://ythls-v3.onrender.com/channel/UCF5te9Y8oBT7oVJNyQkhWWQ.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/cexkusY_WDfoU04VaLRfZkPpwaFsopQ43v_g-6Na1U2eO-HV6J1pe3iEx5BI59tqqZou_zOeQw", MSNBC
+https://ythls-v3.onrender.com/channel/UCaXkIU1QidjPwiAYu6GcHjg.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_ls6Jl46WZTuSS9ofrvjuFygq29VOG8yfnWYa3y5XWFT6k", mtaOnline1
 https://ythls-v3.onrender.com/channel/UCW4QTka08QOHRNxKcJLEuUA.m3u8?playlist=ungrouped
