@@ -1851,6 +1851,12 @@ https://ythls-v3.onrender.com/channel/UCes8eFYckw9HX65cyX461TA.m3u8?playlist=ung
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/y9TCVhkP7P3t4Ff3GEnW8RKslTf1_i1sGA4IG5TtUkKcsTJ6HTcvEYQEWfjTcGR4MdIegCxRd1Y", Deep Atlantic
 https://ythls-v3.onrender.com/channel/UCqpgkc2_06sFf0StsAoqfEg.m3u8?playlist=ungrouped
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/AwN5ocLYnRXWGQU2zupsUoF5vt7DQcseojMLo_v7GfQ29fSFST7KCaxXY3bEn6VLsgHqwKOeWw", Deep Blue
+https://ythls-v3.onrender.com/channel/UCO0QmlhBypNZ62weotFyjig.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/C6Y-VsMshCzBsAuMZwfZBsE80-bkpGROozBkBb-tqaNlKLbszzzfF3BrVUnibDXUdZ3L8uq7", Deep Radio
+https://ythls-v3.onrender.com/channel/UCDACr1omNkb4aZ3z348ym5Q.m3u8?playlist=ungrouped
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/jBnwtqGYKrHlW8ma_HRzmGYf-1ASOJ0j1SDBEoYSzc5zKzB8brEDbsu6P9kfkIKNDreORC4QlA", Deep Television
 https://ythls-v3.onrender.com/channel/UCnwZEEGvmLqoLFDnQJB5Nrg.m3u8?playlist=ungrouped
 
@@ -4031,6 +4037,9 @@ https://ythls-v3.onrender.com/channel/UCEIY49fs3lX_xh35b0PBmuw.m3u8?playlist=ung
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/hqGlsrTDFiXLnv8Y5YnxCJiaAngXkk9q2RVFHQFQadK1iu34WltPzMZJJ4fbNgumqT8XnqoHww", Lagu Anak Islami
 https://ythls-v3.onrender.com/channel/UC3YnOPbkGd5gQUb8-B5I9qQ.m3u8?playlist=ungrouped
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/qSKGNMbnBiCQvGOZEUk88vL7ad2kitaItDS2cvMnUqcO9f6ozoD3NmdEe_pQyEu0kEQ9-qPAFJw", Lagu Terbaru
+https://ythls-v3.onrender.com/channel/UCBUYQs0qyIqNX0PvtTOQORQ.m3u8?playlist=ungrouped
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_l_OtL7hx23HAh4sLCulRWKXd0VdYHhCV7Ov-eCRL_vKd4", Lahore News HD
 https://ythls-v3.onrender.com/channel/UC0CbUVRC1d1RvunYbp3w2qQ.m3u8?playlist=ungrouped
