@@ -3075,7 +3075,7 @@ https://ythls-v3.onrender.com/channel/UCU1i6qBMjY9El6q5L2OK8hA.m3u8?playlist=ind
 #EXTINF:-1 group-title="News International (Portuguese)" tvg-language="Portuguese" tvg-logo="https://yt3.ggpht.com/HQD80ch4HMyp3DqbFUKUFu_xfK6lcyjL6IvW8WEvDEVcavxtkfpxiYwoNURUJs8pJ9sBUDX-", Euronews em Português
 https://ythls-v3.onrender.com/channel/UCUmEPYxmnyQDeRUcFkslmQw.m3u8?playlist=index
 
-#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/43DY5UKf4lgwOXHreHGnbCYBQIA31AGwhYcFBbkqKj0YDbhTgFMkM0X7-EGI8SukBnppdJTt", Euronews Romania
+#EXTINF:-1 group-title="News International (English)" tvg-language="English" tvg-logo="https://yt3.ggpht.com/MiPdyVCB37dZ-VDUHKW2UByOc_QFg92qGxQCvB6COcOvCZm2m9F6znVSAlBsSUc1YMht7O7d", Euronews Romania
 https://ythls-v3.onrender.com/channel/UCbATDExtWstHnwWELZnXNZA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="News International (Russian)" tvg-language="Russian" tvg-logo="https://yt3.ggpht.com/VG-hWBSY602L8iSO2Q8_OVn5dhF1oU4BXxefzHt1LroWit79aJ8kEYqG6zGqf6UuUP3w8npd", Euronews по-русски
@@ -6281,6 +6281,9 @@ https://ythls-v3.onrender.com/channel/UCNOhkH_rCIj8KiVrlGpga7Q.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/y6fil5-OINOjqxq4V_ENiRYYYT8RPuLEv2p2XBNFgOCiRJdgfsqksnldnSBsaAqpwPsxDN6sJD0", Nexus Television Live
 https://ythls-v3.onrender.com/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8?playlist=index
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/DR8D2GkxUWn00oiwZ8W71_Y-JmTvwQoZfgqZULAIyXgvn-TXyHU9c3YM-68qCUz0es3sZbocWa0", Ney Defteri
+https://ythls-v3.onrender.com/channel/UCPbF_Rx676B-Smf7BDZ6nRA.m3u8?playlist=index
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m9YDtPWqgZW91_-QTdsVWLbnR0ZQ1BaHX38ZcSRVGnfd0", NHK WORLD-JAPAN
 https://ythls-v3.onrender.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8?playlist=index
